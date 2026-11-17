@@ -1,6 +1,6 @@
-# worldTransits
+# Transits of the World
 
-A catalogue of the world's city rail maps, intercity lines and ferries: official
+A [catalogue](https://xuanx1.github.io/worldTransits/) of the world's city rail maps, intercity lines and ferries: official
 network maps, every line's track and stations, timetables, and a schematic world
 map of drawn rail diagrams.
 
