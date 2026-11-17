@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kurdiumivka-krasnii-liman-izium","identified_as":"Izium – Sviatohirsk – Lyman – Siversk – Bakhmut – Kurdiumivka line (Donetsk railway), front-line area.","status":"No passenger service: Kharkiv – Izium trains cancelled since 10 Sep 2026; trains towards Lyman/Sloviansk/Kramatorsk cut back to Husarivka/Barvinkove since Nov 2025; Bakhmut area occupied"};

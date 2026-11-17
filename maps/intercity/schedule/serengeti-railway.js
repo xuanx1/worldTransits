@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"serengeti-railway","identified_as":"Serengeti Express / Serengeti Railway, park train at Busch Gardens Tampa Bay.","status":"Amusement-park ride (not public transport)."};

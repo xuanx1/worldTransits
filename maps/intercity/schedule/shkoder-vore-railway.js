@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"shkoder-vore-railway","identified_as":"HSH Shkodër–Vorë line (northern main line).","status":"No passenger trains running (late 2026)"};

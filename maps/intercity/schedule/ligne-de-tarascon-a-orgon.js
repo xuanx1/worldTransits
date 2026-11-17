@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-tarascon-a-orgon","identified_as":"Former standard-gauge line Tarascon – Saint-Rémy-de-Provence – Orgon (Bouches-du-Rhône).","status":"Closed to passengers (Saint-Rémy–Orgon 1937, Tarascon–Saint-Rémy 27 Nov 1955); abandoned; Saint-Étienne-du-Grès–Saint-Rémy now a greenway"};

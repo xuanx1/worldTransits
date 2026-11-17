@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-grito-de-yara","identified_as":"Vado del Yeso – Grito de Yara branch (Río Cauto, Granma).","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

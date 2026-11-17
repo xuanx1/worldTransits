@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"金城线","identified_as":"金城线 Jinzhou (Dalian) – Chengzitan, part of the old 金庄 (Jinfu) railway.","status":"No passenger service (6333/6334 suspended 9 Apr 2015)"};

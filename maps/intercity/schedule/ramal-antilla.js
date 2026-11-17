@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-antilla","identified_as":"Alto Cedro – Antilla branch (Holguín), used by the Holguín/Santiago – Antilla trains.","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"laihe-railway","identified_as":"Laibin–Heshan railway (来合铁路), Guangxi.","status":"Freight only (coal railway)"};

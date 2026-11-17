@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"skunk-train","identified_as":"Skunk Train (Mendocino Railway / California Western), excursion trains from Fort Bragg (Pudding Creek to Glen Blair Junction) and from Willits (to Crowley).","status":"Heritage / tourist excursion railroad (round trips only; no through Fort Bragg - Willits service)."};

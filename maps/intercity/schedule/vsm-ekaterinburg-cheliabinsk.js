@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"vsm-ekaterinburg-cheliabinsk","identified_as":"Planned Chelyabinsk – Yekaterinburg high-speed line, never built.","status":"Planned, not built (project frozen since April 2020)"};

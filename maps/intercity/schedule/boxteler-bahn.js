@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"boxteler-bahn","identified_as":"Boxteler Bahn (Boxtel - Goch - Wesel), here the Goch - Xanten area section.","status":"Closed; passenger service on the German part ended decades ago, last Dutch freight section closed 2004"};

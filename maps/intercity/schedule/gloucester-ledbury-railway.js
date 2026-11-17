@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"gloucester-ledbury-railway","identified_as":"Ledbury and Gloucester Railway (Ledbury - Dymock - Gloucester).","status":"Closed: passengers 1959, goods 1964"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"北环进港线","identified_as":"北环进港线 (Beihuanjingang Line), Xingangbei (新港北) – Beitangxi (北塘西), 16.2 km: Tianjin port access line (northern ring) Beitang West – Xingang North","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

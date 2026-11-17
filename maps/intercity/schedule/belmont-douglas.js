@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"belmont-douglas","identified_as":"Belmont – Douglas branch, Northern Cape.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"trem-da-serra-da-mantiqueira","identified_as":"Trem da Serra da Mantiqueira, ABPF Sul de Minas tourist train Passa Quatro – Manacá – Coronel Fulgêncio (MG).","status":"Heritage/tourist train (ABPF; runs in 2026)"};

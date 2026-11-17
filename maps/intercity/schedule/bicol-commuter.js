@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bicol-commuter","identified_as":"PNR Bicol Commuter between Sipocot, Naga and Ligao. Only the Naga–Sipocot–Lupi Viejo part runs; Naga–Ligao/Legazpi is suspended.","status":"Partly suspended: Naga–Ligao/Legazpi section suspended since 10 Nov 2025; Lupi Viejo–Sipocot–Naga operational"};

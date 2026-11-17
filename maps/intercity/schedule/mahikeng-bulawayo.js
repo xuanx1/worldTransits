@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mahikeng-bulawayo","identified_as":"Mahikeng – Ramatlabama – Rakhuna section of the Mahikeng – Lobatse – Bulawayo railway (South Africa – Botswana border).","status":"No passenger service (no cross-border trains between South Africa and Botswana since 1999)"};

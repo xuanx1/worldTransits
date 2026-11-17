@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"都四铁路","identified_as":"Dujiangyan–Siguniangshan mountain railway (都江堰至四姑娘山山地铁路), Sichuan; metre-gauge tourist line.","status":"Under construction (Dujiangyan–Wolong planned 2027; Wolong–Siguniangshan 2028)"};

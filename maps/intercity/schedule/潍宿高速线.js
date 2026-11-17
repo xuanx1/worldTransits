@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"潍宿高速线","identified_as":"The Weifang–Suqian high-speed railway (潍宿高铁, Shandong–Jiangsu), under construction; no passenger service yet.","status":"Under construction as of 15 Oct 2026; not open to passengers."};

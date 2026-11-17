@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tejen-sarahs-railway","identified_as":"Sarahs (Turkmenistan) – Sarakhs (Iran) border link of the Tejen – Sarahs – Mashhad railway.","status":"No cross-border passenger service since the Covid-19 pandemic (freight transit only)"};

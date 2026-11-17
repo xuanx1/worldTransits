@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"las-tunas-chaparra","identified_as":"Local train Las Tunas – Chaparra (Jesús Menéndez), Las Tunas province.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains, fuel shortage)"};

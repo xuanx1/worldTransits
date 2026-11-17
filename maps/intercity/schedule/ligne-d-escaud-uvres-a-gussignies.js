@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-escaud-uvres-a-gussignies","identified_as":"Standard-gauge line Escaudœuvres (Cambrai)–Solesmes–Le Quesnoy–Gussignies (Belgian border), Nord.","status":"Closed to passengers 1939/1955; line lifted ('ligne déposée'), part now a walking path"};

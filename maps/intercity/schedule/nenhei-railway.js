@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nenhei-railway","identified_as":"Nenhei local railway (嫩黑铁路), Nenjiang – Heijin coal mining area, 174 km","status":"Freight only (no passenger trains)"};

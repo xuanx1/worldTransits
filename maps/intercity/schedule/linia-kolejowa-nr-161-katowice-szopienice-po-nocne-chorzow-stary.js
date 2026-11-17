@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-161-katowice-szopienice-po-nocne-chorzow-stary","identified_as":"PKP PLK line 161 Katowice Szopienice Północne – Chorzów Stary.","status":"Freight line; passenger traffic ended in 1968. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_161 (pl.wikipedia, read 16 Nov 2026)"};

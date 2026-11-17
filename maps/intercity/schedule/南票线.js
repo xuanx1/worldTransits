@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"南票线","identified_as":"南票铁路 Nü'erhe – Nanpiao branch (Jinzhou).","status":"No passenger service"};

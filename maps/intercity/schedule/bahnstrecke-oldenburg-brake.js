@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-oldenburg-brake","identified_as":"Oldenburg - Großenmeer - Brake railway.","status":"Closed; last section Oldenburg Hbf-Ohmstede closed 1 May 1998"};

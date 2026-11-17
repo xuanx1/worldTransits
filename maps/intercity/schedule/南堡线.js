@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"南堡线","identified_as":"南堡线 (Nanbao Line), Nanpu (南堡) – Hangu (汉沽), 33.6 km: Hangu – Nanpu (salt/chemical area) branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

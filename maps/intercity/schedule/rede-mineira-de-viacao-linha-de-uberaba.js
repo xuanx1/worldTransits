@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rede-mineira-de-viacao-linha-de-uberaba","identified_as":"RMV Ibiá – Araxá – Uberaba line (MG), FCA.","status":"Freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-mogiana-linha-do-catalao","identified_as":"Mogiana Linha do Catalão / Ômega – Araguari variant, Uberlândia – Araguari (MG), FCA.","status":"Freight only (passenger trains suppressed 1997)"};

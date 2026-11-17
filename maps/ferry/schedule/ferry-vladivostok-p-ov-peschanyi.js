@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-vladivostok-p-ov-peschanyi","identified_as":"Vladivostok – Cape Peschany (Peschany peninsula) boat across Amur Bay.","operator":"т/х «Пассат» (operator not named)"};

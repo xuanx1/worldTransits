@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rumoi-line","identified_as":"JR Hokkaido Rumoi Main Line (留萌本線), section Mappu – Rumoi (part of Ishikari-Numata – Rumoi).","status":"Closed: Ishikari-Numata – Rumoi abolished 1 April 2023; the remaining Fukagawa – Ishikari-Numata section abolished 1 April 2026."};

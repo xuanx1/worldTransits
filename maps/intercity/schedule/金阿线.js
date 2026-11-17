@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"金阿线","identified_as":"Jin'a railway (金阿铁路), Jinchang (Lanxin railway) – Baisha North – Hongshagang – Hong'erkuang, coal railway of the Hongshagang field","status":"Freight only (no passenger trains)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"germiston-new-canada","identified_as":"Germiston – Booysens – Crown – New Canada line (Crown branch, reverse direction of slug \"new-canada-germiston\")","status":"No passenger service (Crown branch not running since 2020; provisional)"};

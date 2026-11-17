@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-de-sertaozinho","identified_as":"Mogiana Ramal de Sertãozinho, Ribeirão Preto (Barracão) – Sertãozinho – Pontal.","status":"Abandoned: passenger trains ended 1976, branch disused"};

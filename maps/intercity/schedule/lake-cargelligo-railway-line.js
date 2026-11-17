@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lake-cargelligo-railway-line","identified_as":"The Lake Cargelligo branch (from the Temora/Cootamundra area), NSW.","status":"Freight only: 'passenger service was provided until 1983'; the line is 'used primarily for grain haulage'. (source: https://en.wikipedia.org/wiki/Lake_Cargelligo_railway_line, English Wikipedia, accessed 16 Nov 2026)"};

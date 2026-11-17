@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tocumwal-railway-line","identified_as":"The Narrandera – Jerilderie – Tocumwal line, NSW.","status":"Closed: railcar services were withdrawn on 26 November 1983 and 'the entire line was closed in December 1988'. (source: https://en.wikipedia.org/wiki/Tocumwal_railway_line,_New_South_Wales, English Wikipedia, accessed 16 Nov 2026)"};

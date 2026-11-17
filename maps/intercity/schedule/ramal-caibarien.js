@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-caibarien","identified_as":"Remedios – Caibarién – Vueltas (Vega de Palma) branch, Villa Clara.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

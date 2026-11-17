@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"高易线","identified_as":"Gaoyi railway (高易铁路, historic Xinyi railway), Gaobeidian – Laishui – Yixian – Liangezhuang (Western Qing Tombs)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

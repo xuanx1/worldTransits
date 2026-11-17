@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-41-e-k-go-dap","identified_as":"PKP PLK line 41 Ełk – Olecko – Gołdap.","status":"No passenger trains since the 2012/2013 timetable; Olecko – Gołdap closed to passengers 1993 and to freight 2002; works planned 2023–2027. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_41 (pl.wikipedia, read 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"volkovo-skopje-railway-line","identified_as":"Volkovo–Skopje section of the Skopje–Pristina line.","status":"International passenger service suspended (no trains in timetable)"};

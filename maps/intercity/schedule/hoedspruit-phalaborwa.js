@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hoedspruit-phalaborwa","identified_as":"Hoedspruit – Phalaborwa line, Limpopo.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

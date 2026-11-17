@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"钦港线","identified_as":"钦港铁路 Qinzhou East – Qinzhou Port railway.","status":"Freight only"};

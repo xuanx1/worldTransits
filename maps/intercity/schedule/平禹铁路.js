@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"平禹铁路","identified_as":"平禹铁路 Pingdingshan–Yuzhou coal railway (禹州–田庄).","status":"Freight only (coal)"};

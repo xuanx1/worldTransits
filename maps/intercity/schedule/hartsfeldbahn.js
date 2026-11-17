@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hartsfeldbahn","identified_as":"Härtsfeldbahn Aalen - Neresheim - Dillingen; Neresheim - Härtsfeldsee museum section.","status":"Main line closed (1972); museum railway Neresheim - Härtsfeldsee on selected days"};

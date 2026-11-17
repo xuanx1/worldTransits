@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"otavi-grootfontein-rail-line","identified_as":"Same TransNamib Otavi – Grootfontein branch as slug otavi-grootfontein","status":"No passenger service (all TransNamib passenger services suspended since early 2021)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-leopoldina-linha-do-litoral","identified_as":"Leopoldina Linha do Litoral Rio/Niterói – Campos – Cachoeiro – Viana – Vitória (Pedro Nolasco), FCA.","status":"Freight only (Rio/Niterói – Vitória passenger trains ended early 1980s)"};

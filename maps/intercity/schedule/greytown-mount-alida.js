@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"greytown-mount-alida","identified_as":"Greytown (Chailey) – Mount Alida branch, KwaZulu-Natal.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-fahre-hoopte-zollenspieker-fahre-zollenspieker-h","identified_as":"Elbe car ferry \"Hoopter Möwe 2\" Zollenspieker (Hamburg) - Hoopte (Winsen).","operator":"Erlebnis-Reederei Zollenspieker-Hoopte"};

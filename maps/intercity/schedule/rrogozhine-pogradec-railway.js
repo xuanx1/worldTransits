@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rrogozhine-pogradec-railway","identified_as":"HSH Rrogozhinë–Elbasan–Pogradec line.","status":"No passenger trains running (late 2026); none to Pogradec since 2012"};

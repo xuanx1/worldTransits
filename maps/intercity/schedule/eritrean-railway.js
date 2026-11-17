@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"eritrean-railway","identified_as":"Eritrean Railway heritage narrow-gauge line Massawa – Ghinda – Nefasit – Asmara","status":"No scheduled through passenger service; tourist charter trains only"};

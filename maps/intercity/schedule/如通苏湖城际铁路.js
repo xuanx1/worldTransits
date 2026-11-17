@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"如通苏湖城际铁路","identified_as":"如通苏湖城际铁路 Rudong–Nantong–Suzhou–Huzhou intercity railway (Suzhou–Huzhou–Changxing part), under construction.","status":"Under construction"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-riberac-a-parcoul-medillac","identified_as":"Standard-gauge ex-PO line Ribérac–Aubeterre–Saint-Aulaye–Parcoul-Médillac (Dordogne).","status":"Closed to passengers since 10 June 1940; declassified (1954) and track lifted"};

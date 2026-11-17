@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"宇松线","identified_as":"Yusong railway (宇松铁路), Jingyu – Fusong – Changbaishan West, link between the Shenji railway and the Hunbai railway","status":"No passenger trains in the Nov 2026 timetable (12306 lists none to Jingyu or Fusong); K7387–K7390 Jilin – Changbaishan West used it from Dec 2015"};

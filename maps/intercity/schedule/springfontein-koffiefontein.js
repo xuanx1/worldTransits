@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"springfontein-koffiefontein","identified_as":"Springfontein – Koffiefontein branch line (Free State)","status":"Closed 2001"};

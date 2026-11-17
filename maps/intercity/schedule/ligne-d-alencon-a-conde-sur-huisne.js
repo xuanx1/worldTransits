@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-alencon-a-conde-sur-huisne","identified_as":"Former standard-gauge SNCF line Alençon – Mortagne-au-Perche – Condé-sur-Huisne (Orne).","status":"Closed to passengers 1 Aug 1953; closed 1989, removed from network 2001, track lifted, now a greenway (Véloscénie)"};

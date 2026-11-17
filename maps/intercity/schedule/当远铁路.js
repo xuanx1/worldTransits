@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"当远铁路","identified_as":"当远铁路 (Dangyuan Railway), Yanwumiao (岩屋庙) – Leizu (嫘祖), 60.5 km: Dangyang – Yuan'an local line Yanwumiao – Leizu","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

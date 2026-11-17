@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"宁大线","identified_as":"宁大铁路 Xining–Datong county railway (小桥–大通县).","status":"No passenger service (passenger business ended 2008)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chapline-udachna","identified_as":"Chaplyne – Mezhova – Udachna section of the Chaplyne – Pokrovsk line, front-line area.","status":"No passenger service (front line; Pokrovsk direction closed since Sep 2024; no trains listed)"};

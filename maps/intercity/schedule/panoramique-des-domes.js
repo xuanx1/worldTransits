@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"panoramique-des-domes","identified_as":"Panoramique des Dômes: 5.3 km metre-gauge rack railway up the Puy de Dôme (Auvergne), opened 2012, run by TC Dôme under a 35-year public-service delegation.","status":"Operating tourist rack railway to the Puy de Dôme summit (visitor attraction, not a transport line for local travel); 750,000 riders in 2022"};

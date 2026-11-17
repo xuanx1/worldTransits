@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"wilstedt-zeven-tostedter-eisenbahn","identified_as":"Wilstedt - Zeven - Tostedt railway (EVB).","status":"No passenger trains; partly closed 2007, Zeven-Tostedt section used by draisines since end 2008"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"玉铁线","identified_as":"玉铁线 (Yutie Line), Tieshangang (铁山港) – Shatianzhen (沙田镇), 152.7 km: Yulin – Tieshan port railway section Shatianzhen – Tieshangang","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

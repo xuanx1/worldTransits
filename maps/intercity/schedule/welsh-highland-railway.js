@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"welsh-highland-railway","identified_as":"Welsh Highland Railway heritage narrow gauge line Caernarfon - Beddgelert - Porthmadog Harbour (Ffestiniog & Welsh Highland Railways).","status":"Heritage railway, seasonal timetable; full route reopened 2011"};

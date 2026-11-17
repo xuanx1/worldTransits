@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zenza-do-itombe-to-dondo","identified_as":"CFL Dondo branch (Zenza do Itombe–Dondo, ~55 km) in Cuanza Norte.","status":"Passenger service suspended since March 2025 (cholera outbreak); resumption not confirmed"};

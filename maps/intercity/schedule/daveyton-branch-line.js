@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"daveyton-branch-line","identified_as":"Dunswart – Northmead – Van Ryn – Daveyton branch (Metrorail Daveyton line, eastern end)","status":"No passenger service (Daveyton corridor out of service since 2020; repairs expected 2027/28)"};

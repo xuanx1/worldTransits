@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ruhrtalbahn","identified_as":"Ruhrtalbahn tourist service Bochum-Dahlhausen - Hattingen - Wengern Ost - Hagen.","status":"Tourist line service (seasonal, selected days) since 2005; no regular local trains"};

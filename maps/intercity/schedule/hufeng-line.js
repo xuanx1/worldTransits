@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hufeng-line","identified_as":"Hufeng local railway (虎丰铁路), Hushiha (Jingtong railway) – Tianqiao – Tahuangqi, part of the Xilinhot coal route to Caofeidian","status":"Freight only (no passenger trains)"};

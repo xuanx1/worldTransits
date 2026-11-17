@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bulawayo-harare-railway","identified_as":"Same NRZ Bulawayo – Harare overnight passenger train as slug bulawayo-harare","status":"Passenger service suspended since the 2020 pandemic; still suspended mid-2026"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"untereichsfeldbahn","identified_as":"Wulften - Duderstadt - Leinefelde railway (Untereichsfeldbahn).","status":"Closed February 1996; largely dismantled"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"regional-train","identified_as":"Regional (suburban) train 6407/6430 Kharkiv-Pasazhyrskyi – Izium via Zmiiv and Balakliia (Southern Railway).","status":"Cancelled since 10 Sep 2026 (front-line area); Kharkiv – Balakliia trains still run"};

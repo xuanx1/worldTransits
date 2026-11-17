@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-eyguieres-a-meyrargues","identified_as":"Former line Eyguières–Lamanon–Meyrargues (Bouches-du-Rhône).","status":"Closed to passengers 1936, freight 1950; track lifted and abandoned"};

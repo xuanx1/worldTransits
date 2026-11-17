@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"芦草沟线","identified_as":"芦草沟线 (Lucaogou Line), Wubei (乌北) – Lucaogou (芦草沟), 25.8 km: Urumqi North – Lucaogou line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

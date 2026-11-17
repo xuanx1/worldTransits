@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-selestat-saverne","identified_as":"The lifted Molsheim–Saverne part of the standard-gauge Sélestat–Molsheim–Saverne line (Bas-Rhin).","status":"Molsheim–Saverne part: closed to passengers 1969, declassified and track lifted, now a cycle path/greenway (Sélestat–Molsheim part still has TER Grand Est)"};

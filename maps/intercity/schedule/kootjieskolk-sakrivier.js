@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kootjieskolk-sakrivier","identified_as":"Kootjieskolk – Sakrivier branch (off the Hutchinson – Calvinia line)","status":"Closed 2001"};

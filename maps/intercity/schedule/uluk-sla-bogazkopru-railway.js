@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"uluk-sla-bogazkopru-railway","identified_as":"Ulukışla – Niğde – Boğazköprü (Kayseri) railway.","status":"Its passenger train, the Erciyes Ekspresi (Kayseri–Niğde–Ulukışla–Adana, 1 daily round trip), is temporarily suspended: '19 Ekim 2025 tarihinden itibaren tamamlanana kadar seferler yapılmayacaktır' (Turkish Wikipedia, accessed 15 Nov 2026)."};

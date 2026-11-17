@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"柴达尔线","identified_as":"柴达尔铁路 Haergai – Chaidaer (Muli coal) railway, Qinghai.","status":"Freight only"};

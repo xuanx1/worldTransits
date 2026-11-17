@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jalur-kereta-api-babat-merakurak","identified_as":"Former Babat – Tuban – Merakurak branch railway (East Java).","status":"Closed: Merakurak–Tuban 1 Nov 1935; Babat–Tuban last closed 5 Dec 1990; no service (reactivation planned)."};

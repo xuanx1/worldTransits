@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-carhaix-a-rosporden","identified_as":"Former metre-gauge Réseau breton line Carhaix – Rosporden (Finistère).","status":"Closed to passengers 10 April 1967; declassified 1969, track lifted; now a greenway"};

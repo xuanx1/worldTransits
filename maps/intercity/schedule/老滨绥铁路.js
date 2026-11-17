@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"老滨绥铁路","identified_as":"老滨绥铁路（牡丹江-绥芬河段） (Lao Bin Sui Tie Lu （ Mu Dan Jiang - Sui Fen He Duan ）), Suifenhe (绥芬河) – Aihe (爱河), 165.2 km: old alignment of the Binsui railway, Aihe – Muling – Xilinhe – Suifenhe","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

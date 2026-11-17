@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"新上线","identified_as":"新上线 (Xinshang Line), Shanghaimiaoxi (上海庙西) – Xinjie (新街), 387.0 km: Ordos southern railway, Xinjie – Wushenqi South – Shanghaimiao West","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

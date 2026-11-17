@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"深大城际线","identified_as":"深大城际铁路 Shenzhen – Dayawan (Huizhou) intercity railway, 站前路东 – 深圳机场北 section.","status":"Under construction"};

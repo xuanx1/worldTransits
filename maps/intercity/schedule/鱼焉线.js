@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"鱼焉线","identified_as":"鱼焉铁路 Yuergou–Yanqi, the old 南疆铁路 alignment.","status":"No passenger trains since 2015 (second Turpan–Korla line opened); only 巴伦台–焉耆 in (freight) use"};

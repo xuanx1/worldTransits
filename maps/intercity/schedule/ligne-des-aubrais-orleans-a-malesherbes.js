@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-des-aubrais-orleans-a-malesherbes","identified_as":"Standard-gauge line Les Aubrais-Orléans – Pithiviers – Malesherbes (Loiret), SNCF.","status":"Closed to passengers since 1969 (replaced by coach); Les Aubrais–Pithiviers freight only; Pithiviers–Malesherbes neutralised"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jrc-mainline","identified_as":"Jamaica Railway Corporation main line Spanish Town – Old Harbour – May Pen – Four Paths.","status":"No public passenger trains; JRC runs only a dedicated school train for students (Old Harbour/Linstead – Spanish Town) since 2022"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"dollnitzbahn-kemmlitz-oschatz","identified_as":"Döllnitzbahn narrow-gauge (750 mm) Kemmlitz – Mügeln – Oschatz (Döllnitzbahn GmbH).","status":"No regular public timetable: only school-day trains and steam excursion trains"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-de-sapucai","identified_as":"RMV Ramal de Sapucaí from Soledade de Minas (via Carmo de Minas, Pedrão) toward Cristina/Sapucaí (MG).","status":"Closed: passenger trains ended late 1970s, track lifted from 1986 (only the Soledade end is used by the Trem das Águas tourist train)"};

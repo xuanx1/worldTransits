@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-brieuc-a-paimpol-via-plouha","identified_as":"Former metre-gauge Chemins de fer des Côtes-du-Nord route Saint-Brieuc – Plouha – Paimpol.","status":"Closed 31 Dec 1956 (last line of the network); tracks lifted 1957"};

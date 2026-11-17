@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-busigny-a-hirson","identified_as":"Standard-gauge line Busigny – Le Nouvion – La Capelle – Hirson (Nord/Aisne), ex-Nord, SNCF.","status":"Closed to passengers since 1959; freight ended 1974–1987; declassified 1991 and track lifted"};

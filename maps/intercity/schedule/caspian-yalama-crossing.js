@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"caspian-yalama-crossing","identified_as":"Russia – Azerbaijan cross-border line Махачкала – Ялама – Баку (RZD / ADY).","status":"No passenger trains: Azerbaijan's land borders have been closed since 2020 (quarantine regime, extended to at least 2 Jan 2027); Yandex Raspisaniya lists no train Махачкала → Баку on any date."};

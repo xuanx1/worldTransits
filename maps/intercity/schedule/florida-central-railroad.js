@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"florida-central-railroad","identified_as":"Florida Central Railroad (Regional Rail LLC), freight short line Orlando - Apopka - Eustis - Umatilla / Winter Garden.","status":"Freight only."};

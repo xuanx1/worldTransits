@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-ruffec-a-roumazieres-loubert","identified_as":"Former standard-gauge line Ruffec – Roumazières-Loubert (Charente).","status":"Closed to passengers 1 Sept 1938; freight ended 1951; declassified 1954; track lifted"};

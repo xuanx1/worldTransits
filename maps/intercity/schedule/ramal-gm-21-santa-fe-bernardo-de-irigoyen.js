@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-gm-21-santa-fe-bernardo-de-irigoyen","identified_as":"Ex-Mitre (Central Argentino) branch Bernardo de Irigoyen – Santo Tomé – Santa Fe (Santa Fe province), concession of Nuevo Central Argentino.","status":"No passenger service; branch without operations (Retiro – Santa Fe passenger trains ran 2003–2007 only)"};

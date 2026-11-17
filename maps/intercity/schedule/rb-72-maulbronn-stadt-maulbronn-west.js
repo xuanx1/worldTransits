@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rb-72-maulbronn-stadt-maulbronn-west","identified_as":"Maulbronn West – Maulbronn Stadt branch, served by the \"Klosterstadt-Express\" excursion trains.","status":"Seasonal excursion trains only (summer Sundays/holidays); no regular service, none in November"};

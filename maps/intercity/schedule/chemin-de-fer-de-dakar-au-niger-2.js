@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chemin-de-fer-de-dakar-au-niger-2","identified_as":"Dakar–Niger metre-gauge line, Dakar – Thiès section.","status":"No scheduled passenger service; mineral freight only"};

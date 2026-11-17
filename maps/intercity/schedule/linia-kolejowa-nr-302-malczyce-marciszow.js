@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-302-malczyce-marciszow","identified_as":"Line 302 Malczyce – Jawor – Marciszów (Lower Silesia, now regional-government owned).","status":"No passenger service; passenger traffic finally abolished in 1996. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_302 (pl.wikipedia, read 16 Nov 2026)"};

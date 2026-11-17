@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kamina-kabalo","identified_as":"SNCC Kamina–Kabalo line, used by occasional Lubumbashi–Kalemie (Bana Katanga) and Lubumbashi–Kindu (Kambelembele) trains.","status":"No regular timetable: occasional SNCC passenger trains (monthly or less, 2022-2023)"};

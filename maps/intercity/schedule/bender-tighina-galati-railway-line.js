@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bender-tighina-galati-railway-line","identified_as":"Bender–Basarabeasca–Giurgiulești (towards Galați) line.","status":"No passenger service in 2026"};

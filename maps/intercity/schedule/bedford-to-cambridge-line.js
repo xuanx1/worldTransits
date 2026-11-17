@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bedford-to-cambridge-line","identified_as":"Bedford - Sandy - Cambridge section of the former Varsity Line.","status":"Closed to passengers 1 Jan 1968; East West Rail plans a new alignment"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cookhouse-blaney","identified_as":"Cookhouse – Adelaide – Alice – Qonce (King William's Town) – Blaney line, Eastern Cape.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

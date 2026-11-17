@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nsawan-accra","identified_as":"Accra (Kantamanto) – Nsawam suburban shuttle, Ghana Railway Company (Cape gauge).","status":"Passenger service suspended since 20 March 2020 (no resumption found)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"agawa-canyon-railroad","identified_as":"Former Algoma Central Railway (Watco) line in Ontario; the only passenger train is the seasonal Agawa Canyon Tour Train from Sault Ste. Marie.","status":"Tourist excursion only (Agawa Canyon Tour Train, seasonal day trip); 2027 schedule not yet published."};

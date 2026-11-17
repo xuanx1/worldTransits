@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"e-f-petrolina-a-teresina","identified_as":"E. F. Petrolina a Teresina (1923–1941), Petrolina – Afrânio – Paulistana.","status":"Closed: passenger trains ended 1972, line officially eradicated 1 Jul 1975 and track lifted"};

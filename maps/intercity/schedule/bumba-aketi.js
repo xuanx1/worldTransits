@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bumba-aketi","identified_as":"Bumba–Aketi section of the Chemins de fer des Uele (CFU, ex-Vicicongo).","status":"Closed (not operational for about 30 years)"};

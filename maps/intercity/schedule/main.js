@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"main","identified_as":"Santa Maria Valley Railroad main line Guadalupe - Santa Maria, CA (freight short line).","status":"Freight only (no passenger service)."};

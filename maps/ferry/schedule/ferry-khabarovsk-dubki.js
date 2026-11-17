@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-khabarovsk-dubki","identified_as":"Khabarovsk dacha boat Речной вокзал – Хутор Телегино – Речная – Строительная – Садовая-2 – Дубки.","operator":"ЗАО «Амурские пассажирские перевозки» (2025 contact) / Khabarovsk city"};

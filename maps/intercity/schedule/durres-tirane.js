@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"durres-tirane","identified_as":"HSH Durrës–Tirana line (now Durrës–Kashar; Tirana station closed 2013).","status":"No passenger trains running (late 2026); line closed for rebuilding"};

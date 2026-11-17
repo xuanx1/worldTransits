@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"east-london-springfontein","identified_as":"East London (KuGompo) – Komani – Burgersdorp – Springfontein main line, route of the Shosholoza Meyl Johannesburg – East London train","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

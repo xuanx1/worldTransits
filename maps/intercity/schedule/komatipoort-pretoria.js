@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"komatipoort-pretoria","identified_as":"Komatipoort – Mbombela – Witbank – Pretoria main line (reverse of slug \"pretoria-komatipoort\")","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

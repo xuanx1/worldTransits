@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-manati-san-eduardo","identified_as":"Railbus Manatí – San Eduardo, Las Tunas province.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains stopped for lack of fuel)"};

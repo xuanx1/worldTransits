@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ic-891-892","identified_as":"Former Trainkos/MŽ international train IC 891/892 Pristina–Fushë Kosova–Skopje.","status":"Suspended (no trains in current ŽRSM timetable; suspended around 2020)"};

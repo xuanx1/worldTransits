@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"b-rd-agdam-d-mir-yolu","identified_as":"New Barda–Aghdam railway, used only by the Baku–Aghdam passenger train.","status":"Passenger service temporarily suspended since 10 May 2026 (Yevlakh–Barda line reconstruction)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"harrismith-warden","identified_as":"Harrismith – Warden link, Free State.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

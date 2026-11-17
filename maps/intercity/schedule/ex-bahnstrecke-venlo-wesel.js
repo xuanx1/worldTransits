@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ex-bahnstrecke-venlo-wesel","identified_as":"Former Wesel - Geldern section of the Haltern - Venlo railway.","status":"Closed and largely dismantled (closed in stages 1975-1992)"};

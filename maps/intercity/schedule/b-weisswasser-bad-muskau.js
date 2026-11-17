@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"b-weisswasser-bad-muskau","identified_as":"Waldeisenbahn Muskau (600 mm) museum line Weißwasser – Bad Muskau.","status":"Heritage/museum railway: tourist trains on selected days (season), no regular service"};

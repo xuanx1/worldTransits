@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zab-4-eyach-hechingen","identified_as":"Eyachtalbahn / Zollern-Alb-Bahn 4 Eyach – Haigerloch – Hechingen (Hohenzollerische Landesbahn / SWEG).","status":"No regular passenger service since 1972/73 (freight line; reactivation only under study)"};

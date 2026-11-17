@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"velay-express","identified_as":"Velay Express, metre-gauge heritage railway run by the association VFV on Raucoules-Brossette – Saint-Agrève (former CFD Vivarais network).","status":"Heritage/tourist train (May–December), not a regular service; original CFD line closed 31 Oct 1968"};

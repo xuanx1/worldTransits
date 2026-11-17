@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"walt-disney-world-railroad","identified_as":"Walt Disney World Railroad, narrow-gauge steam park railroad at Magic Kingdom.","status":"Amusement-park ride (not public transport); currently a shuttle Main Street - Fantasyland only."};

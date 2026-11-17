@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-moron-nuevitas","identified_as":"Regional train Morón – Nuevitas (Ciego de Ávila – Camagüey) along the north coast line.","status":"Suspended since early 2026 (all Ciego de Ávila rail routes halted for fuel in Mar 2026; only Morón – Ciego and Morón – Camagüey reported restored in Sep 2026)"};

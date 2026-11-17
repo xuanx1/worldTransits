@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"carahata-jaronu","identified_as":"Esmeralda – Donato – Jiquí – Jaronú section of the northern line (Camagüey), used by the Camagüey – Nuevitas – Esmeralda local train.","status":"Not running: restart of the Camagüey – Esmeralda and Camagüey – Nuevitas – Esmeralda trains announced as pending, no date (Sep 2026)"};

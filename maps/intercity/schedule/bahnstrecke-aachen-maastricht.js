@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-aachen-maastricht","identified_as":"Former Aachen - Vetschau - Simpelveld - Maastricht line.","status":"Closed 30 May 1992; Vetschau-Simpelveld-Valkenburg used by ZLSM museum steam trains since 1995"};

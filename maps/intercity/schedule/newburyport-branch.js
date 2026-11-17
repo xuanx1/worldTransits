@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"newburyport-branch","identified_as":"Former Boston & Maine Newburyport Branch (Newburyport - Topsfield - Danvers - Wakefield), now largely rail trails.","status":"Closed: passenger service ended 1959 (Danvers - Wakefield); freight ended late 1990s, abandoned about 2007."};

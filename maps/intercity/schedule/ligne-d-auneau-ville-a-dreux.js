@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-auneau-ville-a-dreux","identified_as":"Standard-gauge line Auneau-Ville–Maintenon–Nogent-le-Roi–Dreux (Eure-et-Loir).","status":"Closed to passengers 1938/1940; freight ended by 1989; declassified and track lifted (greenway projected)"};

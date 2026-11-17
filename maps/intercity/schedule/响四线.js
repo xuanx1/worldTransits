@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"响四线","identified_as":"响四线 (Xiangsi Line), Siyanjing (四眼井) – Xiangshawan (响沙湾), 86.2 km: Ordos southern railway, Xiangshawan – Siyanjing","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

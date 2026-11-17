@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"秦皇岛进出港线","identified_as":"秦皇岛进出港线 (Qinhuangdaojinchugang Line), Qinhuangdaonan (秦皇岛南) – Nandasi (南大寺), 13.2 km: Qinhuangdao port access line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

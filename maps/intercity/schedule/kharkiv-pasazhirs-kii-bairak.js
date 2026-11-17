@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kharkiv-pasazhirs-kii-bairak","identified_as":"Sviatohirsk – Lyman – Siversk – Bakhmut – Mykytivka line (Donetsk railway), front line / occupied area.","status":"No passenger service (front line; Bakhmut area occupied; trains towards Lyman/Kramatorsk cut back to Husarivka/Barvinkove since Nov 2025)"};

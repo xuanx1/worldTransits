@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"empangeni-nkwalini","identified_as":"Empangeni – Nkwalini branch, KwaZulu-Natal.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

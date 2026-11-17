@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"north-coast-line-durban-stanger","identified_as":"Metrorail KwaZulu-Natal North Coast line Durban – Duff's Road – Verulam – Tongaat – KwaDukuza (Stanger).","status":"Mostly suspended: no trains north of Duff's Road since the 2022 floods and later cable theft; only 'sections' operating in Sep 2026, no timetable published"};

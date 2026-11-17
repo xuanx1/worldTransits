@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-trinidad-meyer","identified_as":"Trinidad – Valle de los Ingenios (Manaca Iznaga – Guachinango/Meyer) tourist train.","status":"Rail tourist train suspended since 2023 (under restoration); tour run since Apr 2023 by a road 'tren sin vías'"};

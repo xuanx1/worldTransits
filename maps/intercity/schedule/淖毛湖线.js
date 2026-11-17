@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"淖毛湖线","identified_as":"淖毛湖线 (Naomaohu Line), Naomaohu (淖毛湖) – Dongsikuang (东四矿), 53.2 km: Naomaohu coal branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-florida-vertientes","identified_as":"Railbus (ferrobús) Florida – Vertientes, Camagüey province.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

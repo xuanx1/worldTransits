@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"swartkops-klipplaat","identified_as":"Swartkops – Despatch – Kariega (Uitenhage) – Klipplaat line; the Swartkops – Kariega part carries the Metrorail Gqeberha corridor trains.","status":"No passenger service beyond Kariega; Swartkops – Kariega served by the Metrorail Gqeberha corridor (3 services a day; see slug kariega-cbd)"};

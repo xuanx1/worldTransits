@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-sarge-sur-braye-a-vouvray","identified_as":"Former standard-gauge line Sargé-sur-Braye – Montoire – Château-Renault – Vouvray (Loir-et-Cher/Indre-et-Loire).","status":"Closed to passengers 2 Oct 1938; freight ended in stages to 1989; declassified from 1994, track lifted; 6 km greenway Vernou–Reugny"};

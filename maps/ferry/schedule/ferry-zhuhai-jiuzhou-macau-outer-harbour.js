@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-zhuhai-jiuzhou-macau-outer-harbour","identified_as":"Zhuhai Jiuzhou - Macau Outer Harbour ferry.","operator":"(no current operator)"};

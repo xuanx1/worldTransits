@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"gomel-bakhmach","identified_as":"Cross-border Homel' – Bakhmach line (Belarus – Ukraine, via Chernihiv).","status":"Cross-border service suspended since 2022"};

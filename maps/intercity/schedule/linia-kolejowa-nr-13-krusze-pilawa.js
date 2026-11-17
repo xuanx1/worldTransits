@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-13-krusze-pilawa","identified_as":"PKP PLK line 13 Krusze – Pilawa (Warsaw freight bypass).","status":"Krusze – Mińsk Mazowiecki section is freight only (status of the Mińsk Mazowiecki – Pilawa section not established). Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_13 (pl.wikipedia, read 16 Nov 2026)"};

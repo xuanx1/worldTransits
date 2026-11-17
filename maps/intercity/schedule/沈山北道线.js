@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"沈山北道线","identified_as":"沈山北道线 (Shenshanbeidao Line), Yuguo (裕国) – Shenyang North Railway Station (沈阳北站), 13.4 km: Shenyang hub northern track of the Shenshan line Yuguo – Shenyang North","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

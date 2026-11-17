@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"gomel-chernigiv","identified_as":"Cross-border Homel' – Chernihiv line (Belarus – Ukraine).","status":"Cross-border service suspended since 2022"};

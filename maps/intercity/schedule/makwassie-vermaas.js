@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"makwassie-vermaas","identified_as":"Makwassie – Wolmaransstad – Ottosdal – Vermaas line, North West.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

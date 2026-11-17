@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-guayabal","identified_as":"Colombia – Borbollón branch (Las Tunas province), used by the Colombia – Jobabo railcar.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains stopped for lack of fuel)"};

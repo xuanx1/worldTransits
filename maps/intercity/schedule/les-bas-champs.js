@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"les-bas-champs","identified_as":"Metre-gauge Saint-Valery-sur-Somme–Cayeux-sur-Mer line, run by the Chemin de fer de la Baie de Somme (CFBS) association.","status":"Heritage/tourist train (seasonal, CFBS association), not a regular service; commercial (CFTA) operation ended 31 Dec 1972"};

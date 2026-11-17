@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jr-mine-line","identified_as":"JR West Mine Line (美祢線) Asa – Nagatoshi, 46.0 km.","status":"Suspended since the July 2023 heavy rain; replacement buses (代行バス) run; in Aug 2025 JR West and local governments agreed to abandon rail restoration and convert to BRT."};

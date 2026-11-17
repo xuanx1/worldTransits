@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-gisors-boisgeloup-a-pacy-sur-eure-section-gisors-vernon","identified_as":"Gisors – Gasny – Vernon section of the former standard-gauge line Gisors-Boisgeloup – Pacy-sur-Eure (Eure).","status":"Closed to passengers 1 March 1940; declassified (1954–1994); Gisors–Gasny is now the Epte valley greenway"};

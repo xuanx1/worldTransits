@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"antic-ferrocarril-mollerussa-balaguer","identified_as":"The former Mollerussa–Balaguer railway in Lleida province.","status":"Closed definitively in 1951. Quote: \"1951: Clausura definitiva de la línia.\" Source: https://ca.wikipedia.org/wiki/L%C3%ADnia_Mollerussa-Balaguer (accessed 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-de-pontal","identified_as":"Paulista Pontal – Passagem branch (SP).","status":"Abandoned: no passenger trains since the 1970s, no trains at all since at least 1998"};

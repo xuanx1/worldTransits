@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"windhoek-keetmanshoop","identified_as":"TransNamib StarLine overnight Windhoek – Keetmanshoop passenger train (formerly 4x weekly)","status":"Passenger service suspended since early 2021 (all TransNamib StarLine trains); freight only"};

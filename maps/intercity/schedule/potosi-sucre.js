@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"potosi-sucre","identified_as":"Potosí – Sucre (El Tejar) FCA railbus line.","status":"Passenger service suspended (track damage/rail theft); reactivation projected for 2027"};

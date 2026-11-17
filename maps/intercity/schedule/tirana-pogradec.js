@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tirana-pogradec","identified_as":"HSH Tirana–Pogradec service.","status":"No passenger trains running (late 2026); none to Pogradec since 2012"};

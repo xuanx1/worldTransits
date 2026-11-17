@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"锦赤线","identified_as":"锦赤铁路 Jinzhou (Xigangkou) – Chifeng (Damutougou) coal railway.","status":"Freight only"};

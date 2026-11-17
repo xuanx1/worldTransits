@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"little-schuylkill-navigation-and-railroad","identified_as":"Former Little Schuylkill line Tamaqua - Port Clinton, now Reading Blue Mountain & Northern (RBMN) freight main line with occasional RBMN excursion trains.","status":"Freight railroad; only occasional tourist excursions (RBMN passenger department)."};

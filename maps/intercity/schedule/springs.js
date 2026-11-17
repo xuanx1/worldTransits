@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"springs","identified_as":"Metrorail Gauteng Johannesburg – Germiston – Boksburg – Benoni – Brakpan – Springs – Nigel line","status":"No passenger service (Germiston – Springs line not running since 2020; awaiting rehabilitation)"};

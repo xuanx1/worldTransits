@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-loudun-a-angers-maitre-ecole","identified_as":"Former standard-gauge line Loudun – Montreuil-Bellay – Angers-Maître-École (Vienne/Maine-et-Loire).","status":"Closed (1939–1954) and almost entirely declassified; track lifted except a few km serving the Méron industrial zone"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-do-aco","identified_as":"Ferrovia do Aço (Andaime/Jeceaba – Bom Jardim), MRS Logística heavy-haul line.","status":"Freight only (built for iron ore; MRS operates freight)"};

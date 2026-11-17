@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-vitre-a-pontorson","identified_as":"Former standard-gauge line Vitré – Fougères – Antrain – Pontorson (Ille-et-Vilaine/Manche).","status":"Closed to passengers (Fougères–Pontorson 2 Oct 1938, Vitré–Fougères 6 Mar 1972); largely lifted and a greenway; 7 km Vitré–Gérard freight only"};

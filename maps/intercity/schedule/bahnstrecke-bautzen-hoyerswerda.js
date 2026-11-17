@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-bautzen-hoyerswerda","identified_as":"Bautzen - Hoyerswerda railway.","status":"Closed 2002 and later dismantled"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"golela-komatipoort","identified_as":"Eswatini Railways north–south link Komatipoort – Mlawula – Phuzumoya – Golela (South African transit freight)","status":"Freight only"};

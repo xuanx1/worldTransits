@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-378-go-ancz-chodziez","identified_as":"Line 378 Gołańcz – Margonin – Chodzież.","status":"Closed: passenger traffic suspended 15 Jan 1986, freight 9 Dec 1994. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_378 (pl.wikipedia, read 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"andoversford-line","identified_as":"Midland and South Western Junction Railway (Cheltenham/Andoversford - Swindon - Andover); Swindon & Cricklade Railway heritage section at Hayes Knoll.","status":"Closed to passengers 9 Sep 1961; short heritage section (Swindon and Cricklade Railway) operates on selected days"};

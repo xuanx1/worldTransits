@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"caoxi-line","identified_as":"曹西线 (Caoxi Line), Caofeidianxi (曹妃甸西) – Shilihai (十里海), 22.4 km: Caofeidian port-area line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

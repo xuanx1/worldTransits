@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-digoin-a-etang-sur-arroux","identified_as":"Metre-gauge line Digoin – Toulon-sur-Arroux – Étang-sur-Arroux of the CFD Réseau de Saône-et-Loire.","status":"Closed 15 September 1953 (whole network closed 1953)"};

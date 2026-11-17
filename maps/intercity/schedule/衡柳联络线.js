@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"衡柳联络线","identified_as":"衡柳联络线 (Hengliulianluo Line), Zhoujia'ao (周家坳) – Hengyang (衡阳), 12.1 km: Hengyang hub connecting line Zhoujia'ao – Hengyang","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

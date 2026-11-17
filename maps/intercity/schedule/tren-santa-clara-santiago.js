@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-santa-clara-santiago","identified_as":"Former national train 101/102 Santa Clara – Camagüey – Santiago de Cuba (older rolling stock).","status":"Passenger service suspended since January 2023"};

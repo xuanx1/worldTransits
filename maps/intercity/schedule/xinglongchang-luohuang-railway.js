@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"xinglongchang-luohuang-railway","identified_as":"兴珞铁路 Xinglongchang–Luohuang, part of the Chongqing freight ring.","status":"Freight line (Chongqing hub freight ring)"};

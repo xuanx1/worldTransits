@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"train-de-la-plantation","identified_as":"Le Train des Plantations, a 1,168 mm-gauge sugar-cane heritage railway at the Saint James distillery, Sainte-Marie, Martinique.","status":"Heritage/tourist train, not a regular service"};

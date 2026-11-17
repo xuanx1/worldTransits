@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"高鐵延伸宜蘭計畫","identified_as":"Planned Taiwan High Speed Rail extension from Nangang to Yilan (about 60.6 km, one new station at Yilan).","status":"Planned, not built: the Executive Yuan approved the plan on 23 Jul 2026; opening targeted for 2036."};

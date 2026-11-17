@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"梅前线","identified_as":"梅前线 (Meiqian Line), Qianhezhen (前河镇) – Meijiaping (梅家坪), 71.8 km: Tongchuan coal line Meijiaping – Qianhezhen","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-ellenserdamm-ocholt","identified_as":"Ocholt - Westerstede - Ellenserdamm railway.","status":"No passenger trains; closed May 2003; Westerstede-Ocholt used by tourist draisines since 2006"};

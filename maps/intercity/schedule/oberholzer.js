@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"oberholzer","identified_as":"Metrorail Gauteng Johannesburg – Soweto (Midway) – Westonaria – Bank – Oberholzer line","status":"No passenger service beyond Midway (no trains to Westonaria/Oberholzer since 2020; provisional)"};

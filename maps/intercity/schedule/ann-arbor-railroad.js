@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ann-arbor-railroad","identified_as":"Ann Arbor Railroad (Watco), Toledo - Ann Arbor - Osmer freight line.","status":"Freight only (Watco's Ann Arbor Railroad)."};

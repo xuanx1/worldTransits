@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"brohltalbahn","identified_as":"Brohltalbahn, metre-gauge line Brohl am Rhein – Engeln, operated as the Vulkan-Expreß tourist train.","status":"Tourist railway (Vulkan-Expreß) on selected days, plus freight; no regular public service"};

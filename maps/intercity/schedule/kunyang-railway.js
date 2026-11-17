@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kunyang-railway","identified_as":"昆阳铁路 Dushupu–Kunyang branch (Kunming southern ring).","status":"No passenger trains since the 5 Jan 2019 timetable (freight)"};

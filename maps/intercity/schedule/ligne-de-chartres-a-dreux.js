@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-chartres-a-dreux","identified_as":"Chartres – Dreux line (Eure-et-Loir).","status":"Closed to passengers since 4 July 1971; freight only on Dreux – Aunay-Tréon"};

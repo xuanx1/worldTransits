@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"唐山北联络线","identified_as":"唐山北联络线 (Tangshanbeilianluo Line), Yangjiakou (杨家口) – Tangshanbei (唐山北), 16.6 km: Tangshan North connecting line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

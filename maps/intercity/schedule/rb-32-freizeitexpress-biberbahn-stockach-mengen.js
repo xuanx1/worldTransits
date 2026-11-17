@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rb-32-freizeitexpress-biberbahn-stockach-mengen","identified_as":"Freizeitexpress \"Biberbahn\" (RB32a) Stockach – Meßkirch – Mengen on the reactivated Ablachtalbahn.","status":"Seasonal leisure train: Sundays and public holidays May – October only; no service in November"};

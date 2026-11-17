@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"via-ferroviaria-panama-colon","identified_as":"Panama Canal Railway, Panama City (Corozal) – Colón.","status":"No regular passenger service; only occasional Saturday special excursion trains (e.g. four Saturdays in Feb 2025, c. 3-hour round trip from Corozal)"};

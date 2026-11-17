@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"homs-latakia","identified_as":"CFS Homs–Tartus–Latakia line.","status":"No regular passenger service (network paralysed since 2012)"};

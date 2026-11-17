@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-de-nova-granada","identified_as":"Paulista Ramal de Nova Granada, Bebedouro – Olímpia – Nova Granada (SP).","status":"Closed: Olímpia – Nova Granada closed 1966, rest of the branch extinguished 2 Jan 1969"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"staudenbahn","identified_as":"Staudenbahn Gessertshausen - Markt Wald (Augsburg - Türkheim line), volunteer-run Saturday service.","status":"No regular weekday service; volunteer Saturday trains every 3 hours Augsburg - Markt Wald (since 2015) plus excursion trains on selected Sundays; full reactivation still pending"};

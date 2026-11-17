@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"alicedale-port-alfred","identified_as":"Port Alfred Railway Line (Kowie Railway), Alicedale – Makhanda (Grahamstown) – Port Alfred","status":"Passenger service suspended since 2008 (Makhanda – Port Alfred closed since about 1990)"};

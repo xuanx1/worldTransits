@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-sochi-novorossiysk","identified_as":"Black Sea fast boat Novorossiysk – Gelendzhik – Sochi.","operator":"«ВодоходЪ Экспресс» (suspended 1 Jun 2026)"};

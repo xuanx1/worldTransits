@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"shkodra-tirana","identified_as":"HSH Shkodër–Tirana (Kashar) service.","status":"No passenger trains running (late 2026)"};

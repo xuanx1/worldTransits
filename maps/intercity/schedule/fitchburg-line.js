@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fitchburg-line","identified_as":"Freight route Fitchburg - Framingham - Walpole - Foxboro - Mansfield (Fitchburg Secondary/Agricultural Branch plus MassDOT's Framingham Secondary).","status":"Freight line; passenger use only by MBTA special-event trains to Gillette Stadium (Foxboro)."};

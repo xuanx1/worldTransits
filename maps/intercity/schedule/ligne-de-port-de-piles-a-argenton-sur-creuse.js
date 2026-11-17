@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-port-de-piles-a-argenton-sur-creuse","identified_as":"Standard-gauge line Port-de-Piles–Descartes–Tournon–Le Blanc–Argenton-sur-Creuse (Indre-et-Loire/Indre).","status":"Closed to passengers since June 1940; largely declassified/lifted; Le Blanc–Thenay and Descartes–Tournon now greenways; Port-de-Piles–Descartes ZI freight"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hutchinson-calvinia","identified_as":"Hutchinson – Victoria West – Carnarvon – Calvinia line","status":"Closed 2001"};

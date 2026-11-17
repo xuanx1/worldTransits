@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrocarril-artemisa-el-rincon","identified_as":"Artemisa – Alquízar – Güira de Melena – Rincón line, on the route of the La Habana – Pinar del Río train.","status":"Suspended: the La Habana – Pinar del Río train was intermittent in Jan 2026 and interprovincial/local trains were suspended nationally from Feb 2026; no restart reported (provisional)"};

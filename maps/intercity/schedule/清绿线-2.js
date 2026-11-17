@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"清绿线-2","identified_as":"清绿铁路 Qingshui–Lüyuan (Jiuquan satellite centre) railway.","status":"Closed 15 Dec 2021 (清水–上元 abandoned, rest rebuilt as 酒额铁路)"};

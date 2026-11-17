@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-banes-deleite-dumois","identified_as":"Local ferrobús Banes – Deleite – Dumois (Holguín province).","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

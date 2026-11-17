@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"张博线","identified_as":"Zhangdian–Boshan railway (张博铁路), Zibo, Shandong.","status":"Freight only (passenger service ended 2008)"};

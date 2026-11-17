@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"茶卡线","identified_as":"Chaka branch (茶卡线), Chahannuo (Qinghai–Tibet railway) – Chaka, with the Chaka Salt Lake ('Mirror of the Sky') scenic-area narrow-gauge sightseeing train at its far end (天空之镜站, 老礼堂站, 盐湖站台)","status":"No scheduled passenger trains; the stations at the lake end are a scenic-area tourist train (tourist)"};

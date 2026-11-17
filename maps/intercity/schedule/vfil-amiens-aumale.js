@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"vfil-amiens-aumale","identified_as":"Metre-gauge Amiens (Saint-Roch)–Beaucamps-le-Vieux–Aumale(–Envermeu) line of the Chemins de fer départementaux de la Somme, operated by the Société générale des chemins de fer économiques (SE).","status":"Closed to passengers 1940, all traffic 1947; line formally closed 1 June 1948"};

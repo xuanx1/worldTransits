@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"phuzumoya-matsapha","identified_as":"Eswatini Railways Phuzumoya – Mpaka – Matsapha line","status":"Freight only (no regular passenger service)"};

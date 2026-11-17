@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chatsworth-bluff","identified_as":"Metrorail KwaZulu-Natal Bluff – Merebank – Crossmoor (Chatsworth) service","status":"Passenger service suspended (Bluff line closed)"};

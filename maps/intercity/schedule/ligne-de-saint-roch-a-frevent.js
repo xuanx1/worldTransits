@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-roch-a-frevent","identified_as":"Standard-gauge line Amiens-Saint-Roch–Doullens–Frévent (Somme/Pas-de-Calais).","status":"Closed to passengers since 7 Nov 1938; Frévent–Doullens lifted; Saint-Roch–Doullens remains, freight only on first ~10 km"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"秦山线","identified_as":"秦皇岛地方铁路 (秦山铁路) Qinhuangdao – Shimenzhai – Shanshenmiao local railway.","status":"Freight only (passenger ended 1 Jun 1991)"};

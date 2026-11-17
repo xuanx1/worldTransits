@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"paarl-franschhoek","identified_as":"Paarl – Franschhoek branch line","status":"Closed early 2000s; short sections used by the Franschhoek Wine Tram (tourist)"};

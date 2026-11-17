@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chemin-de-fer-de-saint-amand-a-hellemmes","identified_as":"Secondary tramway/railway Saint-Amand-les-Eaux – Hellemmes (Lille) of the CEN (Chemins de fer économiques du Nord), Nord.","status":"Closed 1932; track lifted April 1935"};

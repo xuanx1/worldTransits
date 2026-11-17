@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sussex-branch","identified_as":"DL&W Sussex Branch from Netcong/Stanhope north to Andover, Newton and Branchville.","status":"Closed: passenger service ended 2 Oct 1966; track removed by 1977; now the Sussex Branch Trail."};

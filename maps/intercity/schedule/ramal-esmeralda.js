@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-esmeralda","identified_as":"Céspedes – Esmeralda branch (Camagüey), used by the Camagüey – Esmeralda local train.","status":"Not running: restart of the Camagüey – Esmeralda and Camagüey – Nuevitas – Esmeralda trains announced as pending, no date (Sep 2026)"};

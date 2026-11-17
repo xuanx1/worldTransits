@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aranyaprathet-poipet","identified_as":"Cross-border rail link Aranyaprathet / Ban Klong Luk (Thailand) – Poipet (Cambodia).","status":"No cross-border passenger trains; Thai–Cambodian border closed in 2026 and the Cambodian Poipet–Battambang service suspended"};

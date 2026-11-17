@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fenol-na-krasnii-liman","identified_as":"Lyman – Sloviansk – Kramatorsk – Druzhkivka – Kostiantynivka – Fenolna line (Donetsk railway), front-line area.","status":"Suspended since Nov 2025 (security): trains towards Kramatorsk/Sloviansk end at Husarivka or Barvinkove; Sloviansk – Kramatorsk suburban trains cancelled"};

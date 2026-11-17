@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"krasnoarmiis-k-dubove","identified_as":"Pokrovs'k – Dubove line, Donetsk oblast (front-line area).","status":"Suspended since Sep 2024 (front line; trains end at Pavlohrad)"};

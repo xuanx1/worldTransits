@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-jessains-a-sorcy","identified_as":"Standard-gauge line Jessains – Brienne – Montier-en-Der – Joinville – Gondrecourt – Sorcy (Aube/Haute-Marne/Meuse), SNCF.","status":"Closed to passengers 1937–1950; Brienne–Vallentigny freight only; Montier-en-Der–Sorcy track entirely lifted; other parts declassified"};

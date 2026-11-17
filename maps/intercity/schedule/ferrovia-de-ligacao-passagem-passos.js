@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-de-ligacao-passagem-passos","identified_as":"Ribeirão Preto – Barracão – Sertãozinho – Pontal – Passagem (ex-Mogiana Ramal de Sertãozinho + Paulista Pontal link).","status":"Abandoned: passenger trains ended 1976, branch disused"};

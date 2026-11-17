@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jingle-jingyou-railway","identified_as":"静静铁路 Jingle – Jingyou heavy-haul railway (Shanxi).","status":"Freight only (heavy-haul)"};

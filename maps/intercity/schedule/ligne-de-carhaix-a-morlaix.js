@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-carhaix-a-morlaix","identified_as":"Metre-gauge Réseau Breton line Carhaix – Morlaix (Finistère), operated by the Société générale des chemins de fer économiques.","status":"Closed 1967 (passengers first withdrawn 1939); declassified 1969, track lifted; now part of the Roscoff–Concarneau voie verte"};

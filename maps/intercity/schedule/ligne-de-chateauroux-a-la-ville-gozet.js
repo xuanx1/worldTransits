@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-chateauroux-a-la-ville-gozet","identified_as":"Standard-gauge line Châteauroux – La Châtre – Montluçon-La Ville-Gozet (Indre/Allier), ex-PO, SNCF.","status":"Closed to passengers since 1969; freight ended 1987; mostly declassified; La Châtre–Champillet is a voie verte (2022)"};

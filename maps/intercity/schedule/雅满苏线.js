@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"雅满苏线","identified_as":"雅满苏铁路 Shankou – Yamansu iron-mine railway (Hami).","status":"Freight only (mine spur)"};

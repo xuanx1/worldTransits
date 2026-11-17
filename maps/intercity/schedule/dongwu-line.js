@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"dongwu-line","identified_as":"Dongwu branch (东吴线 / 湄洲湾港口铁路支线), Putian, Fujian.","status":"Freight only"};

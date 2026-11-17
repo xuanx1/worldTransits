@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-matanzas-agramonte","identified_as":"Matanzas – Unión de Reyes – Pedro Betancourt – Agramonte local train.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

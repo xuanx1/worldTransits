@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-celle-soltau","identified_as":"OHE Celle - Bergen - Soltau railway.","status":"Freight only; passenger service ended 1975/1976"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-pont-de-braye-a-blois","identified_as":"Standard-gauge line Blois – Vendôme – Trôo – Pont-de-Braye (Loir-et-Cher), ex-État, SNCF.","status":"No regular passengers since c.1949–1952; freight on Blois–Villefrancœur and Vendôme–Selommes; Thoré-la-Rochette–Trôo heritage/tourist railcar (TTVL, July–August only); Trôo–Pont-de-Braye lifted/footpath"};

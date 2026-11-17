@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bulawayo-harare","identified_as":"NRZ overnight Bulawayo – Harare passenger train (formerly 3x weekly)","status":"Passenger service suspended since the 2020 pandemic; still suspended mid-2026"};

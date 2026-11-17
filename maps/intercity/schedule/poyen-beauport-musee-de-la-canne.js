@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"poyen-beauport-musee-de-la-canne","identified_as":"Tourist 'petit train' of Beauport – Le Pays de la Canne (Port-Louis, Guadeloupe) on the former sugar-cane railway, with a stop at Poyen.","status":"Heritage/tourist museum train, not a regular service"};

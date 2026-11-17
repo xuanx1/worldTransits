@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"santiago-santo-angelo","identified_as":"VFRGS Ramal de Santo Ângelo, Santiago – Bossoroca – São Luiz Gonzaga – Cerro Largo (– Santo Ângelo) (RS), Rumo.","status":"Freight only / little used (passenger trains ended 1976–78)"};

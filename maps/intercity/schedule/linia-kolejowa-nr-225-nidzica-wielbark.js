@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-225-nidzica-wielbark","identified_as":"PKP PLK line 225 Nidzica – Wielbark.","status":"Out of use (km 0.760 – 41.795) since 1999. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_225 (pl.wikipedia, read 16 Nov 2026)"};

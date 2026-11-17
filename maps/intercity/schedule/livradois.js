@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"livradois","identified_as":"Tourist train service Ambert – La Chaise-Dieu on the Saint-Germain-des-Fossés – Darsac line (Livradois-Forez, AGRIVAP).","status":"Heritage/tourist train, not a regular service; regular passenger trains ended 1971 (Arlanc–Darsac) and 1980 (Pont-de-Dore–Arlanc)"};

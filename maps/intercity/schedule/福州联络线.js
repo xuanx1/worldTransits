@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"福州联络线","identified_as":"福州联络线 (Fuzhoulianluo Line), Kuiqi (魁岐) – Fuzhou (福州), 11.9 km: Fuzhou hub connecting line Kuiqi – Fuzhou","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

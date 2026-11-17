@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"granitbahn","identified_as":"Granitbahn Passau-Voglau - Hauzenberg (Bayerische Regionaleisenbahn).","status":"Closed 2007, partly reactivated since 2020; seasonal scheduled passenger trains May-Oct 2024"};

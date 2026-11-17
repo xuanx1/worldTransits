@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pruga-ljublja-brezicani-omarska-tomasica","identified_as":"ŽRS mining branches Ljubija–Brezičani and Omarska–Tomašica near Prijedor.","status":"Freight/industrial only; no passenger service"};

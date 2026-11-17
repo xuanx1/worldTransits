@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-noroeste-do-brasil-ramal-de-ponta-pora","identified_as":"Ponta Porã branch of the former Noroeste do Brasil railway (Rumo Malha Oeste), Mato Grosso do Sul.","status":"No regular passenger service (Malha Oeste railway not operating since end of 2025)"};

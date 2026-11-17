@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-motteville-a-saint-valery-en-caux","identified_as":"Standard-gauge line Motteville – Doudeville – Saint-Valery-en-Caux (Seine-Maritime), SNCF.","status":"Closed to passengers since 1994 (replaced by coaches); Saint-Valery end closed to all traffic 2006"};

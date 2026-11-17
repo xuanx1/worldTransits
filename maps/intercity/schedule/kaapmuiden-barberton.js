@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kaapmuiden-barberton","identified_as":"Kaapmuiden – Louw's Creek – Barberton branch, Mpumalanga.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

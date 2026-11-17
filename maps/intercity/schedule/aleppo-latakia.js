@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aleppo-latakia","identified_as":"CFS Aleppo–Latakia line.","status":"No regular passenger service (network paralysed since 2012)"};

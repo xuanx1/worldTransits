@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"上新线","identified_as":"上新线 (Shangxin Line), Shanggaonan (上高南) – Xinyu (新余), 52.7 km: Shanggao South – Xinyu line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

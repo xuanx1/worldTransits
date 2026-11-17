@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"卑水线","identified_as":"卑水线 (Beishui Line), Liuguanying (刘官营) – Beijiadian (卑家店), 46.8 km: Qinhuangdao-area line Beijiadian – Liuguanying","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

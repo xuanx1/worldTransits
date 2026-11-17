@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pruga-zivnice-zvornik-srb","identified_as":"Živinice–Zvornik line towards Serbia (partly unfinished per OSM).","status":"No passenger service"};

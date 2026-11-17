@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"兰州北环线","identified_as":"兰州北环线 (Lanzhoubeihuan Line), Sangyuanzi (桑园子) – Xigucheng (西固城), 43.3 km: Lanzhou hub northern ring (bypass) line Sangyuanzi – Lanzhou North – Xigucheng","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

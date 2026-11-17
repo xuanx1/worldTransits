@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-monterolier-buchy-a-motteville","identified_as":"Standard-gauge SNCF line Montérolier-Buchy–Clères–Motteville (Seine-Maritime).","status":"Freight only; passenger service ended 2 October 1938 (occasional passenger diversions only)"};

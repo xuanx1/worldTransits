@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"barnstaple-branch","identified_as":"Devon and Somerset Railway, Norton Fitzwarren - Dulverton - Barnstaple.","status":"Closed: last train 1 Oct 1966"};

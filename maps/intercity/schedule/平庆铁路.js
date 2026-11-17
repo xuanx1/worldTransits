@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"平庆铁路","identified_as":"Pingliang–Qingyang railway (平庆铁路), Gansu.","status":"Under construction (works began 03 Jan 2024)"};

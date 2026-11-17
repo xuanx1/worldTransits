@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kumanovo-kriva-palanka-railway","identified_as":"Kumanovo–Beljakovce section of the Corridor VIII line towards Kriva Palanka and Bulgaria.","status":"No passenger service (not in operator's timetable; no rail link to Bulgaria)"};

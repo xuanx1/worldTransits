@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"yiyang-line","identified_as":"益羊铁路 Yidu (Qingzhou South)–Yangkou local railway (Weifang).","status":"No passenger service: both end stations are freight-only; no 12306 passenger station on the line"};

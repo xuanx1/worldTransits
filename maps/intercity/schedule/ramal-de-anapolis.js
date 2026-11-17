@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-de-anapolis","identified_as":"E. F. Goiaz Ramal de Anápolis (Leopoldo de Bulhões – Anápolis, via Roncador area), FCA/VLI.","status":"Freight only (passenger trains suspended in the 1970s/1980s)"};

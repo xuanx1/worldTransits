@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lgv-rhin-rhone","identified_as":"LGV Rhin-Rhône eastern branch, second phase Petit-Croix – Lutterbach (the Burnhaupt – Lutterbach stretch near Mulhouse).","status":"Not built – second phase of the eastern branch (studies done, land acquisition since 2011; works not launched)"};

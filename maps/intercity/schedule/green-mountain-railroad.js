@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"green-mountain-railroad","identified_as":"Green Mountain Railroad (Vermont Rail System), Rutland - Chester - Bellows Falls.","status":"Freight only (Vermont Rail System); no regular passenger trains on this line."};

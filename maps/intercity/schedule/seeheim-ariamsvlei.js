@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"seeheim-ariamsvlei","identified_as":"TransNamib line Seeheim – Karasburg – Ariamsvlei; StarLine formerly ran Keetmanshoop – Karasburg Wed & Sat","status":"Passenger service suspended since early 2021 (all TransNamib StarLine trains); freight only"};

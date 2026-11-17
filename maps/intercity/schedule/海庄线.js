@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"海庄线","identified_as":"海岫铁路 Haicheng–Xiuyan (and 岫庄 Xiuyan–Landian) line, Liaoning.","status":"Passenger service suspended since 10 Nov 2020 (opened 28 Sep 2019); freight"};

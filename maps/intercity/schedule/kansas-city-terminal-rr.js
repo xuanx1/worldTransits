@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kansas-city-terminal-rr","identified_as":"Kansas City Terminal Railway, terminal/switching railroad owned by UP, BNSF, NS and CPKC; Amtrak (Missouri River Runner, Southwest Chief) uses it to reach Kansas City Union Station.","status":"Freight terminal railroad; passenger use only by Amtrak trains to/from Union Station (no service of its own)."};

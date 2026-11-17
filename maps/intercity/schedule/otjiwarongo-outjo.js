@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"otjiwarongo-outjo","identified_as":"TransNamib Otjiwarongo – Outjo branch","status":"No passenger service (all TransNamib passenger services suspended since early 2021)"};

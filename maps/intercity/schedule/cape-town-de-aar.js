@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cape-town-de-aar","identified_as":"Cape Town – Wellington – Worcester – Beaufort West – De Aar main line, route of the Shosholoza Meyl Johannesburg – Cape Town train","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

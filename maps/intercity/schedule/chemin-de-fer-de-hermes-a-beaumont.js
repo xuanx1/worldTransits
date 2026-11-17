@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chemin-de-fer-de-hermes-a-beaumont","identified_as":"Metre-gauge secondary railway Hermes – Beaumont-sur-Oise (Oise), built by the Compagnie du chemin de fer de Hermes à Beaumont, later CGVFIL.","status":"Closed since 1948-1949 (bus replacement, itself gone in the 1960s); declassified 1959; parts of the alignment kept for a planned cycle route"};

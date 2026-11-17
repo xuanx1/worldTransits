@@ -1,0 +1,93 @@
+{
+ "_how": "change a colour's \"to\", then: python scripts/world_svg.py build",
+ "colours": {
+  "#6d6e71": {
+   "to": "#6d6e71",
+   "uses": 9626
+  },
+  "#f1c8d9": {
+   "to": "#f1c8d9",
+   "uses": 3887
+  },
+  "#231f20": {
+   "to": "#231f20",
+   "uses": 3240
+  },
+  "#d3bd29": {
+   "to": "#d3bd29",
+   "uses": 2730
+  },
+  "#6e93be": {
+   "to": "#6e93be",
+   "uses": 2700
+  },
+  "#00a196": {
+   "to": "#00a196",
+   "uses": 2678
+  },
+  "#fcfbf6": {
+   "to": "#fcfbf6",
+   "uses": 2486
+  },
+  "#88b789": {
+   "to": "#88b789",
+   "uses": 2343
+  },
+  "#89c0d9": {
+   "to": "#89c0d9",
+   "uses": 2123
+  },
+  "#bf81a8": {
+   "to": "#bf81a8",
+   "uses": 1229
+  },
+  "#d89c7a": {
+   "to": "#d89c7a",
+   "uses": 1144
+  },
+  "#fff200": {
+   "to": "#fff200",
+   "uses": 845
+  },
+  "#9c79a7": {
+   "to": "#9c79a7",
+   "uses": 729
+  },
+  "#b0bc85": {
+   "to": "#b0bc85",
+   "uses": 675
+  },
+  "#636466": {
+   "to": "#636466",
+   "uses": 648
+  },
+  "#d5836a": {
+   "to": "#d5836a",
+   "uses": 429
+  },
+  "#c7c8ca": {
+   "to": "#c7c8ca",
+   "uses": 369
+  },
+  "#77b6b0": {
+   "to": "#77b6b0",
+   "uses": 108
+  },
+  "#ffffff": {
+   "to": "#ffffff",
+   "uses": 79
+  },
+  "#beb632": {
+   "to": "#beb632",
+   "uses": 75
+  },
+  "#daddd2": {
+   "to": "#daddd2",
+   "uses": 52
+  },
+  "#beaec5": {
+   "to": "#beaec5",
+   "uses": 17
+  }
+ }
+}

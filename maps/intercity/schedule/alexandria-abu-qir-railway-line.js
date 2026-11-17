@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"alexandria-abu-qir-railway-line","identified_as":"Alexandria (Misr Station) - Abu Qir suburban railway, being rebuilt as the Abu Qir metro line","status":"Passenger service suspended for conversion into a metro line (Abu Qir Metro); replacement buses"};

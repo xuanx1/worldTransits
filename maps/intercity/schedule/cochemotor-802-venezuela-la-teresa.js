@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cochemotor-802-venezuela-la-teresa","identified_as":"Railcar (coche motor 802) Venezuela – Pitajones – La Teresa, Ciego de Ávila province.","status":"Suspended since early 2026 (all seven Ciego de Ávila rail routes halted for fuel in Mar 2026; this route not reported restored) (provisional)"};

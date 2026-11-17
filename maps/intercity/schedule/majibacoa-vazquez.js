@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"majibacoa-vazquez","identified_as":"Local railcar Majibacoa – Vázquez (Las Tunas province).","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains, fuel shortage)"};

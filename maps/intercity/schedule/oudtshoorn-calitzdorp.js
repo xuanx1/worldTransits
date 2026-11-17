@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"oudtshoorn-calitzdorp","identified_as":"Oudtshoorn – Armoed – Calitzdorp branch line (Western Cape)","status":"Closed 1993 (Armoed – Calitzdorp)"};

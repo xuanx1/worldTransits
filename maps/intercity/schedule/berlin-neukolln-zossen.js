@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"berlin-neukolln-zossen","identified_as":"Neukölln-Mittenwalder Eisenbahn (Berlin-Neukölln - Mittenwalde/Zossen area).","status":"Freight only (industrial line); no passenger service"};

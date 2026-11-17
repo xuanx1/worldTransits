@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"johannesburg-east-london","identified_as":"PRASA Shosholoza Meyl long-distance route Johannesburg – Bloemfontein – Komani – East London (KuGompo City)","status":"Passenger service suspended (Shosholoza Meyl not operating; PRASA targets a limited restart in 2027)"};

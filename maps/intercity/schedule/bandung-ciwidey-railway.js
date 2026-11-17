@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bandung-ciwidey-railway","identified_as":"Former Bandung (Cikudapateuh) – Soreang – Ciwidey branch railway.","status":"Closed since 1 Jan 1982; reactivation proposed (2025–2026) but no progress."};

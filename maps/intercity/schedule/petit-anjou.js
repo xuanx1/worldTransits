@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"petit-anjou","identified_as":"Petit Anjou: metre-gauge secondary network of Maine-et-Loire/Loire-Atlantique (Angers, Cholet, Beaupréau, Nantes), run by the Compagnie des Chemins de fer de l'Anjou then from 1928 by the SE.","status":"Closed: passenger closures from 1935–37, most lines closed 1947, network closed 1948 (last freight spur 1955)"};

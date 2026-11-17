@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-carhaix-a-loudeac","identified_as":"Metre-gauge Réseau Breton line Carhaix–Gouarec–Loudéac (Côtes-d'Armor).","status":"Closed to passengers since 10 April 1967; declassified, now a greenway"};

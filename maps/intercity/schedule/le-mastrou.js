@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"le-mastrou","identified_as":"Heritage steam/diesel train 'Le Mastrou' (Train de l'Ardèche) on the metre-gauge Tournon – Lamastre line of the former Chemin de fer du Vivarais.","status":"Heritage/tourist train, not a regular service; original CFD line closed 31 Oct 1968"};

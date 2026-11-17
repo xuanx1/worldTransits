@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"irt-eastern-parkway-line","identified_as":"NYC Subway IRT Eastern Parkway Line (Brooklyn), served by the 2, 3, 4 and 5 trains.","status":"Not a railway service of its own: NYC Subway rapid-transit line (2/3/4/5)."};

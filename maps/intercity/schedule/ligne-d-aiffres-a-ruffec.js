@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-aiffres-a-ruffec","identified_as":"Standard-gauge line Aiffres (Niort) – Melle – Chef-Boutonne – Ruffec (Deux-Sèvres/Charente), ex-État then SNCF.","status":"Closed to passengers since 1938 (brief 1949–1954 resumption); mostly declassified; only Niort–Prahecq stub remains for freight"};

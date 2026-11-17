@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"准神铁路","identified_as":"准神铁路 (Zhunshen Railway), Shenmubei (神木北) – Hongjinta (红进塔), 53.5 km: Zhungeer – Shenmu coal line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

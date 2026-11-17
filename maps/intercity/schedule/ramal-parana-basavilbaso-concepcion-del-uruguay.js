@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-parana-basavilbaso-concepcion-del-uruguay","identified_as":"Ferrocarril General Urquiza branch U-5 Paraná – Nogoyá – Rosario del Tala – Basavilbaso – Concepción del Uruguay (Entre Ríos), 280 km.","status":"No passenger service (Paraná – Concepción del Uruguay train suspended since February 2016; no Entre Ríos passenger trains running in 2026)"};

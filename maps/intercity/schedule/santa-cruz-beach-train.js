@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"santa-cruz-beach-train","identified_as":"Roaring Camp Railroads' Santa Cruz Beach Train, Felton (Roaring Camp) - Santa Cruz Beach Boardwalk excursion.","status":"Heritage / tourist excursion; seasonal, currently not running (\"Returning Spring 2027\")."};

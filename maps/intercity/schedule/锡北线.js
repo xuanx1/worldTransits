@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"锡北线","identified_as":"Xibei local railway (锡北铁路), Xitieshan (Qinghai–Tibet railway) – Beihuobuxun potash salt lake, 54 km","status":"Freight only (no passenger trains)"};

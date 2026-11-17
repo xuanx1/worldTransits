@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"broltalbahn","identified_as":"Bröltalbahn (Rhein-Sieg-Eisenbahn) narrow gauge, Bonn-Beuel - Hennef.","status":"Closed; passenger service withdrawn from 1951; part of the trackbed in Bonn-Beuel is now a cycle path"};

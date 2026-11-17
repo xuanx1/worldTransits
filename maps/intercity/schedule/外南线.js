@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"外南线","identified_as":"外南铁路 Yanping–Waiyang section of the old 外福铁路 (Fujian).","status":"No passenger service at the 外洋 end; no train 延平东–延平西 on 12306"};

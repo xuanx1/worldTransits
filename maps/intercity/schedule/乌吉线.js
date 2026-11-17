@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"乌吉线","identified_as":"乌吉线 (Wuji Line), Jilantai (吉兰泰) – Wuhai West (乌海西), 130.9 km: Wuhai West – Jilantai branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

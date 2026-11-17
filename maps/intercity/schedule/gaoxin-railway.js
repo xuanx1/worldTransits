@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"gaoxin-railway","identified_as":"高新铁路 Gaotaishan–Xinlitun line (Liaoning).","status":"No passenger trains found: 高台山 handles no passengers and 12306 shows no train 新立屯–小东"};

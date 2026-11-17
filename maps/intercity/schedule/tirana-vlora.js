@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tirana-vlora","identified_as":"HSH Tirana–Vlorë service.","status":"No passenger trains running (late 2026)"};

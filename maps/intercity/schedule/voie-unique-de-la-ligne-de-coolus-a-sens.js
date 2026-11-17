@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"voie-unique-de-la-ligne-de-coolus-a-sens","identified_as":"Single-track standard-gauge line Coolus (Châlons) – Troyes – Sens (Marne/Aube/Yonne).","status":"Freight only; passenger service ended 1938 (Troyes–Sens) and 1972 (Coolus–Troyes); some sections neutralised"};

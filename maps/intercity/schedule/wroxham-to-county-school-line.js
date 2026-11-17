@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"wroxham-to-county-school-line","identified_as":"Bure Valley Railway, 15-inch gauge heritage line Aylsham - Hoveton & Wroxham.","status":"Heritage narrow-gauge railway (opened 10 Jul 1990) on the former standard-gauge line closed 1982"};

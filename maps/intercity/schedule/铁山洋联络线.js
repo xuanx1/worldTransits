@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"铁山洋联络线","identified_as":"铁山洋联络线 (Tieshanyanglianluo Line), Tieshanyang (铁山洋) – Longyandong (龙岩东), 12.9 km: Longyan hub connecting line Tieshanyang – Longyan East","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

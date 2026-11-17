@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ruabon-and-barmouth-line","identified_as":"Ruabon - Llangollen - Bala - Dolgellau - Barmouth line; Llangollen Railway and Bala Lake Railway heritage sections.","status":"Closed 18 Jan 1965; heritage Llangollen Railway (Llangollen-Corwen) and Bala Lake Railway on parts"};

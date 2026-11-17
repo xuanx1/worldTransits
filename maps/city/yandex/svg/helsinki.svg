@@ -1,0 +1,538 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2480" viewBox="0 0 2000 2480">
+<rect width="2000" height="2480" fill="#ffffff"/>
+<circle cx="1199" cy="2461" r="16" fill="#f58220"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1183" y="2460.0">M1</tspan></text>
+<circle cx="1249" cy="146" r="16" fill="#f58220"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1233" y="145.0">M1</tspan></text>
+<circle cx="1282" cy="1785" r="16" fill="#f58220"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1266" y="1784.0">M2</tspan></text>
+<circle cx="1149" cy="146" r="16" fill="#f58220"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1133" y="145.0">M2</tspan></text>
+<circle cx="1239" cy="1513" r="16" fill="#6ac9c8"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1223" y="1512.0">15</tspan></text>
+<circle cx="1128" cy="551" r="16" fill="#6ac9c8"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1112" y="550.0">15</tspan></text>
+<image x="1261" y="1149" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxLjMgKDU3NTQ0KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5idXMtdGVybWluYWwtMTQgY29weSA1PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0idHJhbnNwb3J0LXBvaSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE5OS4wMDAwMDAsIC0yNjIuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJidXMtdGVybWluYWwtMTQtY29weS01IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOTkuMDAwMDAwLCAyNjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCwzLjk5NDc4MzQgQzAsMS43ODg1MjU0NSAxLjc5MTcxNTYyLDAgMy45OTQ3ODM0LDAgTDE0LjAwNTIxNjYsMCBDMTYuMjExNDc0NSwwIDE4LDEuNzkxNzE1NjIgMTgsMy45OTQ3ODM0IEwxOCwxNC4wMDUyMTY2IEMxOCwxNi4yMTE0NzQ1IDE2LjIwODI4NDQsMTggMTQuMDA1MjE2NiwxOCBMMy45OTQ3ODM0LDE4IEMxLjc4ODUyNTQ1LDE4IDAsMTYuMjA4Mjg0NCAwLDE0LjAwNTIxNjYgTDAsMy45OTQ3ODM0IFoiIGlkPSJSZWN0YW5nbGUiIGZpbGw9IiMyOTdBQ0MiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxnIGlkPSJkYXkvMTQvcnVicmljc19yYWlsd2F5X3Rlcm1pbmFsXzE0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLjAwMDAwMCwgMi4wMDAwMDApIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOC42MiwxMC4xNiBDOC41NDQ0NTgyNSwxMC4wNTkyNzc3IDguNDI1OTAyOTIsMTAgOC4zLDEwIEw1LjcsMTAgQzUuNTc0MDk3MDgsMTAgNS40NTU1NDE3NSwxMC4wNTkyNzc3IDUuMzgsMTAuMTYgTDQuODIxMTA2NzUsMTAuOTA1MTkxIEM0LjM0NjczNTIxLDEwLjg1NzcxMTYgMy45MjU4NjU4NSwxMC43OTIzOTk5IDMuNTU4NDk4MzYsMTAuNzA5MjU3MyBDMi42NDcwODQyOSwxMC41MDI5NjU3IDIsOS42OTMwNTA2IDIsOC43NTg1ODE4NiBMMi4wMDAwMDUxNiwyLjc0OTY3OTkzIEMyLjAwMDAwNTE2LDIuMTQ5NzY3MzYgMi4zNTc0NDkxMywxLjYwNzU1MTYgMi45MDg4MDA0NiwxLjM3MTEwNTQzIEMzLjM1NDg3NjcxLDEuMTc5ODA2MzMgMy45MjEwOTk0MywxLjAzNjU2NTgxIDQuNjA3NDY4NjQsMC45NDEzODM4NzkgQzQuODI5MDE4NSwwLjM4OTYwOTIwNCA1LjM2OTAxMDIsMCA2LDAgTDgsMCBDOC42MzA5ODk4LDAgOS4xNzA5ODE1LDAuMzg5NjA5MjA0IDkuMzkyNTMxMzYsMC45NDEzODM4NzkgQzEwLjA3ODg4MDEsMS4wMzY1NjI5NyAxMC42NDUwODk1LDEuMTc5Nzk3NzkgMTEuMDkxMTcsMS4zNzEwNjQwMiBDMTEuNjQyNTQxMywxLjYwNzUxMTM5IDEyLDIuMTQ5NzQyODcgMTIsMi43NDk2NzQyIEwxMi4wMDAwMTYsOC43NTg1NjExOCBDMTIuMDAwMDE2LDkuNjkzMDI1NDUgMTEuMzUyOTM3LDEwLjUwMjkzNzYgMTAuNDQxNTI4MiwxMC43MDkyMzIxIEMxMC4wNzQxNTQ4LDEwLjc5MjM4NTkgOS42NTMyNzU2NiwxMC44NTc3MDQ1IDkuMTc4ODkwODMsMTAuOTA1MTg3OCBMOC42MiwxMC4xNiBaIE05LjA1NDk3MDM2LDkgTDEwLjI1LDkgQzEwLjY2NDIxMzYsOSAxMSw4LjY2NDIxMzU2IDExLDguMjUgTDExLDcuOTAwMDAwMDEgQzExLDcuNjc5MDg2MSAxMC44MjA5MTM5LDcuNSAxMC42LDcuNSBMOS4yODgzMDM2OSw3LjUgQzkuMTE2MTMxNTMsNy41IDguOTYzMjc1OTksNy42MTAxNzIwNCA4LjkwODgzMDM3LDcuNzczNTA4OSBMOC42NzU0OTcwNCw4LjQ3MzUwODg5IEM4LjYwNTYzNzkzLDguNjgzMDg2MjIgOC43MTg5MDE5Miw4LjkwOTYxNDIxIDguOTI4NDc5MjUsOC45Nzk0NzMzMiBDOC45NjkyNjU4NCw4Ljk5MzA2ODg1IDkuMDExOTc3NTIsOSA5LjA1NDk3MDM2LDkgWiBNNC45NDUwMjk2NCw5IEM0Ljk4ODAyMjQ4LDkgNS4wMzA3MzQxNiw4Ljk5MzA2ODg1IDUuMDcxNTIwNzUsOC45Nzk0NzMzMiBDNS4yODEwOTgwOCw4LjkwOTYxNDIxIDUuMzk0MzYyMDcsOC42ODMwODYyMiA1LjMyNDUwMjk2LDguNDczNTA4ODkgTDUuMDkxMTY5NjMsNy43NzM1MDg5IEM1LjAzNjcyNDAxLDcuNjEwMTcyMDQgNC44ODM4Njg0Nyw3LjUgNC43MTE2OTYzMSw3LjUgTDMuNDAwMDAwMDEsNy41IEMzLjE3OTA4NjEsNy41IDMsNy42NzkwODYxIDMsNy45MDAwMDAwMSBMMyw4LjI1IEMzLDguNjY0MjEzNTYgMy4zMzU3ODY0NCw5IDMuNzUsOSBMNC45NDUwMjk2NCw5IFogTTMuODA0MTMwMzUsMi44MTkxNzQ0NiBDMy4zMzY1OTg3OCwyLjkxMjU2MDA4IDMuMDAwMDE1NjgsMy4zMjMwMjE1NSAzLjAwMDAxNTY4LDMuNzk5Nzg4NDEgTDMuMDAwMDAyMiw1LjQ2NDAwNDI5IEMyLjk5OTk5OTAxLDUuOTkxNjIzMTQgMy40MDk5MTMzNCw2LjQyODQ2ODUzIDMuOTM2NDY2MDYsNi40NjE5OTMxIEM1LjM4MTUzNzc0LDYuNTUzOTk3OTUgNi40MDI3NDI3NSw2LjYwMDAwMDM4IDcuMDAwMDgxMSw2LjYwMDAwMDM4IEM3LjU5NzQwNTU3LDYuNjAwMDAwMzggOC42MTg1ODU2MSw2LjU1Mzk5NzczIDEwLjA2MzYyMTIsNi40NjE5OTI0MiBMMTAuMDYzNjE4Miw2LjQ2MTk0NDI0IEMxMC41OTAxNDc4LDYuNDI4NDIwMTMgMTEuMDAwMDQxNyw1Ljk5MTU5MDAxIDExLjAwMDAzMTcsNS40NjM5OTQxNyBMMTEsMy43OTk4MDUxMiBDMTEsMy4zMjMwMzI2NCAxMC42NjM0MTMsMi45MTI1NjYzIDEwLjE5NTg3NiwyLjgxOTE3OTM4IEM5LjEzMDU4NDQ4LDIuNjA2MzkxOTYgOC4wNjUyOTIyNCwyLjUgNywyLjUgQzUuOTM0NzEwMTIsMi41IDQuODY5NDIwMjQsMi42MDYzOTE0OSAzLjgwNDEzMDM1LDIuODE5MTc0NDYgWiBNNiwxIEM1LjcyMzg1NzYzLDEgNS41LDEuMjIzODU3NjMgNS41LDEuNSBDNS41LDEuNzc2MTQyMzcgNS43MjM4NTc2MywyIDYsMiBMOCwyIEM4LjI3NjE0MjM3LDIgOC41LDEuNzc2MTQyMzcgOC41LDEuNSBDOC41LDEuMjIzODU3NjMgOC4yNzYxNDIzNywxIDgsMSBMNiwxIFoiIGlkPSJDb21iaW5lZC1TaGFwZSI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik00LjkyMTkxNDQsMTIuMzk5OTk5NiBMOS4wNzgwODU2LDEyLjM5OTk5OTYgTDkuMDIxNTgyMzgsMTIuMjg5NDQyNyBDOS4wMDczODkxOSwxMi4yNjE2NzE2IDksMTIuMjMxMDQ5IDksMTIuMiBDOSwxMi4wODk1NDMxIDkuMDkxNTI3LDEyIDkuMjA0NDMxMjgsMTIgTDkuOTMwODg1NTcsMTIgQzEwLjAzOTMyMjcsMTIgMTAuMTQzMzE4NSwxMi4wNDIxNDI3IDEwLjIxOTk5NTEsMTIuMTE3MTU3MyBMMTEuOTcwMDYxNywxMy44MjkyODkzIEMxMS45ODkyMzA5LDEzLjg0ODA0MyAxMiwxMy44NzM0NzgzIDEyLDEzLjkgQzEyLDEzLjk1NTIyODUgMTEuOTU0MjM2NSwxNCAxMS44OTc3ODQ0LDE0IEwxMC4wMjIxNTY0LDE0IEM5Ljk0NDcyMzUyLDE0IDkuODczOTM2NTEsMTMuOTU3MTk5NSA5LjgzOTMwNzQ5LDEzLjg4OTQ0MjcgTDkuMzg0NzMxNzQsMTIuOTk5OTk4MSBMNC42MTUyNjgyNiwxMi45OTk5OTgxIEw0LjE2MDY5MjUxLDEzLjg4OTQ0MjcgQzQuMTI2MDYzNDksMTMuOTU3MTk5NSA0LjA1NTI3NjQ4LDE0IDMuOTc3ODQzNjIsMTQgTDIuMTAyMjE1NjQsMTQgQzIuMDQ1NzYzNSwxNCAyLDEzLjk1NTIyODUgMiwxMy45IEMyLDEzLjg3MzQ3ODMgMi4wMTA3NjkxMiwxMy44NDgwNDMgMi4wMjk5MzgyNywxMy44MjkyODkzIEwzLjc4MDAwNDk1LDEyLjExNzE1NzMgQzMuODU2NjgxNTUsMTIuMDQyMTQyNyAzLjk2MDY3NzM0LDEyIDQuMDY5MTE0NDMsMTIgTDQuNzk1NTY4NzIsMTIgQzQuOTA4NDczLDEyIDUsMTIuMDg5NTQzMSA1LDEyLjIgQzUsMTIuMjMxMDQ5IDQuOTkyNjEwODEsMTIuMjYxNjcxNiA0Ljk3ODQxNzYyLDEyLjI4OTQ0MjcgTDQuOTIxOTE0NCwxMi4zOTk5OTk2IFoiIGlkPSJQYXRoIiBmaWxsLW9wYWNpdHk9IjAuOSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="/>
+<image x="1261" y="1231" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxLjMgKDU3NTQ0KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5idXMtdGVybWluYWwtMTQgY29weSA0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0idHJhbnNwb3J0LXBvaSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE3NS4wMDAwMDAsIC0yNjIuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJidXMtdGVybWluYWwtMTQtY29weS00IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNzUuMDAwMDAwLCAyNjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCwzLjk5NDc4MzQgQzAsMS43ODg1MjU0NSAxLjc5MTcxNTYyLDAgMy45OTQ3ODM0LDAgTDE0LjAwNTIxNjYsMCBDMTYuMjExNDc0NSwwIDE4LDEuNzkxNzE1NjIgMTgsMy45OTQ3ODM0IEwxOCwxNC4wMDUyMTY2IEMxOCwxNi4yMTE0NzQ1IDE2LjIwODI4NDQsMTggMTQuMDA1MjE2NiwxOCBMMy45OTQ3ODM0LDE4IEMxLjc4ODUyNTQ1LDE4IDAsMTYuMjA4Mjg0NCAwLDE0LjAwNTIxNjYgTDAsMy45OTQ3ODM0IFoiIGlkPSJSZWN0YW5nbGUiIGZpbGw9IiMyOTdBQ0MiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxnIGlkPSJkYXkvMTQvcnVicmljc19idXNfc3RhdGlvbl8xNCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4wMDAwMDAsIDIuMDAwMDAwKSIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLDEyLjYxNjExMzcgQzEyLDEyLjgyODEyODMgMTEuODEyMDE0OSwxMyAxMS42MDAwMDA0LDEzIEwxMC4yNjc1OTE5LDEzIEMxMC4xMDA0MTUzLDEzIDkuOTQ0Mjk5NjIsMTIuOTE2NDQ5NCA5Ljg1MTU2NjczLDEyLjc3NzM1MDEgTDksMTEuNSBMNSwxMS41IEw0LjE0ODQzMzI3LDEyLjc3NzM1MDEgQzQuMDU1NzAwMzgsMTIuOTE2NDQ5NCAzLjg5OTU4NDcxLDEzIDMuNzMyNDA4MTIsMTMgTDIuNDAwMDAwMSwxMyBDMi4xODc5ODU1NywxMyAyLDEyLjgyODEyODMgMiwxMi42MTYxMTM3IEwyLDUuOTk5MTI0NjggTDEuMDczMzc4MjQsNS41NzMyNDk3OSBDMS4wMjYzOTkzOCw1LjUyNjM1MzE2IDEsNS40NjI2OTgzMSAxLDUuMzk2MzE4MjkgTDEsMy43NSBDMSwzIDEuNzIzODU3NjMsMyAyLDMgTDIsMi43OTA5MzQ3MiBDMi4wMDAwMDAwMSwyLjE0MDk4MDUxIDIuMzUyMzc3NzMsMS41NjQ5NzIyIDMsMS4zNjQyNTM3MSBDMy44MDgwMTQ4NiwxLjExMzgyNDUxIDQuODQzNDY4NjMsMSA3LDEgQzkuMTU2NTMxMzgsMSAxMC4xOTE5ODUxLDEuMTEzODI0NTEgMTEsMS4zNjQyNTM3MSBDMTEuNjQ3NjIyMywxLjU2NDk3MjIxIDEyLDIuMTQwOTgwNTIgMTIsMi43OTA5MzQ3MyBMMTIsMyBDMTIuMjc2MTQyNCwzIDEzLDMgMTMsMy43NSBMMTMsNS4zOTgwMjQyOSBDMTMsNS40NjMzOTM1NiAxMi45NzQzOTYzLDUuNTI2MTYyNjMgMTIuOTI4Njc1LDUuNTcyODgyMDUgTDEyLDYuMDEwOTE1MzYgTDEyLDEyLjYxNjExMzcgWiBNNywyLjUgQzUuMDEyMTExNzMsMi41IDMuNzY1MTY3LDIuNjM5MDU3MDUgMy4yNTkxNjU4MiwyLjkxNzE3MTE2IEMzLjA5OTMyMzE2LDMuMDA1MDI1NyAzLjAwMDAwMjQzLDMuMTcyOTQ5NzQgMy4wMDAwMDI0MywzLjM1NTM0NTE4IEwzLDYuNjI1IEMzLDYuODMyMTA2NzggMy4xNDkyMzg0Miw3IDMuMzMzMzMzMzMsNyBMMTAuNjY2NjY2Nyw3IEMxMC44NTA3NjE2LDcgMTEsNi44MzIxMDY3OCAxMSw2LjYyNSBMMTEsMy4yNTEyNDc4NCBDMTAuOTk4NzUyMSwyLjc1IDkuNjY1NDE4ODEsMi41IDcsMi41IFogTTEwLDEwLjUgQzEwLjU1MjI4NDcsMTAuNSAxMSwxMC4wNTIyODQ3IDExLDkuNSBDMTEsOC45NDc3MTUyNSAxMC41NTIyODQ3LDguNSAxMCw4LjUgQzkuNDQ3NzE1MjUsOC41IDksOC45NDc3MTUyNSA5LDkuNSBDOSwxMC4wNTIyODQ3IDkuNDQ3NzE1MjUsMTAuNSAxMCwxMC41IFogTTQsMTAuNSBDNC41NTIyODQ3NSwxMC41IDUsMTAuMDUyMjg0NyA1LDkuNSBDNSw4Ljk0NzcxNTI1IDQuNTUyMjg0NzUsOC41IDQsOC41IEMzLjQ0NzcxNTI1LDguNSAzLDguOTQ3NzE1MjUgMyw5LjUgQzMsMTAuMDUyMjg0NyAzLjQ0NzcxNTI1LDEwLjUgNCwxMC41IFoiIGlkPSJDb21iaW5lZC1TaGFwZSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="/>
+<image x="1261" y="1072" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxLjMgKDU3NTQ0KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5idXMtdGVybWluYWwtMTQgY29weSA2PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0idHJhbnNwb3J0LXBvaSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIyMy4wMDAwMDAsIC0yNjIuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJidXMtdGVybWluYWwtMTQtY29weS02IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMjMuMDAwMDAwLCAyNjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCwzLjk5NDc4MzQgQzAsMS43ODg1MjU0NSAxLjc5MTcxNTYyLDAgMy45OTQ3ODM0LDAgTDE0LjAwNTIxNjYsMCBDMTYuMjExNDc0NSwwIDE4LDEuNzkxNzE1NjIgMTgsMy45OTQ3ODM0IEwxOCwxNC4wMDUyMTY2IEMxOCwxNi4yMTE0NzQ1IDE2LjIwODI4NDQsMTggMTQuMDA1MjE2NiwxOCBMMy45OTQ3ODM0LDE4IEMxLjc4ODUyNTQ1LDE4IDAsMTYuMjA4Mjg0NCAwLDE0LjAwNTIxNjYgTDAsMy45OTQ3ODM0IFoiIGlkPSJSZWN0YW5nbGUtMyIgZmlsbD0iIzI5N0FDQyI+PC9wYXRoPgogICAgICAgICAgICAgICAgPGcgaWQ9ImRheS8xNC9ydWJyaWNzX3BvcnRfMTQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuMDAwMDAwLCAyLjAwMDAwMCkiIGZpbGw9IiNGRkZGRkYiPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xLjMwMjMzODU5LDguNzgxMDE3ODQgTDYuNzkzOTkzODQsNi4zODYyODU1NiBDNi45MjAyNjgsNi4zMzEyMjE1MSA3LjA2MzY1NTE4LDYuMzMwNzc2MDUgNy4xOTAyNjg0OSw2LjM4NTA1NDQ3IEwxMi42OTkyMDA1LDguNzQ2NzAyODIgQzEyLjk1MjgzMDgsOC44NTU0MzI2OCAxMy4wNzAzNjcsOS4xNDkzNDk5MyAxMi45NjE3MjUsOS40MDMxODUzNiBDMTIuOTQ1MzUxNyw5LjQ0MTQ0MDcxIDEyLjkyNDI3MDEsOS40Nzc1MDA1NSAxMi44OTg5NjkzLDkuNTEwNTI4MjQgQzExLjYzODc3MTUsMTEuMTUyMjYyOCAxMS4wMDMwODc3LDExLjk4MjA4NjggMTAuOTkxOTE3OCwxMiBDMTAuNTkyMjQxNiwxMi42NDA5NjggOS45NzMyNzg1MiwxMyA4Ljk5MzUzNDYzLDEzIEM3LjQ5NDc0NzIyLDEzIDYuNDk1NTU1NjEsMTIgNC45OTY3NjgyMSwxMiBDNC40ODAzNTExNiwxMiA0LjA1MjkwMTU2LDEyLjA4OTAzOTQgMy43MTQzOTkwNSwxMi4yNjcwNzk1IEMzLjIzMjQ2MjcxLDEyLjUyMDYzMTEgMi42MzY0MDc0MiwxMi4zNDEzMjY0IDIuMzc0MDE3MzQsMTEuODYzODY3NSBMMS4wNjQxNDU3Niw5LjQ4MDM1NTgxIEMwLjkzMTE3NTE1OCw5LjIzODM5NTQ3IDEuMDE5MzcwMjQsOC45MzQzNjY2NyAxLjI2MTEzNDk5LDguODAxMjg4NDkgQzEuMjc0NTUxODcsOC43OTM5MDMyNCAxLjI4ODMwMDkyLDguNzg3MTM5MjEgMS4zMDIzMzg1OSw4Ljc4MTAxNzg0IFogTTguNDkzOTM5LDkuNzAwMDAwMTcgQzguODgwMjI1OCw5LjcwMDAwMDE3IDkuMTkzMzczMTEsOS4zODY1OTk1IDkuMTkzMzczMTEsOS4wMDAwMDAxOCBDOS4xOTMzNzMxMSw4LjYxMzQwMDg2IDguODgwMjI1OCw4LjMwMDAwMDE5IDguNDkzOTM5LDguMzAwMDAwMTkgQzguMTA3NjUyMjEsOC4zMDAwMDAxOSA3Ljc5NDUwNDg5LDguNjEzNDAwODYgNy43OTQ1MDQ4OSw5LjAwMDAwMDE4IEM3Ljc5NDUwNDg5LDkuMzg2NTk5NSA4LjEwNzY1MjIxLDkuNzAwMDAwMTcgOC40OTM5MzksOS43MDAwMDAxNyBaIE01LjQ5NjM2NDE5LDkuNzAwMDAwMTcgQzUuODgyNjUwOTgsOS43MDAwMDAxNyA2LjE5NTc5ODMsOS4zODY1OTk1IDYuMTk1Nzk4Myw5LjAwMDAwMDE4IEM2LjE5NTc5ODMsOC42MTM0MDA4NiA1Ljg4MjY1MDk4LDguMzAwMDAwMTkgNS40OTYzNjQxOSw4LjMwMDAwMDE5IEM1LjExMDA3NzM5LDguMzAwMDAwMTkgNC43OTY5MzAwOCw4LjYxMzQwMDg2IDQuNzk2OTMwMDgsOS4wMDAwMDAxOCBDNC43OTY5MzAwOCw5LjM4NjU5OTUgNS4xMTAwNzczOSw5LjcwMDAwMDE3IDUuNDk2MzY0MTksOS43MDAwMDAxNyBaIiBpZD0iQ29tYmluZWQtU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTAuNjQ1ODYyMSw0LjIyMzU5OTYyIEMxMC42MTQ0MTQxLDQuMDkyNDYwNSAxMC40OTcyMzI0LDQgMTAuMzYyNDc4Myw0IEwzLjYyNzgyNDQ1LDQgQzMuNDkzMDcwNDQsNCAzLjM3NTg4ODY5LDQuMDkyNDYwNDcgMy4zNDQ0NDA3NSw0LjIyMzU5OTU3IEwyLjU5ODcwODI2LDcgTDYuMzk0ODcxOSw1LjYwMDAwMDM4IEM2Ljc3MzY5NDQsNS40MzQ4MDgyMSA3LjIwMzg1NTkzLDUuNDM3MTY1MTMgNy41ODM2OTU4NSw1LjYwMDAwMDM4IEwxMS4zOTE1OTQxLDcgTDEwLjY0NTg2MjEsNC4yMjM1OTk2MiBaIiBpZD0iQ29tYmluZWQtU2hhcGUiIGZpbGwtb3BhY2l0eT0iMC45Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTguMTI0MjM4MDQsMy4xOTk5OTk4MSBMNy44MzE3MzQ4NywxLjI0ODQwMDcxIEM3LjgxMDMzNTY5LDEuMTA1NjI0MDUgNy42ODc3ODU1MiwxIDcuNTQzNTI4MjcsMSBMNi40NDY3NzQ1NiwxIEM2LjMwMjUxNzMxLDEgNi4xNzk5NjcxNCwxLjEwNTYyNDA1IDYuMTU4NTY3OTYsMS4yNDg0MDA3MSBMNS44NjYwNjQ3OSwzLjE5OTk5OTgxIEw4LjEyNDIzODA0LDMuMTk5OTk5ODEgWiIgaWQ9IkNvbWJpbmVkLVNoYXBlIiBmaWxsLW9wYWNpdHk9IjAuOSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="/>
+<image x="1261" y="1312" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxLjMgKDU3NTQ0KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5idXMtdGVybWluYWwtMTQgY29weSA2PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0idHJhbnNwb3J0LXBvaSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIyMy4wMDAwMDAsIC0yNjIuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJidXMtdGVybWluYWwtMTQtY29weS02IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMjMuMDAwMDAwLCAyNjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCwzLjk5NDc4MzQgQzAsMS43ODg1MjU0NSAxLjc5MTcxNTYyLDAgMy45OTQ3ODM0LDAgTDE0LjAwNTIxNjYsMCBDMTYuMjExNDc0NSwwIDE4LDEuNzkxNzE1NjIgMTgsMy45OTQ3ODM0IEwxOCwxNC4wMDUyMTY2IEMxOCwxNi4yMTE0NzQ1IDE2LjIwODI4NDQsMTggMTQuMDA1MjE2NiwxOCBMMy45OTQ3ODM0LDE4IEMxLjc4ODUyNTQ1LDE4IDAsMTYuMjA4Mjg0NCAwLDE0LjAwNTIxNjYgTDAsMy45OTQ3ODM0IFoiIGlkPSJSZWN0YW5nbGUtMyIgZmlsbD0iIzI5N0FDQyI+PC9wYXRoPgogICAgICAgICAgICAgICAgPGcgaWQ9ImRheS8xNC9ydWJyaWNzX3BvcnRfMTQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuMDAwMDAwLCAyLjAwMDAwMCkiIGZpbGw9IiNGRkZGRkYiPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xLjMwMjMzODU5LDguNzgxMDE3ODQgTDYuNzkzOTkzODQsNi4zODYyODU1NiBDNi45MjAyNjgsNi4zMzEyMjE1MSA3LjA2MzY1NTE4LDYuMzMwNzc2MDUgNy4xOTAyNjg0OSw2LjM4NTA1NDQ3IEwxMi42OTkyMDA1LDguNzQ2NzAyODIgQzEyLjk1MjgzMDgsOC44NTU0MzI2OCAxMy4wNzAzNjcsOS4xNDkzNDk5MyAxMi45NjE3MjUsOS40MDMxODUzNiBDMTIuOTQ1MzUxNyw5LjQ0MTQ0MDcxIDEyLjkyNDI3MDEsOS40Nzc1MDA1NSAxMi44OTg5NjkzLDkuNTEwNTI4MjQgQzExLjYzODc3MTUsMTEuMTUyMjYyOCAxMS4wMDMwODc3LDExLjk4MjA4NjggMTAuOTkxOTE3OCwxMiBDMTAuNTkyMjQxNiwxMi42NDA5NjggOS45NzMyNzg1MiwxMyA4Ljk5MzUzNDYzLDEzIEM3LjQ5NDc0NzIyLDEzIDYuNDk1NTU1NjEsMTIgNC45OTY3NjgyMSwxMiBDNC40ODAzNTExNiwxMiA0LjA1MjkwMTU2LDEyLjA4OTAzOTQgMy43MTQzOTkwNSwxMi4yNjcwNzk1IEMzLjIzMjQ2MjcxLDEyLjUyMDYzMTEgMi42MzY0MDc0MiwxMi4zNDEzMjY0IDIuMzc0MDE3MzQsMTEuODYzODY3NSBMMS4wNjQxNDU3Niw5LjQ4MDM1NTgxIEMwLjkzMTE3NTE1OCw5LjIzODM5NTQ3IDEuMDE5MzcwMjQsOC45MzQzNjY2NyAxLjI2MTEzNDk5LDguODAxMjg4NDkgQzEuMjc0NTUxODcsOC43OTM5MDMyNCAxLjI4ODMwMDkyLDguNzg3MTM5MjEgMS4zMDIzMzg1OSw4Ljc4MTAxNzg0IFogTTguNDkzOTM5LDkuNzAwMDAwMTcgQzguODgwMjI1OCw5LjcwMDAwMDE3IDkuMTkzMzczMTEsOS4zODY1OTk1IDkuMTkzMzczMTEsOS4wMDAwMDAxOCBDOS4xOTMzNzMxMSw4LjYxMzQwMDg2IDguODgwMjI1OCw4LjMwMDAwMDE5IDguNDkzOTM5LDguMzAwMDAwMTkgQzguMTA3NjUyMjEsOC4zMDAwMDAxOSA3Ljc5NDUwNDg5LDguNjEzNDAwODYgNy43OTQ1MDQ4OSw5LjAwMDAwMDE4IEM3Ljc5NDUwNDg5LDkuMzg2NTk5NSA4LjEwNzY1MjIxLDkuNzAwMDAwMTcgOC40OTM5MzksOS43MDAwMDAxNyBaIE01LjQ5NjM2NDE5LDkuNzAwMDAwMTcgQzUuODgyNjUwOTgsOS43MDAwMDAxNyA2LjE5NTc5ODMsOS4zODY1OTk1IDYuMTk1Nzk4Myw5LjAwMDAwMDE4IEM2LjE5NTc5ODMsOC42MTM0MDA4NiA1Ljg4MjY1MDk4LDguMzAwMDAwMTkgNS40OTYzNjQxOSw4LjMwMDAwMDE5IEM1LjExMDA3NzM5LDguMzAwMDAwMTkgNC43OTY5MzAwOCw4LjYxMzQwMDg2IDQuNzk2OTMwMDgsOS4wMDAwMDAxOCBDNC43OTY5MzAwOCw5LjM4NjU5OTUgNS4xMTAwNzczOSw5LjcwMDAwMDE3IDUuNDk2MzY0MTksOS43MDAwMDAxNyBaIiBpZD0iQ29tYmluZWQtU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTAuNjQ1ODYyMSw0LjIyMzU5OTYyIEMxMC42MTQ0MTQxLDQuMDkyNDYwNSAxMC40OTcyMzI0LDQgMTAuMzYyNDc4Myw0IEwzLjYyNzgyNDQ1LDQgQzMuNDkzMDcwNDQsNCAzLjM3NTg4ODY5LDQuMDkyNDYwNDcgMy4zNDQ0NDA3NSw0LjIyMzU5OTU3IEwyLjU5ODcwODI2LDcgTDYuMzk0ODcxOSw1LjYwMDAwMDM4IEM2Ljc3MzY5NDQsNS40MzQ4MDgyMSA3LjIwMzg1NTkzLDUuNDM3MTY1MTMgNy41ODM2OTU4NSw1LjYwMDAwMDM4IEwxMS4zOTE1OTQxLDcgTDEwLjY0NTg2MjEsNC4yMjM1OTk2MiBaIiBpZD0iQ29tYmluZWQtU2hhcGUiIGZpbGwtb3BhY2l0eT0iMC45Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTguMTI0MjM4MDQsMy4xOTk5OTk4MSBMNy44MzE3MzQ4NywxLjI0ODQwMDcxIEM3LjgxMDMzNTY5LDEuMTA1NjI0MDUgNy42ODc3ODU1MiwxIDcuNTQzNTI4MjcsMSBMNi40NDY3NzQ1NiwxIEM2LjMwMjUxNzMxLDEgNi4xNzk5NjcxNCwxLjEwNTYyNDA1IDYuMTU4NTY3OTYsMS4yNDg0MDA3MSBMNS44NjYwNjQ3OSwzLjE5OTk5OTgxIEw4LjEyNDIzODA0LDMuMTk5OTk5ODEgWiIgaWQ9IkNvbWJpbmVkLVNoYXBlIiBmaWxsLW9wYWNpdHk9IjAuOSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="/>
+<image x="482" y="777" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNThweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgNTggMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUyLjYgKDY3NDkxKSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5Hcm91cCA0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iQWVyb3BvcnRzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTAuMDAwMDAwLCAtMjIyLjAwMDAwMCkiPgogICAgICAgICAgICA8ZyBpZD0iR3JvdXAtNCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAuMDAwMDAwLCAyMjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMzkuNDc2LDEyLjc1OCBMMzQuODcsMTIuNzU4IEwzNC44NywxNyBMMzMuMDkyLDE3IEwzMy4wOTIsNi45NzYgTDM0Ljg3LDYuOTc2IEwzNC44NywxMS4yNiBMMzkuNDc2LDExLjI2IEwzOS40NzYsNi45NzYgTDQxLjI1NCw2Ljk3NiBMNDEuMjU0LDE3IEwzOS40NzYsMTcgTDM5LjQ3NiwxMi43NTggWiBNNDMuNDM4LDYuOTc2IEw0OS41OTgsNi45NzYgTDQ5LjU5OCw4LjQ3NCBMNDUuMjE2LDguNDc0IEw0NS4yMTYsMTEuMDUgTDQ4Ljk0LDExLjA1IEw0OC45NCwxMi41NjIgTDQ1LjIxNiwxMi41NjIgTDQ1LjIxNiwxNS40ODggTDQ5LjY2OCwxNS40ODggTDQ5LjY2OCwxNyBMNDMuNDM4LDE3IEw0My40MzgsNi45NzYgWiBNNTEuNiw2Ljk3NiBMNTMuMzc4LDYuOTc2IEw1My4zNzgsMTUuNDg4IEw1Ny42MiwxNS40ODggTDU3LjYyLDE3IEw1MS42LDE3IEw1MS42LDYuOTc2IFoiIGlkPSJIRUwiIGZpbGw9IiM2NjY2NjYiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDMuOTkwMDUzMDEgQzAsMS43ODY0MDc1OCAxLjc4NDI5MzI4LDAgMy45OTAwNTMwMSwwIEwyMC4wMDk5NDcsMCBDMjIuMjEzNTkyNCwwIDI0LDEuNzg0MjkzMjggMjQsMy45OTAwNTMwMSBMMjQsMjAuMDA5OTQ3IEMyNCwyMi4yMTM1OTI0IDIyLjIxNTcwNjcsMjQgMjAuMDA5OTQ3LDI0IEwzLjk5MDA1MzAxLDI0IEMxLjc4NjQwNzU4LDI0IDAsMjIuMjE1NzA2NyAwLDIwLjAwOTk0NyBMMCwzLjk5MDA1MzAxIFoiIGlkPSJSZWN0YW5nbGUtMyIgZmlsbD0iIzY2NjY2NiI+PC9wYXRoPgogICAgICAgICAgICAgICAgPGcgaWQ9ImRheS8xNC9ydWJyaWNzX2FpcnBvcnRzXzE0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1LjAwMDAwMCwgNS4wMDAwMDApIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNC4xNDUwNjY5Miw4LjUgQzQuNjI1MTQ3MTksNy45MDI5Mjk5NCA1LjI0MzY0OTA5LDcuMTY2MTIzMjYgNS45NzY0NDY5OSw2LjM2MTk1NjgzIEwxLjE4MjA2NTY5LDMuMTY1NzAyNjMgQzAuOTk0MjI3MTk0LDMuMDQwNDc2OTcgMC45NDM0Njk0NjQsMi43ODY2ODgzMiAxLjA2ODY5NTEzLDIuNTk4ODQ5ODIgTDEuNjc5ODg2MDQsMS42ODIwNjM0NSBDMS43ODcxMDkwMiwxLjUyMTIyODk4IDEuOTkyMzM1MDUsMS40NTc0ODc4NyAyLjE3MTgwODY0LDEuNTI5Mjc3MzEgTDguMzE0NTQzNTksMy45ODYzNzEyOSBDMTEuNTAzMzM0MywwLjk5OTM5NDU3IDEyLjYwMDQ1NTMsMC44MDA0NTQ2NDggMTIuODk5OTk5NiwxLjA5OTk5OTkgQzEzLjE5OTk5ODksMS40MDAwMDAxIDEzLDIuNSAxMCw1LjY5OTk5OTgxIEM4LjgyNTc1ODk3LDYuOTUyNTIzNSA2Ljg1OTg3OTEyLDguNjQyNDE3NTggNS41LDkuNzc0MDg0NDYgTDUuNSwxMi40MTM3ODk0IEM1LjUsMTIuNTMwMzc2MSA1LjQzNDEyOTczLDEyLjYzNjk1NjQgNS4zMjk4NTE0NiwxMi42ODkwOTU1IEw0Ljc3MzE5NzI1LDEyLjk2NzQyMjYgQzQuNjIxMTQ5ODgsMTMuMDQzNDQ2MyA0LjQzNjI2MTc2LDEyLjk4MTgxNyA0LjM2MDIzODA3LDEyLjgyOTc2OTYgQzQuMzU2NDIyNjQsMTIuODIyMTM4NyA0LjM1MjkyNjEyLDEyLjgxNDM1MjUgNC4zNDk3NTc1OCwxMi44MDY0MzEyIEwzLjQ0Nzk4OTM3LDEwLjU1MjAxMDYgTDEuMTkzNTY4ODMsOS42NTAyNDI0MiBDMS4wMzU3MzMyNSw5LjU4NzEwODE4IDAuOTU4OTYyNjMyLDkuNDA3OTc2NzUgMS4wMjIwOTY4Nyw5LjI1MDE0MTE3IEMxLjAyNTI2NTQxLDkuMjQyMjE5ODEgMS4wMjg3NjE5Myw5LjIzNDQzMzYyIDEuMDMyNTc3MzYsOS4yMjY4MDI3NSBMMS4zMTA5MDQ0Niw4LjY3MDE0ODU0IEMxLjM2MzA0MzYsOC41NjU4NzAyNyAxLjQ2OTYyMzk0LDguNSAxLjU4NjIxMDU4LDguNSBMNC4xNDUwNjY5Miw4LjUgWiIgaWQ9IkNvbWJpbmVkLVNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEwLjM4MTQwNzIsNi42MDQ5MDI2MyBMMTIuNDcwNzIyNywxMS44MjgxOTE0IEMxMi41NDI1MTIxLDEyLjAwNzY2NSAxMi40Nzg3NzEsMTIuMjEyODkxIDEyLjMxNzkzNjUsMTIuMzIwMTE0IEwxMS40MDExNTAyLDEyLjkzMTMwNDkgQzExLjIxMzMxMTcsMTMuMDU2NTMwNSAxMC45NTk1MjMsMTMuMDA1NzcyOCAxMC44MzQyOTc0LDEyLjgxNzkzNDMgTDguMDc4OTI0MjUsOC42ODQ4NzQ2MyBDOC43MTk3NTI0LDguMTkyMjkxMjQgOS4zNzA4NzA3NCw3LjYyOTEyOTI2IDEwLDcgQzEwLjEzMjUzNDQsNi44Njc0NjU1OSAxMC4yNTk2MDQsNi43MzU3MTE4NiAxMC4zODE0MDcyLDYuNjA0OTAyNjMgWiIgaWQ9IlBhdGgiIGZpbGwtb3BhY2l0eT0iMC45Ij48L3BhdGg+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg=="/>
+<path d="M 1200, 490 L 1200, 475 Q 1200 460 1189.39 449.39 L 1164.14, 424.14 Q 1150 410 1150 390 L 1150, 370" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 490 L 1200, 475 Q 1200 460 1189.39 449.39 L 1164.14, 424.14 Q 1150 410 1150 390 L 1150, 370" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1052, 1775 L 980.61, 1846.39 Q 970 1857 955 1857 L 940, 1857" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1052, 1775 L 980.61, 1846.39 Q 970 1857 955 1857 L 940, 1857" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1052, 1775 L 980.61, 1846.39 Q 970 1857 955 1857 L 940, 1857" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<circle cx="1300" cy="1480" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1480" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1250" cy="990" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1250" cy="990" r="5" fill="#f58220" opacity="1"/>
+<line x1="1200" y1="2390" x2="1200" y2="2310" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2390" x2="1200" y2="2310" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2310" x2="1200" y2="2230" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2310" x2="1200" y2="2230" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2230" x2="1200" y2="2150" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2230" x2="1200" y2="2150" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2150" x2="1200" y2="2070" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2150" x2="1200" y2="2070" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2070" x2="1200" y2="1990" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="2070" x2="1200" y2="1990" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1263" y1="1564" x2="1223" y2="1604" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1263" y1="1564" x2="1223" y2="1604" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1263" y1="1564" x2="1223" y2="1604" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1223" y1="1604" x2="1183" y2="1644" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1223" y1="1604" x2="1183" y2="1644" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1223" y1="1604" x2="1183" y2="1644" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1183" y1="1644" x2="1117" y2="1710" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1183" y1="1644" x2="1117" y2="1710" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1183" y1="1644" x2="1117" y2="1710" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1117" y1="1710" x2="1052" y2="1775" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1117" y1="1710" x2="1052" y2="1775" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1117" y1="1710" x2="1052" y2="1775" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="940" y1="1857" x2="845" y2="1858" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="940" y1="1857" x2="845" y2="1858" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="940" y1="1857" x2="845" y2="1858" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 845, 1858 L 800, 1858.69 Q 780 1859 780 1839 L 780, 1800" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 845, 1858 L 800, 1858.69 Q 780 1859 780 1839 L 780, 1800" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 845, 1858 L 800, 1858.69 Q 780 1859 780 1839 L 780, 1800" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1800" x2="780" y2="1730" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1800" x2="780" y2="1730" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1800" x2="780" y2="1730" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1730" x2="780" y2="1660" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1730" x2="780" y2="1660" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1730" x2="780" y2="1660" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1660" x2="780" y2="1590" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1660" x2="780" y2="1590" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1660" x2="780" y2="1590" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1590" x2="780" y2="1520" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1590" x2="780" y2="1520" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1590" x2="780" y2="1520" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1520" x2="780" y2="1450" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1520" x2="780" y2="1450" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1520" x2="780" y2="1450" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1450" x2="780" y2="1380" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1450" x2="780" y2="1380" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1450" x2="780" y2="1380" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1380" x2="780" y2="1310" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1380" x2="780" y2="1310" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1380" x2="780" y2="1310" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1310" x2="780" y2="1240" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1310" x2="780" y2="1240" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1310" x2="780" y2="1240" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1240" x2="780" y2="1170" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1240" x2="780" y2="1170" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1240" x2="780" y2="1170" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1170" x2="780" y2="1100" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1170" x2="780" y2="1100" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1170" x2="780" y2="1100" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1100" x2="780" y2="1030" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1100" x2="780" y2="1030" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1100" x2="780" y2="1030" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1030" x2="780" y2="960" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1030" x2="780" y2="960" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="1030" x2="780" y2="960" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="960" x2="780" y2="890" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="960" x2="780" y2="890" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="960" x2="780" y2="890" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="890" x2="780" y2="820" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="890" x2="780" y2="820" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="890" x2="780" y2="820" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="820" x2="780" y2="750" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="820" x2="780" y2="750" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="820" x2="780" y2="750" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="750" x2="780" y2="680" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="750" x2="780" y2="680" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="750" x2="780" y2="680" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="680" x2="780" y2="610" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="680" x2="780" y2="610" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="680" x2="780" y2="610" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="610" x2="780" y2="540" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="610" x2="780" y2="540" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="610" x2="780" y2="540" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="540" x2="780" y2="470" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="540" x2="780" y2="470" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="540" x2="780" y2="470" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="470" x2="780" y2="400" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="470" x2="780" y2="400" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="470" x2="780" y2="400" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="400" x2="780" y2="330" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="400" x2="780" y2="330" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="780" y1="400" x2="780" y2="330" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 780, 330 L 780, 290 Q 780 270 800 270 L 850, 270" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 780, 330 L 780, 290 Q 780 270 800 270 L 850, 270" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 780, 330 L 780, 290 Q 780 270 800 270 L 850, 270" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 850, 270 L 930, 270 Q 950 270 964.14 284.14 L 990, 310" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 850, 270 L 930, 270 Q 950 270 964.14 284.14 L 990, 310" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 850, 270 L 930, 270 Q 950 270 964.14 284.14 L 990, 310" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="990" y1="310" x2="1050" y2="370" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="990" y1="310" x2="1050" y2="370" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="990" y1="310" x2="1050" y2="370" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1050" y1="370" x2="1110" y2="430" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1050" y1="370" x2="1110" y2="430" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1050" y1="370" x2="1110" y2="430" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1110" y1="430" x2="1170" y2="490" stroke="#ffffff" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1110" y1="430" x2="1170" y2="490" stroke="#6ac9c8" stroke-width="5" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1110" y1="430" x2="1170" y2="490" stroke="#ffffff" stroke-width="2" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="1990" x2="1200" y2="1910" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="1990" x2="1200" y2="1910" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="1910" x2="1200" y2="1830" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="1910" x2="1200" y2="1830" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="1830" x2="1200" y2="1750" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="1830" x2="1200" y2="1750" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1200, 1750 L 1200, 1695.61 Q 1200 1685 1207.5 1677.5 L 1215, 1670" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 1750 L 1200, 1695.61 Q 1200 1685 1207.5 1677.5 L 1215, 1670" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 1750 L 1200, 1695.61 Q 1200 1685 1207.5 1677.5 L 1215, 1670" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 1750 L 1200, 1695.61 Q 1200 1685 1207.5 1677.5 L 1215, 1670" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1215, 1670 L 1292.58, 1592.42 Q 1300 1585 1300 1574.5 L 1300, 1564" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1215, 1670 L 1292.58, 1592.42 Q 1300 1585 1300 1574.5 L 1300, 1564" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1215, 1670 L 1292.58, 1592.42 Q 1300 1585 1300 1574.5 L 1300, 1564" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1215, 1670 L 1292.58, 1592.42 Q 1300 1585 1300 1574.5 L 1300, 1564" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1300" y1="1564" x2="1300" y2="1480" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1564" x2="1300" y2="1480" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1564" x2="1300" y2="1480" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1564" x2="1300" y2="1480" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1300, 1480 L 1300, 1445 Q 1300 1430 1300 1415 L 1300, 1400" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1300, 1480 L 1300, 1445 Q 1300 1430 1300 1415 L 1300, 1400" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1300" y1="1480" x2="1300" y2="1400" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1480" x2="1300" y2="1400" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1400" x2="1300" y2="1320" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1400" x2="1300" y2="1320" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1400" x2="1300" y2="1320" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1400" x2="1300" y2="1320" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1300, 1320 L 1300, 1240" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1300, 1320 L 1300, 1240" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1300, 1320 L 1300, 1240" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1300, 1320 L 1300, 1240" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1300" y1="1240" x2="1300" y2="1160" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1240" x2="1300" y2="1160" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1240" x2="1300" y2="1160" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1240" x2="1300" y2="1160" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1160" x2="1300" y2="1080" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1160" x2="1300" y2="1080" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1160" x2="1300" y2="1080" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1300" y1="1160" x2="1300" y2="1080" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1300, 1080 L 1300, 1060 Q 1300 1040 1285.86 1025.86 L 1250, 990" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1300, 1080 L 1300, 1060 Q 1300 1040 1285.86 1025.86 L 1250, 990" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1300, 1080 L 1300, 1060 Q 1300 1040 1285.86 1025.86 L 1250, 990" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1300, 1080 L 1300, 1060 Q 1300 1040 1285.86 1025.86 L 1250, 990" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1250, 990 L 1214.14, 954.14 Q 1200 940 1200 920 L 1200, 890" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1250, 990 L 1214.14, 954.14 Q 1200 940 1200 920 L 1200, 890" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1250, 990 L 1214.14, 954.14 Q 1200 940 1200 920 L 1200, 890" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1250, 990 L 1214.14, 954.14 Q 1200 940 1200 920 L 1200, 890" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 890 L 1200, 810" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 890 L 1200, 810" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 890 L 1200, 810" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 890 L 1200, 810" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1200" y1="810" x2="1200" y2="730" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="810" x2="1200" y2="730" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="810" x2="1200" y2="730" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="810" x2="1200" y2="730" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="730" x2="1200" y2="650" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="730" x2="1200" y2="650" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="730" x2="1200" y2="650" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="730" x2="1200" y2="650" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="650" x2="1200" y2="570" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="650" x2="1200" y2="570" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="650" x2="1200" y2="570" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="650" x2="1200" y2="570" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="570" x2="1200" y2="490" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="570" x2="1200" y2="490" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="570" x2="1200" y2="490" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1200" y1="570" x2="1200" y2="490" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1200, 490 L 1200, 475 Q 1200 460 1210.61 449.39 L 1235.86, 424.14 Q 1250 410 1250 390 L 1250, 370" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1200, 490 L 1200, 475 Q 1200 460 1210.61 449.39 L 1235.86, 424.14 Q 1250 410 1250 390 L 1250, 370" stroke="#f58220" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1250" y1="370" x2="1250" y2="290" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1250" y1="370" x2="1250" y2="290" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1250" y1="290" x2="1250" y2="210" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1250" y1="290" x2="1250" y2="210" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1150" y1="370" x2="1150" y2="290" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1150" y1="370" x2="1150" y2="290" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1150" y1="290" x2="1150" y2="210" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1150" y1="290" x2="1150" y2="210" stroke="#f58220" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1192, 490 A 8, 8 0 0 0 1208, 490 A 8, 8 0 0 0 1192, 490" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="" stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1200, 490 L 1170, 490" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1192, 490 A 8, 8 0 0 0 1208, 490 A 8, 8 0 0 0 1192, 490 M 1162, 490 A 8, 8 0 0 0 1178, 490 A 8, 8 0 0 0 1162, 490" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1200, 490 L 1170, 490" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1192, 490 A 8, 8 0 0 0 1208, 490 A 8, 8 0 0 0 1192, 490 M 1162, 490 A 8, 8 0 0 0 1178, 490 A 8, 8 0 0 0 1162, 490" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1215, 1670 L 1183, 1644" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1207, 1670 A 8, 8 0 0 0 1223, 1670 A 8, 8 0 0 0 1207, 1670 M 1175, 1644 A 8, 8 0 0 0 1191, 1644 A 8, 8 0 0 0 1175, 1644" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1215, 1670 L 1183, 1644" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1207, 1670 A 8, 8 0 0 0 1223, 1670 A 8, 8 0 0 0 1207, 1670 M 1175, 1644 A 8, 8 0 0 0 1191, 1644 A 8, 8 0 0 0 1175, 1644" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1300, 1564 L 1263, 1564" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1292, 1564 A 8, 8 0 0 0 1308, 1564 A 8, 8 0 0 0 1292, 1564 M 1255, 1564 A 8, 8 0 0 0 1271, 1564 A 8, 8 0 0 0 1255, 1564" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1300, 1564 L 1263, 1564" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1292, 1564 A 8, 8 0 0 0 1308, 1564 A 8, 8 0 0 0 1292, 1564 M 1255, 1564 A 8, 8 0 0 0 1271, 1564 A 8, 8 0 0 0 1255, 1564" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<circle cx="1200" cy="1750" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="1750" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="1750" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="1750" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1215" cy="1670" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1215" cy="1670" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1215" cy="1670" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1215" cy="1670" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1564" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1564" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1564" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1564" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1480" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1480" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1400" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1400" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1400" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1400" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1320" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1320" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1320" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1320" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1240" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1240" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1240" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1240" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1160" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1160" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1160" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1160" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1080" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1080" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1300" cy="1080" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1300" cy="1080" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1250" cy="990" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1250" cy="990" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="890" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="890" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="890" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="890" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="810" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="810" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="810" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="810" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="730" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="730" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="730" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="730" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="650" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="650" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="650" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="650" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="570" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="570" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="570" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="570" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="490" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="490" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="490" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="490" r="5" fill="#f58220" opacity="1"/>
+<path d="M 1200, 490 L 1170, 490 M 1200, 490 L 1170, 490" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1192, 490 A 8, 8 0 0 0 1208, 490 A 8, 8 0 0 0 1192, 490 M 1162, 490 A 8, 8 0 0 0 1178, 490 A 8, 8 0 0 0 1162, 490" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1215, 1670 L 1183, 1644 M 1215, 1670 L 1183, 1644" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1207, 1670 A 8, 8 0 0 0 1223, 1670 A 8, 8 0 0 0 1207, 1670 M 1207, 1670 A 8, 8 0 0 0 1223, 1670 A 8, 8 0 0 0 1207, 1670 M 1175, 1644 A 8, 8 0 0 0 1191, 1644 A 8, 8 0 0 0 1175, 1644" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="  " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1300, 1564 L 1263, 1564 M 1300, 1564 L 1263, 1564" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 1292, 1564 A 8, 8 0 0 0 1308, 1564 A 8, 8 0 0 0 1292, 1564 M 1292, 1564 A 8, 8 0 0 0 1308, 1564 A 8, 8 0 0 0 1292, 1564 M 1255, 1564 A 8, 8 0 0 0 1271, 1564 A 8, 8 0 0 0 1255, 1564" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="  " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<circle cx="1263" cy="1564" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1263" cy="1564" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1223" cy="1604" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1223" cy="1604" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1183" cy="1644" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1183" cy="1644" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1117" cy="1710" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1117" cy="1710" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1052" cy="1775" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1052" cy="1775" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="940" cy="1857" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="940" cy="1857" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="845" cy="1858" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="845" cy="1858" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1800" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1800" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1730" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1730" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1660" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1660" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1590" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1590" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1520" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1520" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1450" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1450" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1380" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1380" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1310" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1310" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1240" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1240" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1170" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1170" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1100" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1100" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="1030" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="1030" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="960" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="960" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="890" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="890" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="820" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="820" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="750" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="750" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="680" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="680" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="610" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="610" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="540" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="540" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="470" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="470" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="400" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="400" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="780" cy="330" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="780" cy="330" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="850" cy="270" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="850" cy="270" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="990" cy="310" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="990" cy="310" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1050" cy="370" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1050" cy="370" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1110" cy="430" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1110" cy="430" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1170" cy="490" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1170" cy="490" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="1200" cy="2390" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="2390" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="2310" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="2310" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="2230" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="2230" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="2150" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="2150" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="2070" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="2070" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="1990" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="1990" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="1910" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="1910" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1200" cy="1830" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1200" cy="1830" r="5" fill="#f58220" opacity="1"/>
+<path d="M 1192, 1750 A 8, 8 0 0 0 1208, 1750 A 8, 8 0 0 0 1192, 1750" fill="#ffffff" opacity="1"/>
+<path d="M 1292, 1564 A 8, 8 0 0 0 1308, 1564 A 8, 8 0 0 0 1292, 1564" fill="#ffffff" opacity="1"/>
+<path d="M 1292, 1480 A 8, 8 0 0 0 1308, 1480 A 8, 8 0 0 0 1292, 1480" fill="#ffffff" opacity="1"/>
+<path d="M 1292, 1400 A 8, 8 0 0 0 1308, 1400 A 8, 8 0 0 0 1292, 1400" fill="#ffffff" opacity="1"/>
+<path d="M 1292, 1320 A 8, 8 0 0 0 1308, 1320 A 8, 8 0 0 0 1292, 1320" fill="#ffffff" opacity="1"/>
+<path d="M 1292, 1240 A 8, 8 0 0 0 1308, 1240 A 8, 8 0 0 0 1292, 1240" fill="#ffffff" opacity="1"/>
+<path d="M 1292, 1160 A 8, 8 0 0 0 1308, 1160 A 8, 8 0 0 0 1292, 1160" fill="#ffffff" opacity="1"/>
+<path d="M 1292, 1080 A 8, 8 0 0 0 1308, 1080 A 8, 8 0 0 0 1292, 1080" fill="#ffffff" opacity="1"/>
+<path d="M 1242, 990 A 8, 8 0 0 0 1258, 990 A 8, 8 0 0 0 1242, 990" fill="#ffffff" opacity="1"/>
+<path d="M 1192, 890 A 8, 8 0 0 0 1208, 890 A 8, 8 0 0 0 1192, 890" fill="#ffffff" opacity="1"/>
+<path d="M 1192, 810 A 8, 8 0 0 0 1208, 810 A 8, 8 0 0 0 1192, 810" fill="#ffffff" opacity="1"/>
+<path d="M 1192, 730 A 8, 8 0 0 0 1208, 730 A 8, 8 0 0 0 1192, 730" fill="#ffffff" opacity="1"/>
+<path d="M 1192, 650 A 8, 8 0 0 0 1208, 650 A 8, 8 0 0 0 1192, 650" fill="#ffffff" opacity="1"/>
+<path d="M 1192, 570 A 8, 8 0 0 0 1208, 570 A 8, 8 0 0 0 1192, 570" fill="#ffffff" opacity="1"/>
+<circle cx="1250" cy="370" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1250" cy="370" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1250" cy="290" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1250" cy="290" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1250" cy="210" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1250" cy="210" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1150" cy="370" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1150" cy="370" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1150" cy="290" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1150" cy="290" r="5" fill="#f58220" opacity="1"/>
+<circle cx="1150" cy="210" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1150" cy="210" r="5" fill="#f58220" opacity="1"/>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1311" y="1585">Keilaniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1311" y="1585">Keilaniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1211" y="1628">Otaranta</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1211" y="1628">Otaranta</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1225" y="1698">Aalto-</tspan><tspan x="1225" y="1722">yliopisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1225" y="1698">Aalto-</tspan><tspan x="1225" y="1722">yliopisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1105" y="1734">Maari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1105" y="1734">Maari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1040" y="1799">Lahdenpohja</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1040" y="1799">Lahdenpohja</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1020" y="1901">Laajalahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1020" y="1901">Laajalahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="850" y="1901">Linnoitustie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="850" y="1901">Linnoitustie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1824">Alberganesplanadi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1824">Alberganesplanadi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1754">Leppävaaran asema</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1754">Leppävaaran asema</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1684">Perkkaa</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1684">Perkkaa</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1614">Vermo</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1614">Vermo</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1544">Ravitie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1544">Ravitie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1474">Tali</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1474">Tali</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1404">Takomotie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1404">Takomotie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1334">Kutomotie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1334">Kutomotie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1264">Vihdintie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1264">Vihdintie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1194">Huopalahden asema</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1194">Huopalahden asema</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1124">Ilkantie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1124">Ilkantie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="1054">Hämeenlinnanväylä</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="1054">Hämeenlinnanväylä</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="984">Pirkkola</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="984">Pirkkola</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="914">Pirjontie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="914">Pirjontie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="844">Maunula</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="844">Maunula</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="774">Kustaankartano</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="774">Kustaankartano</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="704">Teininpuisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="704">Teininpuisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="634">Oulunkylän keskusta</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="634">Oulunkylän keskusta</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="564">Oulunkylän asema</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="564">Oulunkylän asema</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="494">Veräjämäki</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="494">Veräjämäki</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="424">Viikinmäki</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="424">Viikinmäki</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="768" y="354">Viikin tiedepuisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="768" y="354">Viikin tiedepuisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="802" y="258">Latokartano</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="802" y="258">Latokartano</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="978" y="334">Karhukallio</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="978" y="334">Karhukallio</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1038" y="394">Kauppamyllyntie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1038" y="394">Kauppamyllyntie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1098" y="454">Roihupelto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1098" y="454">Roihupelto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1217" y="506">Itäkeskus</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1217" y="506">Itäkeskus</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="2414">Kivenlahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="2414">Kivenlahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="2334">Espoonlahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="2334">Espoonlahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="2254">Soukka</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="2254">Soukka</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="2174">Kaitaa</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="2174">Kaitaa</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="2094">Finnoo</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="2094">Finnoo</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="2014">Matinkylä</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="2014">Matinkylä</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="1934">Niittykumpu</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="1934">Niittykumpu</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="1854"></tspan><tspan x="1212" y="1878">Urheilupuisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="1854"></tspan><tspan x="1212" y="1878">Urheilupuisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="1774">Tapiola</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="1774">Tapiola</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1225" y="1698">Aalto-</tspan><tspan x="1225" y="1722">yliopisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1225" y="1698">Aalto-</tspan><tspan x="1225" y="1722">yliopisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1311" y="1585">Keilaniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1311" y="1585">Keilaniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1312" y="1504">Koivusaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1312" y="1504">Koivusaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1312" y="1424">Lauttasaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1312" y="1424">Lauttasaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1312" y="1344">Ruoholahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1312" y="1344">Ruoholahti</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1312" y="1264">Kamppi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1312" y="1264">Kamppi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1312" y="1184">Rautatien-</tspan><tspan x="1312" y="1208">tori</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1312" y="1184">Rautatien-</tspan><tspan x="1312" y="1208">tori</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1312" y="1104">Helsingin</tspan><tspan x="1312" y="1128">yliopisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1312" y="1104">Helsingin</tspan><tspan x="1312" y="1128">yliopisto</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1262" y="1014">Hakaniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1262" y="1014">Hakaniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="914">Sörnäinen</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="914">Sörnäinen</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="834">Kalasatama</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="834">Kalasatama</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="754">Kulosaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="754">Kulosaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="674">Herttoniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="674">Herttoniemi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1212" y="594">Siilitie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1212" y="594">Siilitie</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1217" y="506">Itäkeskus</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1217" y="506">Itäkeskus</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1262" y="394">Puotila</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1262" y="394">Puotila</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1262" y="314">Rastila</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1262" y="314">Rastila</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1262" y="234">Vuosaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1262" y="234">Vuosaari</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1208" y="410">Myllypuro</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1208" y="410">Myllypuro</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1138" y="314">Kontula</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1138" y="314">Kontula</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1138" y="234">Mellunmäki</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1138" y="234">Mellunmäki</tspan></text>
+</svg>

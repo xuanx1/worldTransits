@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-chateauroux-valencay","identified_as":"Former metre-gauge Tramways de l'Indre line Châteauroux – Levroux – Valençay (Indre).","status":"Closed 1935; network closed 1935–1939"};

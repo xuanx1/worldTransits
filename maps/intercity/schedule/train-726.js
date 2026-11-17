@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"train-726","identified_as":"ADY weekly Baku–Yevlakh–Barda–Aghdam passenger train (launched 30 Aug 2025).","status":"Passenger service temporarily suspended since 10 May 2026 (Yevlakh–Barda line reconstruction)"};

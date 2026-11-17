@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"shuohuang-line","identified_as":"Shenchi–Huanghua railway (朔黄铁路), coal line.","status":"Freight only"};

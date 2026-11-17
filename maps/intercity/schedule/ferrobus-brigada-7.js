@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-brigada-7","identified_as":"Railbus around Naranjo ('Brigada 7'), Majibacoa, Las Tunas province.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains stopped for lack of fuel)"};

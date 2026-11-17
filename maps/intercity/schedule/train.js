@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"train","identified_as":"Caminho de Ferro de Luanda (CFL) long-distance line Luanda (Bungo/Musseques)–N'dalatando–Malanje.","status":"No passenger trains to Malanje since about 2022 (track inoperable); freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-leopoldina-linha-do-centro","identified_as":"Leopoldina Linha do Centro to Porto Novo (MG), FCA/VLI.","status":"Freight only (passenger trains gone since the 1970s)"};

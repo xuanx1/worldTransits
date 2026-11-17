@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"whites-ancona","identified_as":"Whites – Welkom – Allanridge – Ancona line, Free State goldfields.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

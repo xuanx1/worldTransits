@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"midway-bank","identified_as":"Metrorail Gauteng Midway – Westonaria – Bank section of the Johannesburg – Oberholzer line.","status":"No passenger service beyond Midway (no regular trains to Westonaria/Bank/Oberholzer since 2020)"};

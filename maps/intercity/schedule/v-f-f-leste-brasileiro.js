@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"v-f-f-leste-brasileiro","identified_as":"Petrolina – Afrânio – Paulistana line under the V. F. F. Leste Brasileiro (1941–1975).","status":"Closed: passenger trains ended 1972, line officially eradicated 1 Jul 1975 and track lifted"};

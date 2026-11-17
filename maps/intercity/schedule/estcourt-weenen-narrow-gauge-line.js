@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estcourt-weenen-narrow-gauge-line","identified_as":"Estcourt – Weenen narrow-gauge branch line (KwaZulu-Natal)","status":"Closed 1983"};

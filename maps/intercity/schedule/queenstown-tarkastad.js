@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"queenstown-tarkastad","identified_as":"Bowker's Park – Tarkastad branch line (Eastern Cape)","status":"Closed 1988, track lifted"};

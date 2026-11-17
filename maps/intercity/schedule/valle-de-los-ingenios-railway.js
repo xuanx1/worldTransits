@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"valle-de-los-ingenios-railway","identified_as":"Valle de los Ingenios railway Trinidad – Meyer, used by the Trinidad tourist train.","status":"Rail tourist train suspended since 2023 (under restoration); tour run since Apr 2023 by a road 'tren sin vías'"};

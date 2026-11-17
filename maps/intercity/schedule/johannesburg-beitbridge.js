@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"johannesburg-beitbridge","identified_as":"PRASA Shosholoza Meyl long-distance route Johannesburg – Pretoria – Polokwane – Musina (Messina)","status":"Passenger service suspended (Shosholoza Meyl not operating; PRASA targets a limited restart in 2027)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"隆黄线隆叙段","identified_as":"隆黄线隆叙段 (Long Huang Xian Long Xu Duan), Xuyong (叙永) – Shuangjia (双加), 112.4 km: Longchang – Xuyong section of the Longhuang railway (Luzhou – Naxi – Xuyong)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-dismessa-tirso-ozieri","identified_as":"The former Tirso–Chilivani (Ozieri) narrow-gauge railway in Sardinia.","status":"Closed 31 Dec 1969. Quote: \"il 31 dicembre 1969 la linea cessò la sua attività\". Source: https://it.wikipedia.org/wiki/Ferrovia_Tirso-Chilivani (accessed 15 Nov 2026)"};

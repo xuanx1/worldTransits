@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bremen-thedinghauser-eisenbahn","identified_as":"Bremen-Thedinghauser Eisenbahn, used by the 'Pingelheini' museum railway.","status":"Heritage/museum railway (Pingelheini), selected operating days only"};

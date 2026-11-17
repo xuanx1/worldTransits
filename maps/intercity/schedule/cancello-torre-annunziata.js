@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cancello-torre-annunziata","identified_as":"The RFI Cancello–Torre Annunziata line in Campania.","status":"No traffic since February 2006; formally decommissioned by RFI on 16 Mar 2025. Quote: \"Senza traffico dal 2006\". Source: https://it.wikipedia.org/wiki/Ferrovia_Cancello-Torre_Annunziata (accessed 15 Nov 2026)"};

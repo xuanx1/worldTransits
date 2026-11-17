@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"new-canada-germiston","identified_as":"Metrorail Gauteng New Canada – Crown – Booysens – Jupiter – Germiston line (Crown branch)","status":"No passenger service (Crown branch not running since 2020; provisional)"};

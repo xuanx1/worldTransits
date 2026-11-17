@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"gisors","identified_as":"Serqueux – Gisors section of the Saint-Denis – Dieppe line (OSM route 'Gisors → Serqueux').","status":"No passenger trains: passenger service (reopened 29 Mar 2021) ended 19 Jul 2024; freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-aubigne-racan-a-sable","identified_as":"Former standard-gauge line Aubigné-Racan – Le Lude – La Flèche – Sablé (Sarthe).","status":"Closed to passengers since 15 May 1938; mostly declassified and track lifted; La Flèche–Le Lude now a greenway"};

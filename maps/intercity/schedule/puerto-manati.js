@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"puerto-manati","identified_as":"Manatí – Puerto Manatí branch, Las Tunas province.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains stopped for lack of fuel)"};

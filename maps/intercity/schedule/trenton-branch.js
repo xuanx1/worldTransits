@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"trenton-branch","identified_as":"PRR Trenton Cutoff (Norfolk Southern Morrisville Line and Dale Secondary), Glen Loch/Malvern - Norristown - Fort Washington - Woodbourne - Morrisville.","status":"Freight only (Norfolk Southern)."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"白石湖支线","identified_as":"白石湖支线 (Baishihuzhi Line), Baishihunan (白石湖南) – 白石湖东, 30.0 km: Baishihu coal branch (Hami)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

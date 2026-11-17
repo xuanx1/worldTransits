@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"wensleydale-railway","identified_as":"Wensleydale Railway heritage line Leeming Bar - Leyburn - Redmire (Northallerton West).","status":"Heritage railway (selected days); passenger services restarted 4 Jul 2003; Northallerton West section closed to passengers again August 2016"};

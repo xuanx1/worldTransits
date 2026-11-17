@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"畲龙线","identified_as":"畲龙线 (Shelong Line), Longhu (龙湖) – Shejiang (畬江), 113.3 km: old Guangmeishan railway section Shejiang – Fengshun – Jieyang – Chaozhou – Longhu","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

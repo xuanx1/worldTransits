@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"brits-atlanta","identified_as":"Brits – Beestekraal – Atlanta branch, North West.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

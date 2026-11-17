@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"horadiz-agb-nd-d-mir-yolu","identified_as":"Horadiz–Aghband railway (Zangezur corridor towards Nakhchivan), under construction.","status":"Under construction; no passenger service"};

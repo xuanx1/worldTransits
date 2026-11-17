@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"addo-kirkwood","identified_as":"Addo – Kirkwood (Sundays River Valley) branch, Eastern Cape.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-revigny-a-saint-dizier","identified_as":"Former standard-gauge line Revigny – Robert-Espagne – Saint-Dizier (Meuse/Haute-Marne).","status":"Closed to passengers 5 May 1938; declassified 1972–1976; only an industrial stub Revigny–Contrisson (ArcelorMittal) still used"};

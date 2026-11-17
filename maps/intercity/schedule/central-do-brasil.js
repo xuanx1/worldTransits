@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"central-do-brasil","identified_as":"E. F. Central do Brasil Linha do Centro, Itabirito – Rio Acima – General Carneiro (MG), FCA/VLI.","status":"Freight only (BH suburban trains to Rio Acima ended 1 Sep 1996)"};

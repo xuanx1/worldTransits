@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bloemfontein-bethlehem","identified_as":"Bloemfontein – Thaba Nchu – Marseilles – Ficksburg – Fouriesburg – Bethlehem line (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

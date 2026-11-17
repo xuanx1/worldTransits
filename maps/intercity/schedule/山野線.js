@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"山野線","identified_as":"JR Kyushu Yamano Line (山野線) Minamata – Kurino.","status":"Closed: whole line abolished 1 February 1988, replaced by Nangoku Kōtsū / Kyūshū Sankō buses."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jombang-kediri-tramway","identified_as":"Former Kediri Stoomtram Maatschappij steam tramway Jombang – Pare – Kediri.","status":"Closed: Jombang–Pare 1976, Pare–Kediri 1978 (Jombang–Jombang Kota 1981); no service."};

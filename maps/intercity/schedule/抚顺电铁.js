@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"抚顺电铁","identified_as":"Fushun electric railway (抚顺电铁), Liaoning; industrial electric railway.","status":"No passenger service (regular service ended 01 Jul 2009; tourist trains stopped 04 Jan 2020)"};

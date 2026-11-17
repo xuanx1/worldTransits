@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fianarantsoa-manakara","identified_as":"Same FCE Fianarantsoa – Manakara line as slug fianarantsoa-cote-est","status":"Service disrupted: as of Oct 2026 trains no longer reach Manakara, stopping about 70 km short"};

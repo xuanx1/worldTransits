@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"东海岛线","identified_as":"Donghaidao railway, Zhanjiang West – Donghaidao (Baosteel Zhanjiang / Sinopec) branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-nouvelle-bordeaux-toulouse","identified_as":"New high-speed line Bordeaux – Toulouse (Grand projet ferroviaire du Sud-Ouest, GPSO).","status":"Not yet open – planned opening 2032"};

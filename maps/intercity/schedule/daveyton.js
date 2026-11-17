@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"daveyton","identified_as":"Metrorail Gauteng Johannesburg – Germiston – Boksburg – Dunswart – Benoni (Northmead) – Daveyton line","status":"No passenger service (Germiston – Daveyton corridor out of service since 2020; repairs expected 2027/28)"};

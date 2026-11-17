@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hermon-porterville","identified_as":"Hermon – Riebeek-Kasteel – Riebeek-Wes – Porterville branch, Western Cape.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

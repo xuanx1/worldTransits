@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kbs-556-oberlandbahn","identified_as":"Thüringische Oberlandbahn Triptis – Ziegenrück – Unterlemnitz – Bad Lobenstein (part of the Triptis – Marxgrün line).","status":"No passenger service Triptis – Unterlemnitz since May 1998; only Unterlemnitz – Bad Lobenstein (– Blankenstein) is still served, by Saalfeld – Blankenstein trains"};

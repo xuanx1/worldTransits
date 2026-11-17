@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-celle-wappen-von-celle-oldau","identified_as":"M.S. \"Wappen von Celle\" Aller line Celle - Oldau.","operator":"Celler Schifffahrt GbR (M.S. Wappen von Celle)"};

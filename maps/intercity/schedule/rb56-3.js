@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rb56-3","identified_as":"Wieslauterbahn Hinterweidenthal Ost - Dahn - Bundenthal-Rumbach, seasonal Sunday/holiday service.","status":"Sunday and holiday service only (since 1997), seasonal"};

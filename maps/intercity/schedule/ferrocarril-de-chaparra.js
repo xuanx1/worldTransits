@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrocarril-de-chaparra","identified_as":"Chaparra – Delicias – Vázquez – Omaja – Santa María railway (Las Tunas province), formerly used by local trains.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains stopped for lack of fuel)"};

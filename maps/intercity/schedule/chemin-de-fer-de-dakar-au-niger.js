@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chemin-de-fer-de-dakar-au-niger","identified_as":"Dakar–Niger metre-gauge line, eastern section Tambacounda – Goudiri – Kidira (Mali border).","status":"No passenger service (international Dakar–Bamako train stopped in 2009)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"teign-valley-line","identified_as":"Teign Valley line (Exeter - Christow - Heathfield).","status":"Closed to passengers June 1958; fully closed 1967 (Alphington spur remains as a freight siding)"};

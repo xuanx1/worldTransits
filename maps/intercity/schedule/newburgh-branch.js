@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"newburgh-branch","identified_as":"Erie Newburgh Branch (Newburgh - Vails Gate - Salisbury Mills - Greycourt).","status":"No passenger service since 1938; Newburgh - Vails Gate is a CSX industrial spur, the rest abandoned."};

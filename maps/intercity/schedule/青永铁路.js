@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"青永铁路","identified_as":"青永铁路 (Qingyong Railway), Xuehu (薛湖) – Qingtuan (青疃), 62.1 km: Yongcheng Coal railway Xuehu – Qingtuan (operator 永煤集团股份有限公司铁路运输处)","status":"Freight only (no passenger trains)"};

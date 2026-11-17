@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"沪春线","identified_as":"Shanghai South line (上海南线 / 沪春线 / 上南支线), Xinlonghua – Shanghai South – Chunshen connecting line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

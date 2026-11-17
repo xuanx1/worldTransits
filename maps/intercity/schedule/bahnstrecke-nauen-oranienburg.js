@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-nauen-oranienburg","identified_as":"Nauen - Kremmen - Oranienburg railway.","status":"No passenger service since May 1967; freight ended 1993, Germendorf-Oranienburg closed April 2001"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hekurudha-peqin-elbasan","identified_as":"HSH Peqin–Elbasan line.","status":"No passenger trains running (late 2026); weekend Durrës Plazh–Elbasan train suspended"};

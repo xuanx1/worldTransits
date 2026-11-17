@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-etampes-a-auneau-embranchement","identified_as":"Standard-gauge line Étampes – Auneau-Embranchement (Essonne/Eure-et-Loir), SNCF.","status":"Closed to passengers since 1939; freight ended 1969–1972; declassified 1972–1975 and track lifted; 5 km cycle path Étampes–Chalo-Saint-Mars"};

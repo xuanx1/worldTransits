@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pietermaritzburg-richmond","identified_as":"Pietermaritzburg – Thornville – Richmond branch line (KwaZulu-Natal)","status":"Closed c. 2008 (Thornville – Richmond)"};

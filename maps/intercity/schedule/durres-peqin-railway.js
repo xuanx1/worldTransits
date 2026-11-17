@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"durres-peqin-railway","identified_as":"HSH Durrës–Rrogozhinë–Peqin line (route of the Durrës–Elbasan trains).","status":"No passenger trains running (late 2026); weekend Durrës Plazh–Elbasan train suspended"};

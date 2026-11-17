@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"klerksdorp-ottosdal","identified_as":"Klerksdorp – Hartbeesfontein – Ottosdal line, North West.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

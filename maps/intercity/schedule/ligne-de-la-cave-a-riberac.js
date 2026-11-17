@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-la-cave-a-riberac","identified_as":"Former standard-gauge line La Cave – Ribérac (Dordogne).","status":"Closed to passengers 10 June 1940; freight ended 1951; declassified 1954; track lifted"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrocarril-al-pacifico","identified_as":"Ferrocarril al Pacífico, San José (Estación al Pacífico) – Puntarenas/El Roble.","status":"No passenger service towards Puntarenas/El Roble; INCOFER only runs San José-area commuter routes (Curridabat–Pavas–Belén, San José–Cartago, San José–Heredia–Alajuela)"};

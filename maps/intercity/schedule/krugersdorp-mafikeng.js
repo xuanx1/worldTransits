@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"krugersdorp-mafikeng","identified_as":"Krugersdorp – Magaliesburg – Koster – Swartruggens – Zeerust – Mahikeng line.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rb-29-greifswald-lubmin","identified_as":"Schönwalde (Greifswald) – Lubmin line to the former Lubmin nuclear power station.","status":"Freight only: passenger service ended 30 May 1999"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"白浩线","identified_as":"白浩线 (Baihao Line), Zhiqichang (制气厂) – 白音库伦, 64.5 km: Baiyinkulun – Zhiqichang line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

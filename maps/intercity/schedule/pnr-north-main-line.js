@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pnr-north-main-line","identified_as":"PNR North Main Line (Tutuban–Caloocan–Malabon–San Fernando); its last remaining Metro North Commuter section is closed.","status":"No passenger service: Metro North Commuter (Tutuban–Governor Pascual) suspended since 28 March 2024; intercity services suspended since 2014"};

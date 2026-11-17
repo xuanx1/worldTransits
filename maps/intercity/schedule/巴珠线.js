@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"巴珠线","identified_as":"Bazhu railway (巴珠铁路), Zhabuqier (Xiwu line) – Dongwuqi section, Xilin Gol coal/border railway","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

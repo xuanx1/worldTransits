@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ubundu-kisangani","identified_as":"SNCC Kisangani–Ubundu railway (~125 km portage line around the Boyoma Falls).","status":"Passenger service suspended since 2019 (freight only)"};

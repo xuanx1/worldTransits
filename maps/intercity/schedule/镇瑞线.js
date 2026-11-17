@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"镇瑞线","identified_as":"镇瑞铁路 Zhenjiang East–Ruishan (Dagang port) line.","status":"Freight only (two or three freight pairs a day)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"周准铁路","identified_as":"周准铁路 (Zhouzhun Railway), Zhoujiawan (周家湾) – Zhungeerzhao (准格尔召), 123.6 km: Zhoujiawan – Zhungeer coal line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

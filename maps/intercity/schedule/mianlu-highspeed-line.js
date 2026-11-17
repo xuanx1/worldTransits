@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mianlu-highspeed-line","identified_as":"Mianyang–Suining section of the Mianyang–Luzhou high-speed railway (绵泸高铁), stations Santai–Mianyang.","status":"Under construction (Mianyang–Suining section; expected 2028)"};

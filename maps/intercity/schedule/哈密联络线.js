@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"哈密联络线","identified_as":"哈密联络线 (Hamilianluo Line), Hami (哈密 قۇمۇل) – Hamidong (哈密东), 15.6 km: Hami – Hami East connecting line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

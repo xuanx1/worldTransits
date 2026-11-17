@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aleppo-ath-thawra","identified_as":"CFS Aleppo–Maskanah–Ath-Thawra (Tabqa) line.","status":"No regular passenger service (network paralysed since 2012)"};

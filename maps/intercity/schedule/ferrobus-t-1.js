@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-t-1","identified_as":"Former Ferroviaria Oriental ferrobús Santa Cruz – Yacuiba.","status":"Ferrobús no longer runs to Yacuiba (only a weekly conventional train); locals ask for its return"};

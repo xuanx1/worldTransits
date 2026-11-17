@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"田东线","identified_as":"田东线 (Tiandong Line), Tianyitun (田义屯) – Dongling (东陵), 17.0 km: Shenyang hub line Tianyitun – Dongling","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

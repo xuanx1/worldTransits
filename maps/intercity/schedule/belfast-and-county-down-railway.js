@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"belfast-and-county-down-railway","identified_as":"Former Belfast and County Down Railway; heritage Downpatrick and County Down Railway (King Magnus' Halt).","status":"Main line closed 15 Jan 1950 (except Belfast-Bangor); heritage trains at Downpatrick on selected days (normal service resumed 16 Jul 2022)"};

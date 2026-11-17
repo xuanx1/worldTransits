@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-bayamo-jiguani","identified_as":"Railbus Bayamo – Jiguaní (Granma).","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

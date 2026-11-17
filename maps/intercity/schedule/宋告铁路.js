@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"宋告铁路","identified_as":"宋告铁路 (Songgao Railway), Gaocheng (告成) – Lijiazhai (李家寨), 43.6 km: Zhengzhou Coal local railway Lijiazhai – Gaocheng","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

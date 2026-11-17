@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-delle-dolomiti","identified_as":"The former Ferrovia delle Dolomiti narrow-gauge line Calalzo–Cortina d'Ampezzo–Dobbiaco.","status":"Closed: Dobbiaco–Cortina on 23 Mar 1962; Cortina–Calalzo on 17 May 1964. Quote: \"fino alle ore 18.20 del 17 maggio [1964]\". Source: https://it.wikipedia.org/wiki/Ferrovia_delle_Dolomiti (accessed 15 Nov 2026)"};

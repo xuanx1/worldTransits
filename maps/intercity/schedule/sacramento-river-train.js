@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sacramento-river-train","identified_as":"Former Sacramento River Train (Sierra Northern, Woodland - West Sacramento), now the River Fox Train (Mendocino Railway) themed excursions from West Sacramento.","status":"Tourist / themed excursion train (e.g. Magical Christmas Train); no regular passenger service."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-sancti-spiritus","identified_as":"Sancti Spíritus – Zaza del Medio – Siguaney branch, used by the Sancti Spíritus – La Habana 'Espirituano' and local trains.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

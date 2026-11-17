@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tangbao-line","identified_as":"Tangbao railway (唐包铁路, ex-Tanghu heavy-haul line), Caofeidian/Tanghai – Chengde – Zhangjiakou – Hohhot – Baotou, a coal corridor","status":"No passenger service of its own (coal/freight corridor); 12306 shows no trains between its stations"};

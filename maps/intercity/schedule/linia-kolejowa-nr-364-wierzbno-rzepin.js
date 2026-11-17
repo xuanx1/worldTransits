@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-364-wierzbno-rzepin","identified_as":"PKP PLK line 364 Wierzbno – Międzyrzecz – Rzepin (Lubusz).","status":"Freight only on Międzyrzecz – Rzepin since 15 Dec 2013 (no passenger trains). Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_364 (pl.wikipedia, read 16 Nov 2026)"};

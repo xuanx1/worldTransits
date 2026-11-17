@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tavan-tolgoi-gashuunsukhait","identified_as":"Tavan Tolgoi–Gashuunsukhait heavy-haul coal railway to the Chinese border (Gashuunsukhait/Ganqimaodu).","status":"Freight only (coal export line, opened 9 September 2022)"};

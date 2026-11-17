@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"komatipoort-matshaye","identified_as":"Komatipoort – Matshaye (old Selati line through the Kruger National Park).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

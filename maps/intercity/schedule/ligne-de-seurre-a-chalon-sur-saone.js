@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-seurre-a-chalon-sur-saone","identified_as":"Standard-gauge line Seurre – Allerey – Crissey – Chalon-sur-Saône (Côte-d'Or/Saône-et-Loire), ex-PLM, SNCF Réseau.","status":"Closed to passengers 1938/1954; only Chalon–Crissey open, freight only (river port); Crissey–Allerey closed 2017; Seurre–Allerey declassified 1969 and lifted"};

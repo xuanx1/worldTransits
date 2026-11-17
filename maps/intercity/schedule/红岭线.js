@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"红岭线","identified_as":"Aiweiergou branch (艾维尔沟铁路支线 / 红岭线), Yuergou (Southern Xinjiang railway) – Hongling, cement/limestone siding","status":"Freight only (no passenger trains)"};

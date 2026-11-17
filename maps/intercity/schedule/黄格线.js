@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"黄格线","identified_as":"黄格线 (Huangge Line), Geding (格顶) – Huanggang (黄岗), 35.3 km: Huanggang – Geding line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

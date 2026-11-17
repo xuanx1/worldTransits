@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-prouvy-thiant-au-cateau","identified_as":"Former standard-gauge line Prouvy-Thiant – Le Cateau (Nord).","status":"Closed to passengers 15 May 1939; freight ended 1 Feb 1971"};

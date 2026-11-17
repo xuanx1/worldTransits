@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"榆横铁路","identified_as":"榆横铁路 (Yuheng Railway), 转水庙 – 闫庄则, 48.5 km: Yulin – Hengshan coal/chemical line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

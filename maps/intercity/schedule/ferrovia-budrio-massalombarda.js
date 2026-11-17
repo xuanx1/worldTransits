@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-budrio-massalombarda","identified_as":"The former Budrio–Massa Lombarda railway in Emilia-Romagna.","status":"Closed 30 May 1964, replaced by buses. Quote: \"la linea fu chiusa al traffico il 30 maggio 1964\". Source: https://it.wikipedia.org/wiki/Ferrovia_Budrio-Massalombarda (accessed 15 Nov 2026)"};

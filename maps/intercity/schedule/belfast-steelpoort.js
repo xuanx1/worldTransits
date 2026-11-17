@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"belfast-steelpoort","identified_as":"Belfast (eMakhazeni) – Lydenburg – Ohrigstad – Burgersfort – Steelpoort line, Mpumalanga/Limpopo.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

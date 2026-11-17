@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"古洛线","identified_as":"古洛铁路 Gulian–Yueyahu coal line (Mohe).","status":"Freight (coal): 月牙湖 is a freight station for the 古莲河 open-pit mine"};

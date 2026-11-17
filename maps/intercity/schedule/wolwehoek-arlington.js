@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"wolwehoek-arlington","identified_as":"Wolwehoek – Heilbron – Arlington branch line (Free State)","status":"Closed 2001 (Wolwehoek – Heilbron, track stolen); Heilbron – Arlington closed in the 2000s"};

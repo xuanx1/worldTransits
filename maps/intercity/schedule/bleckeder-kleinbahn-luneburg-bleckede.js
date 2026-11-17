@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bleckeder-kleinbahn-luneburg-bleckede","identified_as":"Bleckeder Kleinbahn Lüneburg – Bleckede, used by museum trains (Heide-Express / AVL).","status":"Heritage railway: historic trains on selected days only, no regular service"};

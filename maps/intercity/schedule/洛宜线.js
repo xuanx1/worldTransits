@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"洛宜线","identified_as":"洛宜铁路 Luoyang (Guanlin)–Yiyang branch (Henan).","status":"No passenger service (宜阳 station handles freight only)"};

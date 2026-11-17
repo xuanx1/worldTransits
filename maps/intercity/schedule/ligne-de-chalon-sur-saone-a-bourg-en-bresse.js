@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-chalon-sur-saone-a-bourg-en-bresse","identified_as":"Standard-gauge line Chalon-sur-Saône – Louhans area – Bourg-en-Bresse (ex-Dombes/PLM, SNCF).","status":"Closed to passengers since 1939; freight ended 1951–1956; declassified; two sections are voies vertes"};

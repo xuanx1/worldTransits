@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"north-south-commuter-railway","identified_as":"North–South Commuter Railway (NSCR), the new standard-gauge electrified line Clark–Malolos–Tutuban–Calamba.","status":"Under construction; partial operations expected by December 2027"};

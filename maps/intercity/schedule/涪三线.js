@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"涪三线","identified_as":"Fusan railway (涪三铁路, ex-Nanfu railway + Sanwannan upgrade), Sanjiang – Wansheng – Nanchuan – Shuijiang – Fuling","status":"No passenger trains (12306 lists none); a freight-first local railway whose planned local passenger trains have not appeared in the timetable"};

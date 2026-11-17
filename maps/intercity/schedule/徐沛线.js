@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"徐沛线","identified_as":"徐沛铁路 Xuzhou – Peixian (Datun coal) railway.","status":"No passenger service (passenger trains ended 18 Jul 2012)"};

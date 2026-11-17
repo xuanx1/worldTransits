@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-montargis-a-sens","identified_as":"Standard-gauge line Montargis – Courtenay – Sens (Loiret/Yonne), SNCF.","status":"Closed to passengers since 1939; Triguères–Courtenay declassified and lifted (1998); remaining sections unused"};

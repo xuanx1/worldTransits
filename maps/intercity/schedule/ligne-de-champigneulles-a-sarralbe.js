@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-champigneulles-a-sarralbe","identified_as":"Standard-gauge (ex-double-track) line Champigneulles (Nancy)–Château-Salins–Bénestroff–Sarralbe (Meurthe-et-Moselle/Moselle).","status":"Closed to passengers 1969–1979; lifted ('ligne déposée'), first km a greenway since 2008"};

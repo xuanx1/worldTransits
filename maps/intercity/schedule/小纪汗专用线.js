@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"小纪汗专用线","identified_as":"小纪汗专用线 (Xiaojihanzhuanyong Line), Yehuachang (液化厂) – Xiaojihanbei (小纪汗北), 40.5 km: Xiaojihan industrial siding (专用线)","status":"Freight only (no passenger trains)"};

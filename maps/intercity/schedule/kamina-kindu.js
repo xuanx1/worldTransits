@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kamina-kindu","identified_as":"SNCC Kamina–Kindu route, used by the occasional Lubumbashi–Kindu 'Kambelembele' train.","status":"No regular timetable: occasional SNCC passenger trains (monthly or less, 2022-2023)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"beacon-line","identified_as":"Beacon Line (Metro-North owned), Beacon – Hopewell Junction – Brewster, New York.","status":"Out of service: 'Passenger service on the Beacon Line ended in 1927'; no freight since the 1990s; Metro-North's abandonment/interim-trail filing 'was approved and took effect in February 2024' (Wikipedia, accessed 15 Nov 2026)."};

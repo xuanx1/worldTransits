@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"durban-golela","identified_as":"Durban – KwaDukuza – Empangeni – Mtubatuba – Golela (Eswatini border) North Coast main line (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

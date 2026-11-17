@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sudstormarnsche-kreisbahn","identified_as":"Südstormarnsche Kreisbahn (Hamburg-Tiefstack - Glinde - Trittau).","status":"Passenger service ended 15 Mar 1952; Glinde-Trittau closed and lifted"};

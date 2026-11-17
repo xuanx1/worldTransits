@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"launceston-branch","identified_as":"South Devon and Tavistock / Launceston branch (Plymouth - Tavistock - Launceston); Plym Valley Railway heritage at Marsh Mills.","status":"Closed to passengers 31 Dec 1962; short heritage section (Plym Valley Railway)"};

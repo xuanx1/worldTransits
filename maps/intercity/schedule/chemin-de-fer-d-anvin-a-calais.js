@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chemin-de-fer-d-anvin-a-calais","identified_as":"Former metre-gauge secondary railway Anvin – Fruges – Lumbres – Guînes – Calais (Pas-de-Calais).","status":"Closed entirely in 1955 (Anvin–Fruges 1954); no current rail use stated"};

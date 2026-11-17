@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"库俄线","identified_as":"库俄铁路 Kuqa–Ehuobulake coal railway.","status":"Freight only (coal)"};

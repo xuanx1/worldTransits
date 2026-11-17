@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"umlazi-line","identified_as":"Metrorail KwaZulu-Natal Bluff – Merebank – Umlazi service","status":"Passenger service suspended (Bluff line closed)"};

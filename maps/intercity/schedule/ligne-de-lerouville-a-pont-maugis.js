@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-lerouville-a-pont-maugis","identified_as":"Standard-gauge Meuse valley line Lérouville–Saint-Mihiel–Verdun–Pont-Maugis (Sedan).","status":"No passenger service; used only on short sections for freight sidings, rest overgrown; part (Dugny–Ancemont) a greenway"};

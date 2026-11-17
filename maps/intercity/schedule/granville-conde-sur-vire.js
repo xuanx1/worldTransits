@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"granville-conde-sur-vire","identified_as":"Metre-gauge Condé-sur-Vire–Granville tramway in the Manche, run by the Société des Chemins de Fer de la Manche (CFM).","status":"Closed since 1935 (operated 1908–1935)"};

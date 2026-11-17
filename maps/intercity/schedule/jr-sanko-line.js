@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jr-sanko-line","identified_as":"JR West Sankō Line (三江線) Gōtsu – Miyoshi, 108.1 km.","status":"Closed: abolished 1 April 2018 (last passenger service 31 March 2018), replaced by buses."};

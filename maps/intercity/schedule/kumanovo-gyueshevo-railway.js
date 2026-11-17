@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kumanovo-gyueshevo-railway","identified_as":"Corridor VIII Kumanovo–Kriva Palanka–Gyueshevo (Bulgaria) line.","status":"No passenger service (not in operator's timetable; no rail link to Bulgaria)"};

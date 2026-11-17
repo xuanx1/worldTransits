@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"crosstown-line-guiyang","identified_as":"贵阳客车外绕线 (Crosstown line Guiyang), Longli (龙里) – Qianlingshan (黔灵山), 40.0 km: Guiyang passenger-train bypass (贵阳客车外绕线), Longli – Shuanglong South – Qianlingshan","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

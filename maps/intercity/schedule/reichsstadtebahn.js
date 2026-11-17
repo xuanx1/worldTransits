@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"reichsstadtebahn","identified_as":"Nördlingen - Dinkelsbühl - Dombühl railway ('Romantische Schiene').","status":"No scheduled passenger trains since June 1985; occasional museum/excursion trains"};

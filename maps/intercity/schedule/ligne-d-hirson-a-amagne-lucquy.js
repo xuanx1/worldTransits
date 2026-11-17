@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-hirson-a-amagne-lucquy","identified_as":"Standard-gauge line Hirson – Liart – Amagne-Lucquy (Aisne/Ardennes), SNCF Réseau.","status":"Hirson–Liart still in use (Lille–Charleville-Mézières trains); Liart–Amagne-Lucquy closed to passengers since 1952, freight ended 1953/1979, declassified 1967/1995, remainder unused"};

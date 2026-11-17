@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"岢瓦线","identified_as":"岢瓦铁路 Kelan–Watang coal railway (Shanxi).","status":"Coal line; only staff commuter train 57003/4 (岢岚–魏家滩) since 23 Oct 2012"};

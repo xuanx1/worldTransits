@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"industriebahn-tegel-friedrichsfelde","identified_as":"Industriebahn Tegel - Friedrichsfelde, Berlin.","status":"Closed and dismantled (2005-2006)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"butzbach-licher-eisenbahn-teilstrecke-munzenberg-grunberg","identified_as":"Butzbach-Licher Eisenbahn (Münzenberg - Grünberg section).","status":"No regular service; museum operation suspended, planned to resume 2026 (as of Aug 2025)"};

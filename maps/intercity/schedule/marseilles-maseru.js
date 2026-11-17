@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"marseilles-maseru","identified_as":"Maseru branch line, Marseilles (Free State) – Maseru (Lesotho)","status":"Freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-bort-les-orgues-a-neussargues","identified_as":"Standard-gauge SNCF line Bort-les-Orgues–Riom-ès-Montagnes–Allanche–Neussargues (Cantal).","status":"Closed to passengers 26 May 1990; unused (not declassified); only seasonal heritage/tourist trains (CFHA, Riom-ès-Montagnes–Lugarde) and vélorail - not a regular service"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"大旬联络线","identified_as":"大旬联络线 (Daxunlianluo Line), Xunyangbei (旬阳北) – Dalingpu (大岭铺), 15.6 km: Xunyang North – Dalingpu connecting line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

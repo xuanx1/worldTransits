@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"巴新铁路","identified_as":"Bayanwula–Xinqiu railway (巴新铁路), Inner Mongolia/Liaoning.","status":"Freight only (coal railway)"};

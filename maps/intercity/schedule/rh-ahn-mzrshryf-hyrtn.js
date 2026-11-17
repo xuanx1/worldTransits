@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rh-ahn-mzrshryf-hyrtn","identified_as":"Hairatan–Mazar-i-Sharif railway (Uzbek-gauge link from the Friendship Bridge).","status":"Freight only; no passenger service"};

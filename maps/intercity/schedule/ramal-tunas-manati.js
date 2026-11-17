@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-tunas-manati","identified_as":"Las Tunas – Puerto Manatí branch, used by the Las Tunas – Manatí local train.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains, fuel shortage)"};

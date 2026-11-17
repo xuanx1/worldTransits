@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chaparra-majibacoa","identified_as":"Chaparra – Santa María – Naranjo (Majibacoa) line, Las Tunas province.","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains stopped for lack of fuel)"};

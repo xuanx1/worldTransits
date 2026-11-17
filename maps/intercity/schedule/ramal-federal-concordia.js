@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-federal-concordia","identified_as":"Ferrocarril General Urquiza branch U-14 Federal – Concordia (Entre Ríos), 96.4 km standard gauge.","status":"No passenger service (branch inactive except the section shared with the Lacroze–Posadas main line; no passenger trains in Entre Ríos in 2026)"};

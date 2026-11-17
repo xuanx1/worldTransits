@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-371-wolsztyn-zagan","identified_as":"Former line 371 Wolsztyn – Nowa Sól – Żagań.","status":"Closed: passenger traffic ended 1993, freight 1997. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_371 (pl.wikipedia, read 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"la-trochita","identified_as":"'La Trochita' (Viejo Expreso Patagónico), the 750 mm gauge Ingeniero Jacobacci – El Maitén – Esquel line; only heritage tourist trips run (Esquel – Nahuelpan and El Maitén – Bruno Thomae).","status":"Tourist train, selected days only"};

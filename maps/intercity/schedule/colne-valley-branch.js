@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"colne-valley-branch","identified_as":"Colne Valley and Halstead Railway; Colne Valley Railway heritage site at Castle Hedingham.","status":"Closed 1 Jan 1962 (passengers and freight Haverhill-Yeldham); short heritage line at Castle Hedingham"};

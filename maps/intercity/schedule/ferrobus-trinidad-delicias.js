@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-trinidad-delicias","identified_as":"Trinidad – Manaca Iznaga (Valle de los Ingenios) line, used by the tourist train from Trinidad.","status":"Tourist line; rail service not running (Trinidad station abandoned, Jun 2026)"};

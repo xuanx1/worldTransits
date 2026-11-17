@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pavlograd-krasnoarmiis-k","identified_as":"Pavlohrad – Pokrovs'k (Krasnoarmiis'k) line, Donetsk oblast.","status":"Suspended since Sep 2024 (front line; trains end at Pavlohrad)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"balti-cobasna-railway-line","identified_as":"Bălți–Florești–Rîbnița–Cobasna line towards Ukraine.","status":"No passenger service in 2026"};

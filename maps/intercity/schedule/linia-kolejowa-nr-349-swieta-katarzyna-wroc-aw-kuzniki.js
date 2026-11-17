@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-349-swieta-katarzyna-wroc-aw-kuzniki","identified_as":"PKP PLK line 349 Święta Katarzyna – Wrocław Kuźniki (Wrocław freight ring).","status":"Freight only. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_349 (pl.wikipedia, read 16 Nov 2026)"};

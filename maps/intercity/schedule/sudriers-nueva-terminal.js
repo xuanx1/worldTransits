@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sudriers-nueva-terminal","identified_as":"Former AFE suburban service Montevideo (Nueva Terminal) – Pando – Sudriers (Línea Minas).","status":"No passenger service: AFE's only passenger train in 2026 is Tacuarembó–Rivera"};

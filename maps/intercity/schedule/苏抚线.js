@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"苏抚线","identified_as":"苏抚铁路 Sujiatun–Fushun line (rebuilt as 沈抚城际铁路 2009).","status":"No passenger trains: old 抚顺 halt on the 苏抚 line closed to passengers 21 Sep 2017"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"port-elizabeth-de-aar","identified_as":"Gqeberha – Cradock – Rosmead – Noupoort – De Aar main line, route of the former Shosholoza Meyl Johannesburg – Gqeberha train","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

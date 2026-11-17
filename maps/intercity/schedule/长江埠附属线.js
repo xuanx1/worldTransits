@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"长江埠附属线","identified_as":"长江埠附属线 (Changjiangbufushu Line), Gepu (隔蒲) – Xiaxindian (下辛店), 21.2 km: Changjiangbu industrial line Gepu – Xiaxindian","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

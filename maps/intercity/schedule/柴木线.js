@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"柴木线","identified_as":"柴木铁路 Chaidaer–Muli coal railway (Qinghai).","status":"Freight only (coal)"};

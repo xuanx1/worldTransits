@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-campos-do-jordao","identified_as":"Estrada de Ferro Campos do Jordão (EFCJ), the São Paulo state-owned metre-gauge electric mountain railway Pindamonhangaba – Santo Antônio do Pinhal – Campos do Jordão, run for tourist trips.","status":"Suspended (no tourist/passenger trains running in October–November 2026; no restart date)"};

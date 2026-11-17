@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-153-toszek-po-noc-rudziniec-gliwicki","identified_as":"PKP PLK line 153 Toszek Północ – Rudziniec Gliwicki.","status":"Freight line; passenger traffic ended in 2000. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_153 (pl.wikipedia, read 16 Nov 2026)"};

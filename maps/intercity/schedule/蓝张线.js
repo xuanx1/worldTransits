@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"蓝张线","identified_as":"Lanzhang line (蓝张线), Zhenglanqi – Heichengzi, part of the Taixi railway corridor (Taizicheng – Zhenglanqi – Xilinhot)","status":"No passenger trains yet (freight since 2015; the Taizicheng – Zhenglanqi passenger section was not in the 12306 timetable for 18 Nov 2026)"};

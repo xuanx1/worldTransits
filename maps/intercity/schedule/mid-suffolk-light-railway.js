@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mid-suffolk-light-railway","identified_as":"Mid-Suffolk Light Railway (Haughley - Laxfield); museum line at Brockford.","status":"Closed 28 Jul 1952"};

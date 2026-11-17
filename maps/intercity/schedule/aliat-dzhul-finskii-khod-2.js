@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aliat-dzhul-finskii-khod-2","identified_as":"Nakhchivan (Azerbaijan) railway east of Julfa toward Ordubad (Dəstə – Ordubad), ADY; included in the Iran list because it runs along the Aras border.","status":"No passenger service: the Nakhchivan line toward Ordubad is under reconstruction (Aug 2026)"};

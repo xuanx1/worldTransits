@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hershey-railway","identified_as":"The Hershey electric railway, Havana (Casablanca) – Hershey – Matanzas, operated by Ferrocarril Eléctrico de Cuba.","status":"Passenger service suspended since 2017"};

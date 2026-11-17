@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"otavi-grootfontein","identified_as":"TransNamib Otavi – Grootfontein branch","status":"No passenger service (all TransNamib passenger services suspended since early 2021)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kalbaskraal-saldanha","identified_as":"Kalbaskraal – Darling – Hopefield – Saldanha line (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

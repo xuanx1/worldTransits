@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-santiago-antilla","identified_as":"Interprovincial train Santiago de Cuba – Alto Cedro – Antilla (Holguín).","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-brieuc-a-pontivy","identified_as":"Standard-gauge line Saint-Brieuc–Quintin–Loudéac–Pontivy (Côtes-d'Armor/Morbihan).","status":"No passenger trains: Loudéac–Pontivy closed 1987; Saint-Brieuc–Loudéac passenger trains ended 2006 (road substitution), operation suspended since 18 Jan 2017; tourist vélorail at Plœuc-L'Hermitage"};

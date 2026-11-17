@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"vicicongo-line","identified_as":"Chemins de fer des Uele (CFU, ex-Vicicongo) 600 mm network Bumba–Aketi–Isiro–Mungbere with the Bondo branch.","status":"Closed (not operational for about 30 years)"};

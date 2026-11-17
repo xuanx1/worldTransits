@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bender-kuchurhan-railway","identified_as":"Bender–Tiraspol–Kuchurhan line through Transnistria towards Odesa.","status":"No passenger service (Chișinău–Odesa train suspended due to the war in Ukraine)"};

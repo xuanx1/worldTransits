@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"transandine-railway","identified_as":"Ferrocarril Trasandino (Transandine Railway) Mendoza – Las Cuevas – Los Andes (Chile); the OSM segment (Pueyrredón – Maza) is the Argentine section in Greater Mendoza.","status":"No service (passenger trains ended 21 Sep 1979; line closed to freight in 1984; only revival projects in 2026)"};

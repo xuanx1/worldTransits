@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bethal-volksrust","identified_as":"Bethal – Volksrust line (Mpumalanga)","status":"Closed (date not recorded)"};

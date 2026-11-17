@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bmt-jamaica-line","identified_as":"NYC Subway BMT Jamaica Line, served by the J and Z trains.","status":"Not a railway service of its own: NYC Subway rapid-transit line (J/Z trains)."};

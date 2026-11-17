@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-de-campina-grande","identified_as":"Ex-Great Western / RFFSA metre-gauge Ramal de Campina Grande (Itabaiana – Campina Grande and onward into the Paraíba interior), part of the Ferrovia Transnordestina Logística (FTL) concession.","status":"No passenger service; freight link Campina Grande – coast out of use (reactivation proposed in 2026)"};

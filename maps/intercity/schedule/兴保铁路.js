@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"兴保铁路","identified_as":"兴保铁路 (Xingbao Railway), Fengjiachuan (冯家川) – Watang (瓦塘), 14.0 km: Xing county – Baode local line (Shanxi)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

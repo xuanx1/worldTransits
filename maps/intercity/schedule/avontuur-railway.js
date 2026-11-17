@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"avontuur-railway","identified_as":"Avontuur Railway, 610 mm narrow gauge, Gqeberha – Humansdorp – Joubertina – Avontuur (former Apple Express tourist train)","status":"Closed (scheduled passenger trains ended in the 1940s; Apple Express tourist train ceased 2010)"};

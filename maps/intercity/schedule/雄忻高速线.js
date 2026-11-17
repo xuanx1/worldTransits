@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"雄忻高速线","identified_as":"The Xiong'an-Xinzhou high-speed railway (雄忻高铁), from Xiong'an station via Baoding to Xinzhou West on the Datong-Xi'an HSR. It is under construction.","status":"Not open yet: static acceptance began on 18 Aug 2026, and the line is expected to be ready to open by the end of March 2027."};

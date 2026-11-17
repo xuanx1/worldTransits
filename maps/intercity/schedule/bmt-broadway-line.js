@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bmt-broadway-line","identified_as":"NYC Subway BMT Broadway Line, served by the N, Q, R and W trains.","status":"Not a railway service of its own: NYC Subway rapid-transit trunk line (covered by the subway services N/Q/R/W)."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-waren-malchin","identified_as":"Waren (Müritz) - Malchin railway.","status":"Closed: passenger service ended 1996, line closed 30 Nov 1998"};

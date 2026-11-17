@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-grandson-concise","identified_as":"LNM Lake Neuchâtel boat Grandson - Concise (Yverdon line).","operator":"Société de Navigation sur les lacs de Neuchâtel et Morat (LNM)"};

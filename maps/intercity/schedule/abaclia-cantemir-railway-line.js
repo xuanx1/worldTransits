@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"abaclia-cantemir-railway-line","identified_as":"Southern Basarabeasca/Abaclia–Cantemir line.","status":"No passenger service in 2026"};

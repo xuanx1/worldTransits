@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"南昌枢纽西环线","identified_as":"Nanchang west ring railway (南昌枢纽西环线), freight bypass.","status":"Freight line (some non-stopping passenger trains use it)"};

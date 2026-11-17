@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"strategischer-bahndamm","identified_as":"Strategischer Bahndamm (WWI strategic railway embankment, Neuss - Ahr valley).","status":"Never completed (works stopped Dec 1923); remaining track sections closed 1971/1978"};

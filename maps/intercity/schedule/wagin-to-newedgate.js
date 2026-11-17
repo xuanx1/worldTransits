@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"wagin-to-newedgate","identified_as":"The Wagin – Lake Grace – Newdegate line, WA.","status":"Freight only (grain): status 'Open', operated by Aurizon under contract to CBH Group; no passenger trains. (source: https://en.wikipedia.org/wiki/Newdegate_railway_line, English Wikipedia, raw article text read 16 Nov 2026)"};

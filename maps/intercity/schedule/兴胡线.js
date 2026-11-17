@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"兴胡线","identified_as":"兴胡线 Tangjiatuo–Jingkou–Tuanjiecun, Chongqing freight link.","status":"Freight link between the 唐家沱 and 团结村 freight yards"};

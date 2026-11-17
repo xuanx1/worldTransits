@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-ferrara-modena","identified_as":"The former Ferrara–Modena railway in Emilia-Romagna.","status":"Closed: service suspended spring 1956, suppression decree of 20 Jul 1956, track lifted. Quote: \"L'esercizio della linea fu sospeso nella primavera del 1956\". Source: https://it.wikipedia.org/wiki/Ferrovia_Ferrara-Modena (accessed 15 Nov 2026)"};

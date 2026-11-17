@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-finsterwalde-luckau","identified_as":"Finsterwalde - Crinitz - Luckau railway.","status":"Closed; remaining Finsterwalde-Crinitz section used for museum trains until 2018"};

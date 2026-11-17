@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"shitai-railway","identified_as":"石太铁路 Shijiazhuang – Taiyuan conventional railway (not the Shitai high-speed line).","status":"Freight only (last passenger train ended 28 Oct 2024)"};

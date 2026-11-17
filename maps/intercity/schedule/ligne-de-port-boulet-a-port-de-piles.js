@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-port-boulet-a-port-de-piles","identified_as":"Standard-gauge line Port-Boulet – Chinon – L'Île-Bouchard – Port-de-Piles (Indre-et-Loire).","status":"Closed to passengers since 6 Feb 1939; partly closed/declassified; remainder freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-macao-taipa-dongguan-humen","identified_as":"Macau Taipa - Dongguan Humen cross-boundary ferry.","operator":"(no current operator)"};

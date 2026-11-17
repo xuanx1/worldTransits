@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-palo-alto","identified_as":"Pitajones – La Caoba – Palo Alto branch, Ciego de Ávila province.","status":"Suspended since early 2026 (all seven Ciego de Ávila rail routes halted for fuel in Mar 2026; this route not reported restored) (provisional)"};

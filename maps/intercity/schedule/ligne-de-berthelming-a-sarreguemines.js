@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-berthelming-a-sarreguemines","identified_as":"Standard-gauge line Berthelming–Sarre-Union–Sarralbe–Sarreguemines (Moselle/Bas-Rhin).","status":"No passenger trains: last TER (Sarre-Union–Sarralbe) ran 22 Dec 2018, replaced by buses; Berthelming–Sarre-Union closed 2018; Hambach–Sarreguemines lifted, now a greenway"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rs6-2","identified_as":"Arriva RS6 Groningen - Bad Nieuweschans - Weener (Ihrhove - Groningen line).","status":"Cross-border section Weener - Bad Nieuweschans suspended since 1 Feb 2024 for upgrading/electrification"};

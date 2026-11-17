@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"郭北联络线","identified_as":"郭北联络线 (Guobeilianluo Line), Xi'anbei (西安北) – Guowangcun (郭王村), 19.6 km: Xi'an North – Guowangcun connecting line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

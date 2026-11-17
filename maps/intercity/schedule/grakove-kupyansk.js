@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"grakove-kupyansk","identified_as":"Hrakove – Shevchenkove-Pivdenne – Kupiansk-Vuzlovyi line (Southern Railway), front-line area.","status":"Cut back: since 26 Mar 2026 suburban trains run only Kharkiv/Hrakove – Shevchenkove-Pivdenne (6601/6604/6607/6608); no passenger trains to Kupiansk"};

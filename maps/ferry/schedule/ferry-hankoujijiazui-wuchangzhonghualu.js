@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-hankoujijiazui-wuchangzhonghualu","identified_as":"Wuhan Yangtze ferry 集中线 Hankou Jijiazui - Wuchang Zhonghualu No.2 pier.","operator":"Wuhan Ferry (武汉轮渡)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-grunberg-lollar","identified_as":"Lumdatalbahn Lollar - Grünberg (Oberhessen).","status":"No passenger service since May 1981; closed 1981/1991 (reactivation being planned)"};

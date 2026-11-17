@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"登禹铁路","identified_as":"登禹铁路 (Dengyu Railway), Yuzhou (禹州) – Gaocheng (告成), 43.9 km: Dengfeng – Yuzhou local railway","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

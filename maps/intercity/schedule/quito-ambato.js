@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"quito-ambato","identified_as":"Quito (Chimbacalle) – Machachi – Latacunga – Ambato section of the Trans-Andean line.","status":"No passenger service: state operator Ferrocarriles del Ecuador closed (decree 19 May 2020), operations ceased 2020"};

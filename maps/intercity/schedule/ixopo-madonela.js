@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ixopo-madonela","identified_as":"Ixopo – Union Bridge – Madonela narrow-gauge branch (part of the Umzinto–Donnybrook system)","status":"Closed 1985"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"塔韩线-2","identified_as":"塔韩铁路 Tarangaolei–Hanjiacun coal railway (Inner Mongolia).","status":"Freight only (coal)"};

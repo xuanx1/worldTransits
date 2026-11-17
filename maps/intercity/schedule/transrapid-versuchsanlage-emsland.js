@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"transrapid-versuchsanlage-emsland","identified_as":"Transrapid test track Emsland (maglev).","status":"Closed end of 2011 (test facility, never a public service)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-cienfuegos-santa-clara-santi-spiritus","identified_as":"Regional train Sancti Spíritus – Placetas – Santa Clara – Cienfuegos (Ferrocarriles del Centro).","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

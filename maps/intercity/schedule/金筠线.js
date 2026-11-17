@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"金筠线","identified_as":"金筠铁路 Jinshawan–Junlian coal branch (Sichuan).","status":"Freight (coal branch)"};

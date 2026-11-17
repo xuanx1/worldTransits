@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-sebastien-a-gueret","identified_as":"Standard-gauge line Saint-Sébastien – Dun-le-Palestel – Guéret (Creuse), ex-PO, SNCF.","status":"Closed to passengers since 1940, freight 1950–1952; declassified 1954, track lifted 1957; Saint-Sébastien–Dun-le-Palestel is a voie verte"};

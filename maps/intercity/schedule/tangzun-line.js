@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tangzun-line","identified_as":"唐遵铁路 Tangshan South–Zunhua branch (Hebei).","status":"No passenger trains: none at 唐山南 since 1 Jul 2023; 遵化 is not a 12306 passenger station"};

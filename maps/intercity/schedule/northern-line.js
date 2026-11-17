@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"northern-line","identified_as":"Cotonou – Savè – Parakou metre-gauge line (OCBN/Bénirail).","status":"No regular passenger service (freight only)"};

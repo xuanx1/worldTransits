@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-dismessa-agrigento-c-licata","identified_as":"The former Agrigento–Naro–Licata narrow-gauge railway in Sicily.","status":"Closed 28 Sep 1958. Quote: \"Il servizio ferroviario venne completamente soppresso il 28 settembre 1958.\" Source: https://it.wikipedia.org/wiki/Ferrovia_Agrigento-Naro-Licata (rev. 12 Sep 2026)"};

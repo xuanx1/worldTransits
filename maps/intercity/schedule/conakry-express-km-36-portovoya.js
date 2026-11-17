@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"conakry-express-km-36-portovoya","identified_as":"Conakry Express suburban train (SNCFG), Petit Bateau/Kaloum – Km 36.","status":"Service stopped or very sporadic (July 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"罗若铁路","identified_as":"罗若铁路 (Luoruo Railway), Luozhong (罗中) – Milan (米兰), 237.2 km: Ruoqiang (Milan) – Lop Nur potash railway","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

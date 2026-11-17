@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-abbeville-a-eu","identified_as":"Standard-gauge SNCF line Abbeville–Eu (Somme/Seine-Maritime), part of the Abbeville–Le Tréport route.","status":"Closed (traffic suspended) since 28 May 2018; reopening date not fixed"};

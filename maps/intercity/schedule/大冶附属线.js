@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"大冶附属线","identified_as":"大冶附属线 (Dayefushu Line), Dajipu (大箕铺) – Tieshan (铁山), 27.1 km: Daye mining-area line Dajipu – Daye – Tieshan","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

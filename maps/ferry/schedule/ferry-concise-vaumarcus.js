@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-concise-vaumarcus","identified_as":"LNM Lake Neuchâtel boat Concise - Vaumarcus (Yverdon line).","operator":"Société de Navigation sur les lacs de Neuchâtel et Morat (LNM)"};

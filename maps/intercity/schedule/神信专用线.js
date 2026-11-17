@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"神信专用线","identified_as":"神信专用线 (Shenxinzhuanyong Line), Ganlin (甘霖) – Wutong (梧桐), 30.0 km: Shenxin industrial siding (专用线) Ganlin – Wutong","status":"Freight only (no passenger trains)"};

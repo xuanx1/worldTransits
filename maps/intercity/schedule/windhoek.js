@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"windhoek","identified_as":"TransNamib StarLine passenger network route Keetmanshoop – Windhoek – Walvis Bay","status":"Passenger service suspended since early 2021 (all TransNamib StarLine trains); freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"dilermando-de-aguiar-sao-borja","identified_as":"VFRGS Ramal de São Borja, Dilermando de Aguiar – Santiago – São Borja (RS).","status":"No passenger service since the early 1980s; freight line abandoned by Rumo in 2015"};

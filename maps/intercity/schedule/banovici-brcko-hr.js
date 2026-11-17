@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"banovici-brcko-hr","identified_as":"Brčko–Tuzla–Banovići line (coal and freight; Gunja/Croatia link).","status":"No passenger service (Tuzla area not served by either Bosnian operator)"};

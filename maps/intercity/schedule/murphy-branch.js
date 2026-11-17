@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"murphy-branch","identified_as":"Great Smoky Mountains Railroad (former Southern Railway Murphy Branch), excursion trains from Bryson City to the Nantahala Gorge and to Dillsboro.","status":"Heritage / tourist excursion railroad (no regular passenger service)."};

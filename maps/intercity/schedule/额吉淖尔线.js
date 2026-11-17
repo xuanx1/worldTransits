@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"额吉淖尔线","identified_as":"额吉淖尔线 (Ejinaoer Line), Ejinaoer (额吉淖尔) – Wuzhumuqin (乌珠穆沁), 67.8 km: Ejinaoer salt-lake branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

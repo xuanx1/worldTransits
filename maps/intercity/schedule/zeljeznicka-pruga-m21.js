@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zeljeznicka-pruga-m21","identified_as":"Montenegrin section (Podgorica–Tuzi) of the Podgorica–Shkodër cross-border line.","status":"No passenger service; no international trains to or from Albania"};

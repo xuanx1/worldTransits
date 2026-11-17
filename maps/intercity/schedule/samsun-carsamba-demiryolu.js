@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"samsun-carsamba-demiryolu","identified_as":"Samsun – Çarşamba narrow-gauge railway (37 km), opened 1926.","status":"Closed: 'TCDD closed the line in 1971.' Line abandoned, no service (Wikipedia, accessed 15 Nov 2026)."};

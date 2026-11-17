@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"沙蔚铁路","identified_as":"Shacheng–Yuxian railway (沙蔚铁路), Hebei, coal line.","status":"Freight only"};

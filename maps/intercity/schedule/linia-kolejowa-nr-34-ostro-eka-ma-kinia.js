@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-34-ostro-eka-ma-kinia","identified_as":"PKP PLK line 34 Ostrołęka – Małkinia.","status":"Freight only (coal to Ostrołęka power station); passenger trains suspended in 1993. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_34 (pl.wikipedia, read 16 Nov 2026)"};

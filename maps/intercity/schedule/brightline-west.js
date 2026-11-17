@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"brightline-west","identified_as":"Brightline West: planned high-speed line Las Vegas - Rancho Cucamonga (Southern California).","status":"Not yet open: under construction / awaiting federal financing; the company says it is on track to open in 2029."};

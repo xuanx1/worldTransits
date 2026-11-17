@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"桦南线","identified_as":"桦南线 (Huanan Line), Xiangyangshan (向阳山) – Huanan (桦南), 31.1 km: Xiangyangshan – Huanan branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

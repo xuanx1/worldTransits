@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ahvaz-city-railbus","identified_as":"Ahvaz urban rail-bus on the RAI line Qods – Ahvaz station – Karun.","status":"Discontinued — stopped about 30 days after launch"};

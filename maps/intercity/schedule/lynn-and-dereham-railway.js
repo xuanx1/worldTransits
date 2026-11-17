@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lynn-and-dereham-railway","identified_as":"Lynn and Dereham Railway (King's Lynn - Swaffham - Dereham).","status":"Closed 7 Sep 1968 except King's Lynn - Middleton Towers sand freight"};

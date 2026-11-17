@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"great-central-railway","identified_as":"Great Central Railway heritage line Loughborough Central - Rothley - Leicester North (and the separate GCR Nottingham at Ruddington).","status":"Heritage railway (8 miles), selected days"};

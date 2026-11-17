@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"包神线","identified_as":"包神铁路 Baotou–Shenmu railway (万水泉–大柳塔).","status":"Freight only (one company-staff commuter pair)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-santiago-batuco","identified_as":"EFE's future Tren Santiago–Batuco commuter service (Alameda/Mapocho–Quilicura–Batuco), under construction.","status":"Under construction; no passenger service yet"};

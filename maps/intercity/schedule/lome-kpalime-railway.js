@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lome-kpalime-railway","identified_as":"Lomé – Kpalimé metre-gauge line (SNCT).","status":"No passenger service (passenger trains ceased 1999)"};

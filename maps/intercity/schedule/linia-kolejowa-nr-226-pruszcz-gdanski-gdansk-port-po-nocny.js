@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-226-pruszcz-gdanski-gdansk-port-po-nocny","identified_as":"PKP PLK line 226 Pruszcz Gdański – Gdańsk Port Północny.","status":"Freight line to Gdańsk port; not used by passenger trains except in emergencies. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_226 (pl.wikipedia, read 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bolan-mail","identified_as":"Bolan Mail 3UP/4DN, Karachi – Jacobabad – Sibi – Quetta.","status":"Suspended indefinitely (Pakistan Railways, March 2026); no Karachi – Quetta train in the 18 Nov 2026 timetable"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"郭查铁路","identified_as":"Guoerbenaobao–Chagannuoer railway (郭查铁路), Xilin Gol, Inner Mongolia.","status":"Freight only (mining railway)"};

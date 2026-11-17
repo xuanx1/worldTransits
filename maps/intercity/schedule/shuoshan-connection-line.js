@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"shuoshan-connection-line","identified_as":"朔山联络线 (Shuoshan Connection Line), Shanyin (山阴) – Dianpingnan (店坪南), 45.0 km: Shuozhou – Shanyin connecting line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

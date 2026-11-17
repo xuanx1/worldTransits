@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-lussac-les-chateaux-a-saint-saviol","identified_as":"Standard-gauge line Lussac-les-Châteaux–L'Isle-Jourdain–Civray–Saint-Saviol (Vienne).","status":"Closed to passengers since 15 May 1939; largely declassified, track lifted; part now a cycle/MTB track"};

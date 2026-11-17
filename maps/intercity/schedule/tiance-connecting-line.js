@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tiance-connecting-line","identified_as":"天策联络线 (Tiance Connecting Line), Ceke (策克) – Tianehuxi (天鹅湖西), 67.2 km: link from Tianehu West (Ejina) to the Ceke border crossing","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

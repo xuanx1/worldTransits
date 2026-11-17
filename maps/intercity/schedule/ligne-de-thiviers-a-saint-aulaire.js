@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-thiviers-a-saint-aulaire","identified_as":"Standard-gauge line Thiviers–Excideuil–Saint-Aulaire (Dordogne/Corrèze).","status":"Closed to passengers since 27 June 1940, freight 1986; part used by a tourist vélorail (Vélo rail du Périgord vert) - not a regular service"};

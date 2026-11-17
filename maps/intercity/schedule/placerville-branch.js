@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"placerville-branch","identified_as":"Former Southern Pacific Placerville Branch (Sacramento - Folsom - Latrobe - Shingle Springs - Placerville), now the Sacramento-Placerville Transportation Corridor used by heritage groups (PSVRR, El Dorado Western).","status":"No regular passenger service; heritage excursion / motorcar rides only."};

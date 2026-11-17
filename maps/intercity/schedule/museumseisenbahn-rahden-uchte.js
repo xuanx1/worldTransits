@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"museumseisenbahn-rahden-uchte","identified_as":"Museumseisenbahn Rahden - Uchte on the former Nienburg - Rahden line.","status":"Heritage railway: museum trains Rahden - Uchte since 1991 (selected days); line closed to regular traffic 1 Jan 1996"};

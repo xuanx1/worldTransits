@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"靖神线","identified_as":"靖神线 (Jingshen Line), Shenmuxi (神木西) – Jingbianbei (靖边北), 237.9 km: Jingbian – Shenmu coal railway","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

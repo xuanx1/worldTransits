@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-habana-cienfuegos","identified_as":"Former national train 73/74 La Habana (19 de Noviembre/Tulipán) – Cienfuegos via the Línea Sur.","status":"Passenger service suspended since 2018"};

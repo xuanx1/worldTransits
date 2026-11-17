@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-gisors-embranchement-a-pont-de-l-arche","identified_as":"Standard-gauge line Gisors–Étrépagny–Charleval–Pont-de-l'Arche (Eure).","status":"Closed to passengers 1940/1956; Gisors–Étrépagny declassified 2003 and partly lifted; Étrépagny–Pont-de-l'Arche freight (sugar factory)"};

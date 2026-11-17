@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pingnan-line","identified_as":"平南铁路 Pinghu – Nanshan railway (Shenzhen), 木古 – 深圳北 section.","status":"No passenger service (suspended mid-2022)"};

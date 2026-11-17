@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tirana-elbasan","identified_as":"HSH Tirana (Kashar)–Elbasan service via Kavajë/Rrogozhinë.","status":"No passenger trains running (late 2026)"};

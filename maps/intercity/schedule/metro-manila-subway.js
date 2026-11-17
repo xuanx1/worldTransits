@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"metro-manila-subway","identified_as":"Metro Manila Subway (Line 9), Valenzuela–Bicutan/NAIA.","status":"Under construction; partial operations expected around 2032"};

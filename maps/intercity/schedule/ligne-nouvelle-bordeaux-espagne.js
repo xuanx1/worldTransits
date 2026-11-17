@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-nouvelle-bordeaux-espagne","identified_as":"New high-speed line Bordeaux – Dax – Spanish border (GPSO phase 2).","status":"Not built – planned (Bordeaux – Dax around 2034–2037, Dax – Spain around 2042)"};

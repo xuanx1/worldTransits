@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kranzberg-tsumeb","identified_as":"TransNamib Kranzberg – Otavi – Tsumeb line (route of the former Windhoek – Tsumeb passenger train)","status":"Passenger service cancelled indefinitely in January 2009; freight only"};

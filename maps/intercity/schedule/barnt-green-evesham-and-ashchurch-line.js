@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"barnt-green-evesham-and-ashchurch-line","identified_as":"Ashchurch - Evesham - Redditch - Barnt Green line ('Gloucester Loop').","status":"Closed south of Redditch: Evesham-Ashchurch closed to passengers 17 Jun 1963 (Redditch-Barnt Green remains part of Cross-City line)"};

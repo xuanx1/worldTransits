@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-genthin-schonhausen","identified_as":"Genthin - Schönhausen (Elbe) railway.","status":"Closed (officially January 2005) and largely dismantled"};

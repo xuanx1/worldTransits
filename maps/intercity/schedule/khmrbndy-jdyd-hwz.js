@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"khmrbndy-jdyd-hwz","identified_as":"Ahvaz railway bypass (Miandasht – Nezamiyeh), built to take freight trains around the city.","status":"Freight only (bypass for freight trains; passenger trains use Ahvaz station in the city)"};

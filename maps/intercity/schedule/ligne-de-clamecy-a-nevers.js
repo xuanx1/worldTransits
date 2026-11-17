@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-clamecy-a-nevers","identified_as":"Standard-gauge line Clamecy–Prémery–Nevers (Nièvre).","status":"Closed to passengers since 5 May 1938; freight only Arzembouy–Nevers; Clamecy–Arzembouy unused (track in place)"};

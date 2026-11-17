@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-hong-kong-west-kowloon-macao-taipa","identified_as":"Cotai Water Jet Hong Kong China Ferry Terminal (Kowloon) - Macau Taipa.","operator":"(no current operator)"};

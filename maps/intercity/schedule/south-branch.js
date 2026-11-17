@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"south-branch","identified_as":"CNJ South Branch, Somerville - Flemington.","status":"No passenger service since 25 April 1953; freight only."};

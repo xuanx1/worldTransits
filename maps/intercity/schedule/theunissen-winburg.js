@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"theunissen-winburg","identified_as":"Theunissen – Winburg branch line (Free State)","status":"Closed in the 1990s"};

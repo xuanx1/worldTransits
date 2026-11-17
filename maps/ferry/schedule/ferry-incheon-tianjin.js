@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-incheon-tianjin","identified_as":"Incheon - Tianjin car ferry; no service since February 2020 and the route licence was cancelled in 2025.","operator":"(none; formerly Jinchun Ferry 진천훼리)"};

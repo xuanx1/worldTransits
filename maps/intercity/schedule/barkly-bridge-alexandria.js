@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"barkly-bridge-alexandria","identified_as":"Barkly Bridge – Alexandria branch line (Eastern Cape)","status":"Closed 1993"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"noupoort-germiston","identified_as":"Germiston – Kroonstad – Bloemfontein – Noupoort main line, route of the Shosholoza Meyl Johannesburg – Bloemfontein trains to East London / Gqeberha","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

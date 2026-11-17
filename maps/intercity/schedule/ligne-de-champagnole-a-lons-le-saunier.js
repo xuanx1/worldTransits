@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-champagnole-a-lons-le-saunier","identified_as":"Former PLM standard-gauge line Champagnole – Lons-le-Saunier (Jura).","status":"Closed to passengers 15 May 1938; declassified 1953, track lifted 1960; 18 km greenway Perrigny–Châtillon"};

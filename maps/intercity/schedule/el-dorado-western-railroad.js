@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"el-dorado-western-railroad","identified_as":"El Dorado Western Railroad (El Dorado County Historical Museum volunteers), excursion and A-car rides on the former SP Placerville Branch around El Dorado / Shingle Springs.","status":"Heritage excursion rides on scattered event dates only."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"caoba-guanjiashan-railway","identified_as":"草官铁路 Caoba–Guanjiashan branch (Mengzi, Yunnan).","status":"No passenger service since 1997 (freight branch)"};

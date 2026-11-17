@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"original-vryheid-paulpietersburg-alignment","identified_as":"Original Vryheid (Tendeka) – Paulpietersburg alignment, KwaZulu-Natal.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

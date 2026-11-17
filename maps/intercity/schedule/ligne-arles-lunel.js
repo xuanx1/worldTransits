@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-arles-lunel","identified_as":"Former Arles – Le Cailar – Aimargues – Lunel line (Gard/Bouches-du-Rhône).","status":"Closed to passengers since December 1938; mothballed ('ligne neutralisée'), Aimargues – Lunel lifted"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"voie-unique-de-la-ligne-de-nancois-tronville-a-neufchateau","identified_as":"Standard-gauge (now single-track) line Nançois-Tronville–Gondrecourt–Neufchâteau (Meuse/Vosges).","status":"Closed to passengers since 3 March 1969; last freight (Nançois–Velaines) ended 2020; whole line now barred to trains until further notice"};

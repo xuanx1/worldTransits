@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrocarril-nuevitas-camaguey","identified_as":"Camagüey – Minas – Nuevitas line (with the Nuevitas town section), used by the Camagüey – Nuevitas (– Esmeralda) local train of Ferrocarriles Centro Este.","status":"No service confirmed in Nov 2026: the Camagüey – Nuevitas – Esmeralda train was still awaiting restart in Sep 2026 (provisional)"};

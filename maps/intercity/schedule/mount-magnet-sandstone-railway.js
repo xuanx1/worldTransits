@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mount-magnet-sandstone-railway","identified_as":"The former Mount Magnet – Sandstone branch, WA.","status":"Closed and lifted: 'It was built in 1910, and closed in 1949; it was lifted in 1950.' (source: https://en.wikipedia.org/wiki/Sandstone_branch_railway, English Wikipedia, raw article text read 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"vogelsberger-sudbahn","identified_as":"Vogelsberger Südbahn Wächtersbach - Hartmannshain.","status":"Closed (freight ended 1 Jun 1967, tracks lifted)"};

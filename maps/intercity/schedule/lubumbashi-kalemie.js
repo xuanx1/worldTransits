@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lubumbashi-kalemie","identified_as":"SNCC Lubumbashi–Kamina–Kabalo–Kalemie route, served by the occasional 'Bana Katanga' passenger train.","status":"No regular timetable: occasional SNCC passenger trains (monthly or less, 2022-2023)"};

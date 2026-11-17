@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bloemfontein-kimberley","identified_as":"Bloemfontein – Petrusburg – Kimberley line.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

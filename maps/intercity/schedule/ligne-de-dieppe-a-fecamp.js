@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-dieppe-a-fecamp","identified_as":"Standard-gauge line Dieppe (Petit-Appeville/Saint-Aubin-sur-Scie)–Cany–Fécamp (Seine-Maritime).","status":"Closed to passengers since 2 Oct 1938; freight ended 1975–1996; parts now the Véloroute du lin greenway"};

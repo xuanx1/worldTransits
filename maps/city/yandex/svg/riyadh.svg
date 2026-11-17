@@ -1,0 +1,593 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="2600" viewBox="0 0 1900 2600">
+<rect width="1900" height="2600" fill="#ffffff"/>
+<circle cx="597" cy="2251" r="16" fill="#00aee6"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="581" y="2250.0">1</tspan></text>
+<circle cx="596" cy="428" r="16" fill="#00aee6"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="580" y="427.0">1</tspan></text>
+<circle cx="1596" cy="1066" r="16" fill="#ef4939"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1580" y="1065.0">2</tspan></text>
+<circle cx="222" cy="1066" r="16" fill="#ef4939"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="206" y="1065.0">2</tspan></text>
+<circle cx="1598" cy="1140" r="16" fill="#f68d39"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1582" y="1139.0">3</tspan></text>
+<circle cx="221" cy="2251" r="16" fill="#f68d39"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="205" y="2250.0">3</tspan></text>
+<circle cx="1294" cy="208" r="16" fill="#ffd10a"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1278" y="207.0">4</tspan></text>
+<circle cx="539" cy="621" r="16" fill="#ffd10a"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="523" y="620.0">4</tspan></text>
+<circle cx="513" cy="1570" r="16" fill="#41b649"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="497" y="1569.0">5</tspan></text>
+<circle cx="947" cy="821" r="16" fill="#41b649"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="931" y="820.0">5</tspan></text>
+<circle cx="1215" cy="1274" r="16" fill="#984b9d"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="1199" y="1273.0">6</tspan></text>
+<circle cx="539" cy="661" r="16" fill="#984b9d"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="523" y="660.0">6</tspan></text>
+<image x="1319" y="316" opacity="1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjlweCIgaGVpZ2h0PSI0NnB4IiB2aWV3Qm94PSIwIDAgMjkgNDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xLjA3OCAzMi45NjJINC41MzZDNS44MDUzMyAzMi45NjIgNi43NjIgMzMuMiA3LjQwNiAzMy42NzZDOC4wNSAzNC4xNTIgOC4zNzIgMzQuOTEyNyA4LjM3MiAzNS45NThDOC4zNzIgMzYuNzk4IDguMTc2IDM3LjQ0NjcgNy43ODQgMzcuOTA0QzcuNDAxMzMgMzguMzUyIDYuODc4NjcgMzguNjY0NyA2LjIxNiAzOC44NDJMOC44MDYgNDNINi44Nkw0LjQxIDM5LjAzOEgyLjc3MlY0M0gxLjA3OFYzMi45NjJaTTIuNzcyIDM0LjQzMlYzNy42MjRINC40OEM0LjgxNiAzNy42MjQgNS4xMTQ2NyAzNy41OTYgNS4zNzYgMzcuNTRDNS42NDY2NyAzNy40ODQgNS44NzUzMyAzNy4zOTA3IDYuMDYyIDM3LjI2QzYuMjQ4NjcgMzcuMTI5MyA2LjM4ODY3IDM2Ljk1NjcgNi40ODIgMzYuNzQyQzYuNTg0NjcgMzYuNTI3MyA2LjYzNiAzNi4yNjEzIDYuNjM2IDM1Ljk0NEM2LjYzNiAzNS4zODQgNi40NTQgMzQuOTkyIDYuMDkgMzQuNzY4QzUuNzM1MzMgMzQuNTQ0IDUuMjE3MzMgMzQuNDMyIDQuNTM2IDM0LjQzMkgyLjc3MlpNOS45MzE4IDMyLjk2MkgxMS42Mzk4VjM5LjQ0NEMxMS42Mzk4IDQwLjIgMTEuODQ5OCA0MC43NjQ3IDEyLjI2OTggNDEuMTM4QzEyLjY5OTEgNDEuNTExMyAxMy4yNzMxIDQxLjY5OCAxMy45OTE4IDQxLjY5OEMxNC43MDExIDQxLjY5OCAxNS4yNzUxIDQxLjUxMTMgMTUuNzEzOCA0MS4xMzhDMTYuMTUyNSA0MC43NjQ3IDE2LjM3MTggNDAuMiAxNi4zNzE4IDM5LjQ0NFYzMi45NjJIMTcuOTExOFYzOS40ODZDMTcuOTExOCA0MC4wNzQgMTcuODEzOCA0MC41OTY3IDE3LjYxNzggNDEuMDU0QzE3LjQyMTggNDEuNTAyIDE3LjE0NjUgNDEuODggMTYuNzkxOCA0Mi4xODhDMTYuNDQ2NSA0Mi40OTYgMTYuMDMxMSA0Mi43MzQgMTUuNTQ1OCA0Mi45MDJDMTUuMDYwNSA0My4wNjA3IDE0LjUyMzggNDMuMTQgMTMuOTM1OCA0My4xNEMxMy4zNjY1IDQzLjE0IDEyLjgzNDUgNDMuMDY1MyAxMi4zMzk4IDQyLjkxNkMxMS44NTQ1IDQyLjc1NzMgMTEuNDM0NSA0Mi41Mjg3IDExLjA3OTggNDIuMjNDMTAuNzI1MSA0MS45MzEzIDEwLjQ0NTEgNDEuNTU4IDEwLjIzOTggNDEuMTFDMTAuMDM0NSA0MC42NTI3IDkuOTMxOCA0MC4xMyA5LjkzMTggMzkuNTQyVjMyLjk2MlpNMjYuMTc5MSAzOC43NDRIMjEuNDc1MVY0M0gxOS43ODExVjMyLjk2MkgyMS40NzUxVjM3LjI4OEgyNi4xNzkxVjMyLjk2MkgyNy44ODcxVjQzSDI2LjE3OTFWMzguNzQ0WiIgZmlsbD0iIzY2NjY2NiIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTMgMy45OTAwNUMzIDEuNzg2NDEgNC43ODQyOSAwIDYuOTkwMDUgMEgyMy4wMDk5QzI1LjIxMzYgMCAyNyAxLjc4NDI5IDI3IDMuOTkwMDVWMjAuMDA5OUMyNyAyMi4yMTM2IDI1LjIxNTcgMjQgMjMuMDA5OSAyNEg2Ljk5MDA1QzQuNzg2NDEgMjQgMyAyMi4yMTU3IDMgMjAuMDA5OVYzLjk5MDA1WiIgZmlsbD0iIzY2NjY2NiIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEzLjk3NjQgMTEuMzYyTDkuMTgyMDcgOC4xNjU3QzguOTk0MjMgOC4wNDA0OCA4Ljk0MzQ3IDcuNzg2NjkgOS4wNjg3IDcuNTk4ODVMOS42Nzk4OSA2LjY4MjA3QzkuNzg3MTEgNi41MjEyMyA5Ljk5MjM0IDYuNDU3NDkgMTAuMTcxOCA2LjUyOTI4TDE2LjMxNDUgOC45ODYzN0MxOS41MDMzIDUuOTk5NCAyMC42MDA1IDUuODAwNDYgMjAuOSA2LjFDMjEuMiA2LjQgMjEgNy41IDE4IDEwLjdDMTYuODI1OCAxMS45NTI1IDE0Ljg1OTkgMTMuNjQyNCAxMy41IDE0Ljc3NDFWMTcuNDEzOEMxMy41IDE3LjUzMDQgMTMuNDM0MSAxNy42MzcgMTMuMzI5OSAxNy42ODkxTDEyLjc3MzIgMTcuOTY3NEMxMi42MjExIDE4LjA0MzQgMTIuNDM2MyAxNy45ODE4IDEyLjM2MDIgMTcuODI5OEMxMi4zNTY0IDE3LjgyMjEgMTIuMzUyOSAxNy44MTQ0IDEyLjM0OTggMTcuODA2NEwxMS40NDggMTUuNTUyTDkuMTkzNTcgMTQuNjUwMkM5LjAzNTczIDE0LjU4NzEgOC45NTg5NiAxNC40MDggOS4wMjIxIDE0LjI1MDFDOS4wMjUyNyAxNC4yNDIyIDkuMDI4NzYgMTQuMjM0NCA5LjAzMjU4IDE0LjIyNjhMOS4zMTA5IDEzLjY3MDJDOS4zNjMwNCAxMy41NjU5IDkuNDY5NjIgMTMuNSA5LjU4NjIxIDEzLjVIMTIuMTQ1MUMxMi42MjUxIDEyLjkwMjkgMTMuMjQzNiAxMi4xNjYxIDEzLjk3NjQgMTEuMzYyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOC4zODE0IDExLjYwNDlMMjAuNDcwNyAxNi44MjgyQzIwLjU0MjUgMTcuMDA3NyAyMC40Nzg4IDE3LjIxMjkgMjAuMzE3OSAxNy4zMjAxTDE5LjQwMTIgMTcuOTMxM0MxOS4yMTMzIDE4LjA1NjUgMTguOTU5NSAxOC4wMDU4IDE4LjgzNDMgMTcuODE3OUwxNi4wNzg5IDEzLjY4NDlDMTYuNzE5OCAxMy4xOTIzIDE3LjM3MDkgMTIuNjI5MSAxOCAxMkMxOC4xMzI1IDExLjg2NzUgMTguMjU5NiAxMS43MzU3IDE4LjM4MTQgMTEuNjA0OVYxMS42MDQ5WiIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iMC45Ii8+Cjwvc3ZnPgo="/>
+<image x="1080" y="1609" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxLjMgKDU3NTQ0KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5idXMtdGVybWluYWwtMTQgY29weSA1PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0idHJhbnNwb3J0LXBvaSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE5OS4wMDAwMDAsIC0yNjIuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJidXMtdGVybWluYWwtMTQtY29weS01IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOTkuMDAwMDAwLCAyNjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCwzLjk5NDc4MzQgQzAsMS43ODg1MjU0NSAxLjc5MTcxNTYyLDAgMy45OTQ3ODM0LDAgTDE0LjAwNTIxNjYsMCBDMTYuMjExNDc0NSwwIDE4LDEuNzkxNzE1NjIgMTgsMy45OTQ3ODM0IEwxOCwxNC4wMDUyMTY2IEMxOCwxNi4yMTE0NzQ1IDE2LjIwODI4NDQsMTggMTQuMDA1MjE2NiwxOCBMMy45OTQ3ODM0LDE4IEMxLjc4ODUyNTQ1LDE4IDAsMTYuMjA4Mjg0NCAwLDE0LjAwNTIxNjYgTDAsMy45OTQ3ODM0IFoiIGlkPSJSZWN0YW5nbGUiIGZpbGw9IiMyOTdBQ0MiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxnIGlkPSJkYXkvMTQvcnVicmljc19yYWlsd2F5X3Rlcm1pbmFsXzE0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLjAwMDAwMCwgMi4wMDAwMDApIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOC42MiwxMC4xNiBDOC41NDQ0NTgyNSwxMC4wNTkyNzc3IDguNDI1OTAyOTIsMTAgOC4zLDEwIEw1LjcsMTAgQzUuNTc0MDk3MDgsMTAgNS40NTU1NDE3NSwxMC4wNTkyNzc3IDUuMzgsMTAuMTYgTDQuODIxMTA2NzUsMTAuOTA1MTkxIEM0LjM0NjczNTIxLDEwLjg1NzcxMTYgMy45MjU4NjU4NSwxMC43OTIzOTk5IDMuNTU4NDk4MzYsMTAuNzA5MjU3MyBDMi42NDcwODQyOSwxMC41MDI5NjU3IDIsOS42OTMwNTA2IDIsOC43NTg1ODE4NiBMMi4wMDAwMDUxNiwyLjc0OTY3OTkzIEMyLjAwMDAwNTE2LDIuMTQ5NzY3MzYgMi4zNTc0NDkxMywxLjYwNzU1MTYgMi45MDg4MDA0NiwxLjM3MTEwNTQzIEMzLjM1NDg3NjcxLDEuMTc5ODA2MzMgMy45MjEwOTk0MywxLjAzNjU2NTgxIDQuNjA3NDY4NjQsMC45NDEzODM4NzkgQzQuODI5MDE4NSwwLjM4OTYwOTIwNCA1LjM2OTAxMDIsMCA2LDAgTDgsMCBDOC42MzA5ODk4LDAgOS4xNzA5ODE1LDAuMzg5NjA5MjA0IDkuMzkyNTMxMzYsMC45NDEzODM4NzkgQzEwLjA3ODg4MDEsMS4wMzY1NjI5NyAxMC42NDUwODk1LDEuMTc5Nzk3NzkgMTEuMDkxMTcsMS4zNzEwNjQwMiBDMTEuNjQyNTQxMywxLjYwNzUxMTM5IDEyLDIuMTQ5NzQyODcgMTIsMi43NDk2NzQyIEwxMi4wMDAwMTYsOC43NTg1NjExOCBDMTIuMDAwMDE2LDkuNjkzMDI1NDUgMTEuMzUyOTM3LDEwLjUwMjkzNzYgMTAuNDQxNTI4MiwxMC43MDkyMzIxIEMxMC4wNzQxNTQ4LDEwLjc5MjM4NTkgOS42NTMyNzU2NiwxMC44NTc3MDQ1IDkuMTc4ODkwODMsMTAuOTA1MTg3OCBMOC42MiwxMC4xNiBaIE05LjA1NDk3MDM2LDkgTDEwLjI1LDkgQzEwLjY2NDIxMzYsOSAxMSw4LjY2NDIxMzU2IDExLDguMjUgTDExLDcuOTAwMDAwMDEgQzExLDcuNjc5MDg2MSAxMC44MjA5MTM5LDcuNSAxMC42LDcuNSBMOS4yODgzMDM2OSw3LjUgQzkuMTE2MTMxNTMsNy41IDguOTYzMjc1OTksNy42MTAxNzIwNCA4LjkwODgzMDM3LDcuNzczNTA4OSBMOC42NzU0OTcwNCw4LjQ3MzUwODg5IEM4LjYwNTYzNzkzLDguNjgzMDg2MjIgOC43MTg5MDE5Miw4LjkwOTYxNDIxIDguOTI4NDc5MjUsOC45Nzk0NzMzMiBDOC45NjkyNjU4NCw4Ljk5MzA2ODg1IDkuMDExOTc3NTIsOSA5LjA1NDk3MDM2LDkgWiBNNC45NDUwMjk2NCw5IEM0Ljk4ODAyMjQ4LDkgNS4wMzA3MzQxNiw4Ljk5MzA2ODg1IDUuMDcxNTIwNzUsOC45Nzk0NzMzMiBDNS4yODEwOTgwOCw4LjkwOTYxNDIxIDUuMzk0MzYyMDcsOC42ODMwODYyMiA1LjMyNDUwMjk2LDguNDczNTA4ODkgTDUuMDkxMTY5NjMsNy43NzM1MDg5IEM1LjAzNjcyNDAxLDcuNjEwMTcyMDQgNC44ODM4Njg0Nyw3LjUgNC43MTE2OTYzMSw3LjUgTDMuNDAwMDAwMDEsNy41IEMzLjE3OTA4NjEsNy41IDMsNy42NzkwODYxIDMsNy45MDAwMDAwMSBMMyw4LjI1IEMzLDguNjY0MjEzNTYgMy4zMzU3ODY0NCw5IDMuNzUsOSBMNC45NDUwMjk2NCw5IFogTTMuODA0MTMwMzUsMi44MTkxNzQ0NiBDMy4zMzY1OTg3OCwyLjkxMjU2MDA4IDMuMDAwMDE1NjgsMy4zMjMwMjE1NSAzLjAwMDAxNTY4LDMuNzk5Nzg4NDEgTDMuMDAwMDAyMiw1LjQ2NDAwNDI5IEMyLjk5OTk5OTAxLDUuOTkxNjIzMTQgMy40MDk5MTMzNCw2LjQyODQ2ODUzIDMuOTM2NDY2MDYsNi40NjE5OTMxIEM1LjM4MTUzNzc0LDYuNTUzOTk3OTUgNi40MDI3NDI3NSw2LjYwMDAwMDM4IDcuMDAwMDgxMSw2LjYwMDAwMDM4IEM3LjU5NzQwNTU3LDYuNjAwMDAwMzggOC42MTg1ODU2MSw2LjU1Mzk5NzczIDEwLjA2MzYyMTIsNi40NjE5OTI0MiBMMTAuMDYzNjE4Miw2LjQ2MTk0NDI0IEMxMC41OTAxNDc4LDYuNDI4NDIwMTMgMTEuMDAwMDQxNyw1Ljk5MTU5MDAxIDExLjAwMDAzMTcsNS40NjM5OTQxNyBMMTEsMy43OTk4MDUxMiBDMTEsMy4zMjMwMzI2NCAxMC42NjM0MTMsMi45MTI1NjYzIDEwLjE5NTg3NiwyLjgxOTE3OTM4IEM5LjEzMDU4NDQ4LDIuNjA2MzkxOTYgOC4wNjUyOTIyNCwyLjUgNywyLjUgQzUuOTM0NzEwMTIsMi41IDQuODY5NDIwMjQsMi42MDYzOTE0OSAzLjgwNDEzMDM1LDIuODE5MTc0NDYgWiBNNiwxIEM1LjcyMzg1NzYzLDEgNS41LDEuMjIzODU3NjMgNS41LDEuNSBDNS41LDEuNzc2MTQyMzcgNS43MjM4NTc2MywyIDYsMiBMOCwyIEM4LjI3NjE0MjM3LDIgOC41LDEuNzc2MTQyMzcgOC41LDEuNSBDOC41LDEuMjIzODU3NjMgOC4yNzYxNDIzNywxIDgsMSBMNiwxIFoiIGlkPSJDb21iaW5lZC1TaGFwZSI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik00LjkyMTkxNDQsMTIuMzk5OTk5NiBMOS4wNzgwODU2LDEyLjM5OTk5OTYgTDkuMDIxNTgyMzgsMTIuMjg5NDQyNyBDOS4wMDczODkxOSwxMi4yNjE2NzE2IDksMTIuMjMxMDQ5IDksMTIuMiBDOSwxMi4wODk1NDMxIDkuMDkxNTI3LDEyIDkuMjA0NDMxMjgsMTIgTDkuOTMwODg1NTcsMTIgQzEwLjAzOTMyMjcsMTIgMTAuMTQzMzE4NSwxMi4wNDIxNDI3IDEwLjIxOTk5NTEsMTIuMTE3MTU3MyBMMTEuOTcwMDYxNywxMy44MjkyODkzIEMxMS45ODkyMzA5LDEzLjg0ODA0MyAxMiwxMy44NzM0NzgzIDEyLDEzLjkgQzEyLDEzLjk1NTIyODUgMTEuOTU0MjM2NSwxNCAxMS44OTc3ODQ0LDE0IEwxMC4wMjIxNTY0LDE0IEM5Ljk0NDcyMzUyLDE0IDkuODczOTM2NTEsMTMuOTU3MTk5NSA5LjgzOTMwNzQ5LDEzLjg4OTQ0MjcgTDkuMzg0NzMxNzQsMTIuOTk5OTk4MSBMNC42MTUyNjgyNiwxMi45OTk5OTgxIEw0LjE2MDY5MjUxLDEzLjg4OTQ0MjcgQzQuMTI2MDYzNDksMTMuOTU3MTk5NSA0LjA1NTI3NjQ4LDE0IDMuOTc3ODQzNjIsMTQgTDIuMTAyMjE1NjQsMTQgQzIuMDQ1NzYzNSwxNCAyLDEzLjk1NTIyODUgMiwxMy45IEMyLDEzLjg3MzQ3ODMgMi4wMTA3NjkxMiwxMy44NDgwNDMgMi4wMjk5MzgyNywxMy44MjkyODkzIEwzLjc4MDAwNDk1LDEyLjExNzE1NzMgQzMuODU2NjgxNTUsMTIuMDQyMTQyNyAzLjk2MDY3NzM0LDEyIDQuMDY5MTE0NDMsMTIgTDQuNzk1NTY4NzIsMTIgQzQuOTA4NDczLDEyIDUsMTIuMDg5NTQzMSA1LDEyLjIgQzUsMTIuMjMxMDQ5IDQuOTkyNjEwODEsMTIuMjYxNjcxNiA0Ljk3ODQxNzYyLDEyLjI4OTQ0MjcgTDQuOTIxOTE0NCwxMi4zOTk5OTk2IFoiIGlkPSJQYXRoIiBmaWxsLW9wYWNpdHk9IjAuOSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="/>
+<image x="1344" y="490" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxLjMgKDU3NTQ0KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5idXMtdGVybWluYWwtMTQgY29weSA1PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0idHJhbnNwb3J0LXBvaSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE5OS4wMDAwMDAsIC0yNjIuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJidXMtdGVybWluYWwtMTQtY29weS01IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOTkuMDAwMDAwLCAyNjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCwzLjk5NDc4MzQgQzAsMS43ODg1MjU0NSAxLjc5MTcxNTYyLDAgMy45OTQ3ODM0LDAgTDE0LjAwNTIxNjYsMCBDMTYuMjExNDc0NSwwIDE4LDEuNzkxNzE1NjIgMTgsMy45OTQ3ODM0IEwxOCwxNC4wMDUyMTY2IEMxOCwxNi4yMTE0NzQ1IDE2LjIwODI4NDQsMTggMTQuMDA1MjE2NiwxOCBMMy45OTQ3ODM0LDE4IEMxLjc4ODUyNTQ1LDE4IDAsMTYuMjA4Mjg0NCAwLDE0LjAwNTIxNjYgTDAsMy45OTQ3ODM0IFoiIGlkPSJSZWN0YW5nbGUiIGZpbGw9IiMyOTdBQ0MiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxnIGlkPSJkYXkvMTQvcnVicmljc19yYWlsd2F5X3Rlcm1pbmFsXzE0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLjAwMDAwMCwgMi4wMDAwMDApIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOC42MiwxMC4xNiBDOC41NDQ0NTgyNSwxMC4wNTkyNzc3IDguNDI1OTAyOTIsMTAgOC4zLDEwIEw1LjcsMTAgQzUuNTc0MDk3MDgsMTAgNS40NTU1NDE3NSwxMC4wNTkyNzc3IDUuMzgsMTAuMTYgTDQuODIxMTA2NzUsMTAuOTA1MTkxIEM0LjM0NjczNTIxLDEwLjg1NzcxMTYgMy45MjU4NjU4NSwxMC43OTIzOTk5IDMuNTU4NDk4MzYsMTAuNzA5MjU3MyBDMi42NDcwODQyOSwxMC41MDI5NjU3IDIsOS42OTMwNTA2IDIsOC43NTg1ODE4NiBMMi4wMDAwMDUxNiwyLjc0OTY3OTkzIEMyLjAwMDAwNTE2LDIuMTQ5NzY3MzYgMi4zNTc0NDkxMywxLjYwNzU1MTYgMi45MDg4MDA0NiwxLjM3MTEwNTQzIEMzLjM1NDg3NjcxLDEuMTc5ODA2MzMgMy45MjEwOTk0MywxLjAzNjU2NTgxIDQuNjA3NDY4NjQsMC45NDEzODM4NzkgQzQuODI5MDE4NSwwLjM4OTYwOTIwNCA1LjM2OTAxMDIsMCA2LDAgTDgsMCBDOC42MzA5ODk4LDAgOS4xNzA5ODE1LDAuMzg5NjA5MjA0IDkuMzkyNTMxMzYsMC45NDEzODM4NzkgQzEwLjA3ODg4MDEsMS4wMzY1NjI5NyAxMC42NDUwODk1LDEuMTc5Nzk3NzkgMTEuMDkxMTcsMS4zNzEwNjQwMiBDMTEuNjQyNTQxMywxLjYwNzUxMTM5IDEyLDIuMTQ5NzQyODcgMTIsMi43NDk2NzQyIEwxMi4wMDAwMTYsOC43NTg1NjExOCBDMTIuMDAwMDE2LDkuNjkzMDI1NDUgMTEuMzUyOTM3LDEwLjUwMjkzNzYgMTAuNDQxNTI4MiwxMC43MDkyMzIxIEMxMC4wNzQxNTQ4LDEwLjc5MjM4NTkgOS42NTMyNzU2NiwxMC44NTc3MDQ1IDkuMTc4ODkwODMsMTAuOTA1MTg3OCBMOC42MiwxMC4xNiBaIE05LjA1NDk3MDM2LDkgTDEwLjI1LDkgQzEwLjY2NDIxMzYsOSAxMSw4LjY2NDIxMzU2IDExLDguMjUgTDExLDcuOTAwMDAwMDEgQzExLDcuNjc5MDg2MSAxMC44MjA5MTM5LDcuNSAxMC42LDcuNSBMOS4yODgzMDM2OSw3LjUgQzkuMTE2MTMxNTMsNy41IDguOTYzMjc1OTksNy42MTAxNzIwNCA4LjkwODgzMDM3LDcuNzczNTA4OSBMOC42NzU0OTcwNCw4LjQ3MzUwODg5IEM4LjYwNTYzNzkzLDguNjgzMDg2MjIgOC43MTg5MDE5Miw4LjkwOTYxNDIxIDguOTI4NDc5MjUsOC45Nzk0NzMzMiBDOC45NjkyNjU4NCw4Ljk5MzA2ODg1IDkuMDExOTc3NTIsOSA5LjA1NDk3MDM2LDkgWiBNNC45NDUwMjk2NCw5IEM0Ljk4ODAyMjQ4LDkgNS4wMzA3MzQxNiw4Ljk5MzA2ODg1IDUuMDcxNTIwNzUsOC45Nzk0NzMzMiBDNS4yODEwOTgwOCw4LjkwOTYxNDIxIDUuMzk0MzYyMDcsOC42ODMwODYyMiA1LjMyNDUwMjk2LDguNDczNTA4ODkgTDUuMDkxMTY5NjMsNy43NzM1MDg5IEM1LjAzNjcyNDAxLDcuNjEwMTcyMDQgNC44ODM4Njg0Nyw3LjUgNC43MTE2OTYzMSw3LjUgTDMuNDAwMDAwMDEsNy41IEMzLjE3OTA4NjEsNy41IDMsNy42NzkwODYxIDMsNy45MDAwMDAwMSBMMyw4LjI1IEMzLDguNjY0MjEzNTYgMy4zMzU3ODY0NCw5IDMuNzUsOSBMNC45NDUwMjk2NCw5IFogTTMuODA0MTMwMzUsMi44MTkxNzQ0NiBDMy4zMzY1OTg3OCwyLjkxMjU2MDA4IDMuMDAwMDE1NjgsMy4zMjMwMjE1NSAzLjAwMDAxNTY4LDMuNzk5Nzg4NDEgTDMuMDAwMDAyMiw1LjQ2NDAwNDI5IEMyLjk5OTk5OTAxLDUuOTkxNjIzMTQgMy40MDk5MTMzNCw2LjQyODQ2ODUzIDMuOTM2NDY2MDYsNi40NjE5OTMxIEM1LjM4MTUzNzc0LDYuNTUzOTk3OTUgNi40MDI3NDI3NSw2LjYwMDAwMDM4IDcuMDAwMDgxMSw2LjYwMDAwMDM4IEM3LjU5NzQwNTU3LDYuNjAwMDAwMzggOC42MTg1ODU2MSw2LjU1Mzk5NzczIDEwLjA2MzYyMTIsNi40NjE5OTI0MiBMMTAuMDYzNjE4Miw2LjQ2MTk0NDI0IEMxMC41OTAxNDc4LDYuNDI4NDIwMTMgMTEuMDAwMDQxNyw1Ljk5MTU5MDAxIDExLjAwMDAzMTcsNS40NjM5OTQxNyBMMTEsMy43OTk4MDUxMiBDMTEsMy4zMjMwMzI2NCAxMC42NjM0MTMsMi45MTI1NjYzIDEwLjE5NTg3NiwyLjgxOTE3OTM4IEM5LjEzMDU4NDQ4LDIuNjA2MzkxOTYgOC4wNjUyOTIyNCwyLjUgNywyLjUgQzUuOTM0NzEwMTIsMi41IDQuODY5NDIwMjQsMi42MDYzOTE0OSAzLjgwNDEzMDM1LDIuODE5MTc0NDYgWiBNNiwxIEM1LjcyMzg1NzYzLDEgNS41LDEuMjIzODU3NjMgNS41LDEuNSBDNS41LDEuNzc2MTQyMzcgNS43MjM4NTc2MywyIDYsMiBMOCwyIEM4LjI3NjE0MjM3LDIgOC41LDEuNzc2MTQyMzcgOC41LDEuNSBDOC41LDEuMjIzODU3NjMgOC4yNzYxNDIzNywxIDgsMSBMNiwxIFoiIGlkPSJDb21iaW5lZC1TaGFwZSI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik00LjkyMTkxNDQsMTIuMzk5OTk5NiBMOS4wNzgwODU2LDEyLjM5OTk5OTYgTDkuMDIxNTgyMzgsMTIuMjg5NDQyNyBDOS4wMDczODkxOSwxMi4yNjE2NzE2IDksMTIuMjMxMDQ5IDksMTIuMiBDOSwxMi4wODk1NDMxIDkuMDkxNTI3LDEyIDkuMjA0NDMxMjgsMTIgTDkuOTMwODg1NTcsMTIgQzEwLjAzOTMyMjcsMTIgMTAuMTQzMzE4NSwxMi4wNDIxNDI3IDEwLjIxOTk5NTEsMTIuMTE3MTU3MyBMMTEuOTcwMDYxNywxMy44MjkyODkzIEMxMS45ODkyMzA5LDEzLjg0ODA0MyAxMiwxMy44NzM0NzgzIDEyLDEzLjkgQzEyLDEzLjk1NTIyODUgMTEuOTU0MjM2NSwxNCAxMS44OTc3ODQ0LDE0IEwxMC4wMjIxNTY0LDE0IEM5Ljk0NDcyMzUyLDE0IDkuODczOTM2NTEsMTMuOTU3MTk5NSA5LjgzOTMwNzQ5LDEzLjg4OTQ0MjcgTDkuMzg0NzMxNzQsMTIuOTk5OTk4MSBMNC42MTUyNjgyNiwxMi45OTk5OTgxIEw0LjE2MDY5MjUxLDEzLjg4OTQ0MjcgQzQuMTI2MDYzNDksMTMuOTU3MTk5NSA0LjA1NTI3NjQ4LDE0IDMuOTc3ODQzNjIsMTQgTDIuMTAyMjE1NjQsMTQgQzIuMDQ1NzYzNSwxNCAyLDEzLjk1NTIyODUgMiwxMy45IEMyLDEzLjg3MzQ3ODMgMi4wMTA3NjkxMiwxMy44NDgwNDMgMi4wMjk5MzgyNywxMy44MjkyODkzIEwzLjc4MDAwNDk1LDEyLjExNzE1NzMgQzMuODU2NjgxNTUsMTIuMDQyMTQyNyAzLjk2MDY3NzM0LDEyIDQuMDY5MTE0NDMsMTIgTDQuNzk1NTY4NzIsMTIgQzQuOTA4NDczLDEyIDUsMTIuMDg5NTQzMSA1LDEyLjIgQzUsMTIuMjMxMDQ5IDQuOTkyNjEwODEsMTIuMjYxNjcxNiA0Ljk3ODQxNzYyLDEyLjI4OTQ0MjcgTDQuOTIxOTE0NCwxMi4zOTk5OTk2IFoiIGlkPSJQYXRoIiBmaWxsLW9wYWNpdHk9IjAuOSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="/>
+<image x="555" y="2044" opacity="1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMThweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMTggMTgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxLjMgKDU3NTQ0KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5idXMtdGVybWluYWwtMTQgY29weSA0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9Im9yaWdpbmFsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0idHJhbnNwb3J0LXBvaSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE3NS4wMDAwMDAsIC0yNjIuMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJidXMtdGVybWluYWwtMTQtY29weS00IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNzUuMDAwMDAwLCAyNjIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCwzLjk5NDc4MzQgQzAsMS43ODg1MjU0NSAxLjc5MTcxNTYyLDAgMy45OTQ3ODM0LDAgTDE0LjAwNTIxNjYsMCBDMTYuMjExNDc0NSwwIDE4LDEuNzkxNzE1NjIgMTgsMy45OTQ3ODM0IEwxOCwxNC4wMDUyMTY2IEMxOCwxNi4yMTE0NzQ1IDE2LjIwODI4NDQsMTggMTQuMDA1MjE2NiwxOCBMMy45OTQ3ODM0LDE4IEMxLjc4ODUyNTQ1LDE4IDAsMTYuMjA4Mjg0NCAwLDE0LjAwNTIxNjYgTDAsMy45OTQ3ODM0IFoiIGlkPSJSZWN0YW5nbGUiIGZpbGw9IiMyOTdBQ0MiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxnIGlkPSJkYXkvMTQvcnVicmljc19idXNfc3RhdGlvbl8xNCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4wMDAwMDAsIDIuMDAwMDAwKSIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLDEyLjYxNjExMzcgQzEyLDEyLjgyODEyODMgMTEuODEyMDE0OSwxMyAxMS42MDAwMDA0LDEzIEwxMC4yNjc1OTE5LDEzIEMxMC4xMDA0MTUzLDEzIDkuOTQ0Mjk5NjIsMTIuOTE2NDQ5NCA5Ljg1MTU2NjczLDEyLjc3NzM1MDEgTDksMTEuNSBMNSwxMS41IEw0LjE0ODQzMzI3LDEyLjc3NzM1MDEgQzQuMDU1NzAwMzgsMTIuOTE2NDQ5NCAzLjg5OTU4NDcxLDEzIDMuNzMyNDA4MTIsMTMgTDIuNDAwMDAwMSwxMyBDMi4xODc5ODU1NywxMyAyLDEyLjgyODEyODMgMiwxMi42MTYxMTM3IEwyLDUuOTk5MTI0NjggTDEuMDczMzc4MjQsNS41NzMyNDk3OSBDMS4wMjYzOTkzOCw1LjUyNjM1MzE2IDEsNS40NjI2OTgzMSAxLDUuMzk2MzE4MjkgTDEsMy43NSBDMSwzIDEuNzIzODU3NjMsMyAyLDMgTDIsMi43OTA5MzQ3MiBDMi4wMDAwMDAwMSwyLjE0MDk4MDUxIDIuMzUyMzc3NzMsMS41NjQ5NzIyIDMsMS4zNjQyNTM3MSBDMy44MDgwMTQ4NiwxLjExMzgyNDUxIDQuODQzNDY4NjMsMSA3LDEgQzkuMTU2NTMxMzgsMSAxMC4xOTE5ODUxLDEuMTEzODI0NTEgMTEsMS4zNjQyNTM3MSBDMTEuNjQ3NjIyMywxLjU2NDk3MjIxIDEyLDIuMTQwOTgwNTIgMTIsMi43OTA5MzQ3MyBMMTIsMyBDMTIuMjc2MTQyNCwzIDEzLDMgMTMsMy43NSBMMTMsNS4zOTgwMjQyOSBDMTMsNS40NjMzOTM1NiAxMi45NzQzOTYzLDUuNTI2MTYyNjMgMTIuOTI4Njc1LDUuNTcyODgyMDUgTDEyLDYuMDEwOTE1MzYgTDEyLDEyLjYxNjExMzcgWiBNNywyLjUgQzUuMDEyMTExNzMsMi41IDMuNzY1MTY3LDIuNjM5MDU3MDUgMy4yNTkxNjU4MiwyLjkxNzE3MTE2IEMzLjA5OTMyMzE2LDMuMDA1MDI1NyAzLjAwMDAwMjQzLDMuMTcyOTQ5NzQgMy4wMDAwMDI0MywzLjM1NTM0NTE4IEwzLDYuNjI1IEMzLDYuODMyMTA2NzggMy4xNDkyMzg0Miw3IDMuMzMzMzMzMzMsNyBMMTAuNjY2NjY2Nyw3IEMxMC44NTA3NjE2LDcgMTEsNi44MzIxMDY3OCAxMSw2LjYyNSBMMTEsMy4yNTEyNDc4NCBDMTAuOTk4NzUyMSwyLjc1IDkuNjY1NDE4ODEsMi41IDcsMi41IFogTTEwLDEwLjUgQzEwLjU1MjI4NDcsMTAuNSAxMSwxMC4wNTIyODQ3IDExLDkuNSBDMTEsOC45NDc3MTUyNSAxMC41NTIyODQ3LDguNSAxMCw4LjUgQzkuNDQ3NzE1MjUsOC41IDksOC45NDc3MTUyNSA5LDkuNSBDOSwxMC4wNTIyODQ3IDkuNDQ3NzE1MjUsMTAuNSAxMCwxMC41IFogTTQsMTAuNSBDNC41NTIyODQ3NSwxMC41IDUsMTAuMDUyMjg0NyA1LDkuNSBDNSw4Ljk0NzcxNTI1IDQuNTUyMjg0NzUsOC41IDQsOC41IEMzLjQ0NzcxNTI1LDguNSAzLDguOTQ3NzE1MjUgMyw5LjUgQzMsMTAuMDUyMjg0NyAzLjQ0NzcxNTI1LDEwLjUgNCwxMC41IFoiIGlkPSJDb21iaW5lZC1TaGFwZSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="/>
+<line x1="222" y1="2052" x2="222" y2="2122" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="2052" x2="222" y2="2122" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1261" y1="1552" x2="1261" y2="1652" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1261" y1="1552" x2="1261" y2="1652" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 734, 1251 L 734, 1263 A 5, 5 0 0 0 744, 1263 L 744, 1251 A 5, 5 0 0 0 734, 1251" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 734, 1326 L 734, 1338 A 5, 5 0 0 0 744, 1338 L 744, 1326 A 5, 5 0 0 0 734, 1326" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 1088.5, 1116 L 1100.5, 1116 A 5, 5 0 0 0 1100.5, 1106 L 1088.5, 1106 A 5, 5 0 0 0 1088.5, 1116" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 1088.5, 941 L 1101, 941 A 5, 5 0 0 0 1101, 931 L 1088.5, 931 A 5, 5 0 0 0 1088.5, 941" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 820.5, 793 L 820.5, 799 A 6, 6 0 0 0 832.5, 799 L 832.5, 793 A 6, 6 0 0 0 820.5, 793" fill="#ffffff" opacity="1"/>
+<path d="M 895.5, 793 L 895.5, 799 A 6, 6 0 0 0 907.5, 799 L 907.5, 793 A 6, 6 0 0 0 895.5, 793" fill="#ffffff" opacity="1"/>
+<line x1="598" y1="495" x2="598" y2="565" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="495" x2="598" y2="565" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="565" x2="598" y2="642" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="565" x2="598" y2="642" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="642" x2="598" y2="712" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="642" x2="598" y2="712" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="712" x2="598" y2="782" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="712" x2="598" y2="782" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="782" x2="598" y2="852" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="782" x2="598" y2="852" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="852" x2="598" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="852" x2="598" y2="922" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="922" x2="598" y2="992" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="922" x2="598" y2="992" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="992" x2="598" y2="1062" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="992" x2="598" y2="1062" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1062" x2="598" y2="1132" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1062" x2="598" y2="1132" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1132" x2="598" y2="1202" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1132" x2="598" y2="1202" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1202" x2="598" y2="1272" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1202" x2="598" y2="1272" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1272" x2="598" y2="1342" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1272" x2="598" y2="1342" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1342" x2="598" y2="1412" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1342" x2="598" y2="1412" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1412" x2="598" y2="1482" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1412" x2="598" y2="1482" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1482" x2="598" y2="1552" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1482" x2="598" y2="1552" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1552" x2="598" y2="1632" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1552" x2="598" y2="1632" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1632" x2="598" y2="1702" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1632" x2="598" y2="1702" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1702" x2="598" y2="1772" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1702" x2="598" y2="1772" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1772" x2="598" y2="1842" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1772" x2="598" y2="1842" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1842" x2="598" y2="1912" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1842" x2="598" y2="1912" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1912" x2="598" y2="1982" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1912" x2="598" y2="1982" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1982" x2="598" y2="2052" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1982" x2="598" y2="2052" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="2052" x2="598" y2="2122" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="2052" x2="598" y2="2122" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="2122" x2="598" y2="2192" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="2122" x2="598" y2="2192" stroke="#00aee6" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 223, 992 L 223, 942 Q 223 922 243 922 L 298, 922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 223, 992 L 223, 942 Q 223 922 243 922 L 298, 922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="298" y1="922" x2="398" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="298" y1="922" x2="398" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="398" y1="922" x2="498" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="398" y1="922" x2="498" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="498" y1="922" x2="622" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="498" y1="922" x2="622" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="622" y1="922" x2="722" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="622" y1="922" x2="722" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="722" y1="922" x2="822" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="722" y1="922" x2="822" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="822" y1="922" x2="922" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="822" y1="922" x2="922" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="922" y1="922" x2="1022" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="922" y1="922" x2="1022" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1022" y1="922" x2="1122" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1022" y1="922" x2="1122" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1122" y1="922" x2="1222" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1122" y1="922" x2="1222" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1222" y1="922" x2="1322" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1222" y1="922" x2="1322" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1322" y1="922" x2="1422" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1322" y1="922" x2="1422" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1422" y1="922" x2="1522" y2="922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1422" y1="922" x2="1522" y2="922" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1522, 922 L 1577, 922 Q 1597 922 1597 942 L 1597, 992" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1522, 922 L 1577, 922 Q 1597 922 1597 942 L 1597, 992" stroke="#ef4939" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1597, 1202 L 1597, 1252 Q 1597 1272 1577 1272 L 1459, 1272" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1597, 1202 L 1597, 1252 Q 1597 1272 1577 1272 L 1459, 1272" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1459" y1="1272" x2="1321" y2="1272" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1459" y1="1272" x2="1321" y2="1272" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1321, 1272 L 1281, 1272 Q 1261 1272 1261 1292 L 1261, 1352" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1321, 1272 L 1281, 1272 Q 1261 1272 1261 1292 L 1261, 1352" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1261" y1="1352" x2="1261" y2="1452" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1261" y1="1352" x2="1261" y2="1452" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1261" y1="1452" x2="1261" y2="1552" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1261" y1="1452" x2="1261" y2="1552" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1261, 1652 L 1261, 1706 Q 1261 1726 1241 1726 L 1173, 1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1261, 1652 L 1261, 1706 Q 1261 1726 1241 1726 L 1173, 1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1173" y1="1726" x2="1058" y2="1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1173" y1="1726" x2="1058" y2="1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1058" y1="1726" x2="943" y2="1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1058" y1="1726" x2="943" y2="1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="943" y1="1726" x2="828" y2="1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="943" y1="1726" x2="828" y2="1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="828" y1="1726" x2="713" y2="1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="828" y1="1726" x2="713" y2="1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="713" y1="1726" x2="598" y2="1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="713" y1="1726" x2="598" y2="1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1726" x2="473" y2="1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="598" y1="1726" x2="473" y2="1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="473" y1="1726" x2="338" y2="1726" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="473" y1="1726" x2="338" y2="1726" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 338, 1726 L 242, 1726 Q 222 1726 222 1746 L 222, 1772" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 338, 1726 L 242, 1726 Q 222 1726 222 1746 L 222, 1772" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="222" y1="1772" x2="222" y2="1842" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="1772" x2="222" y2="1842" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="1842" x2="222" y2="1912" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="1842" x2="222" y2="1912" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="1912" x2="222" y2="1982" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="1912" x2="222" y2="1982" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="1982" x2="222" y2="2052" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="1982" x2="222" y2="2052" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="2122" x2="222" y2="2192" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="222" y1="2122" x2="222" y2="2192" stroke="#f68d39" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="623" y1="636" x2="773" y2="636" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="623" y1="636" x2="773" y2="636" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="773" y1="636" x2="923" y2="636" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="773" y1="636" x2="923" y2="636" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="923" y1="636" x2="1073" y2="636" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="923" y1="636" x2="1073" y2="636" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1073, 636 L 1099, 636 Q 1119 636 1133.14 621.86 L 1180, 575" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1073, 636 L 1099, 636 Q 1119 636 1133.14 621.86 L 1180, 575" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1180" y1="575" x2="1260" y2="495" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1180" y1="575" x2="1260" y2="495" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1260, 495 L 1283.56, 471.44 Q 1297 458 1297 439 L 1297, 420" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1260, 495 L 1283.56, 471.44 Q 1297 458 1297 439 L 1297, 420" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1297" y1="420" x2="1297" y2="350" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="420" x2="1297" y2="350" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="350" x2="1297" y2="280" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="350" x2="1297" y2="280" stroke="#ffd10a" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="922" x2="946" y2="992" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="922" x2="946" y2="992" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="992" x2="946" y2="1062" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="992" x2="946" y2="1062" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1062" x2="946" y2="1132" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1062" x2="946" y2="1132" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1132" x2="946" y2="1202" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1132" x2="946" y2="1202" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1202" x2="946" y2="1272" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1202" x2="946" y2="1272" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1272" x2="946" y2="1342" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1272" x2="946" y2="1342" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1342" x2="946" y2="1412" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1342" x2="946" y2="1412" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1412" x2="946" y2="1482" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1412" x2="946" y2="1482" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1482" x2="946" y2="1552" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="946" y1="1482" x2="946" y2="1552" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 946, 1552 L 946, 1564 Q 946 1576 934 1576 L 830, 1576" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 946, 1552 L 946, 1564 Q 946 1576 934 1576 L 830, 1576" stroke="#41b649" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="830" y1="1576" x2="598" y2="1576" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="830" y1="1576" x2="598" y2="1576" stroke="#41b649" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="623" y1="648" x2="773" y2="648" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="623" y1="648" x2="773" y2="648" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="773" y1="648" x2="923" y2="648" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="773" y1="648" x2="923" y2="648" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="923" y1="648" x2="1073" y2="648" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="923" y1="648" x2="1073" y2="648" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1073, 648 L 1099, 648 Q 1119 648 1133.14 662.14 L 1180, 709" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1073, 648 L 1099, 648 Q 1119 648 1133.14 662.14 L 1180, 709" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1180" y1="709" x2="1260" y2="789" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1180" y1="709" x2="1260" y2="789" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 1260, 789 L 1283.23, 813.49 Q 1297 828 1297 848 L 1297, 922" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 1260, 789 L 1283.23, 813.49 Q 1297 828 1297 848 L 1297, 922" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="1297" y1="922" x2="1297" y2="1062" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="922" x2="1297" y2="1062" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="1062" x2="1297" y2="1132" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="1062" x2="1297" y2="1132" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="1132" x2="1297" y2="1202" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="1132" x2="1297" y2="1202" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="1202" x2="1297" y2="1272" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="1297" y1="1202" x2="1297" y2="1272" stroke="#984b9d" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<circle cx="623" cy="636" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="623" cy="636" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="623" cy="648" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="623" cy="648" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="773" cy="636" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="773" cy="636" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="773" cy="648" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="773" cy="648" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="923" cy="636" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="923" cy="636" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="923" cy="648" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="923" cy="648" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="1073" cy="636" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1073" cy="636" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="1073" cy="648" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1073" cy="648" r="5" fill="#984b9d" opacity="1"/>
+<path d="M 1065, 636 L 1065, 648 A 8, 8 0 0 0 1081, 648 L 1081, 636 A 8, 8 0 0 0 1065, 636" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 1073, 636 L 1073, 648" stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 590, 1552 L 590, 1576 A 8, 8 0 0 0 606, 1576 L 606, 1552 A 8, 8 0 0 0 590, 1552" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 598, 1552 L 598, 1576" stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 590, 1702 L 590, 1726 A 8, 8 0 0 0 606, 1726 L 606, 1702 A 8, 8 0 0 0 590, 1702" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 598, 1702 L 598, 1726" stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1297, 1280 L 1321, 1280 A 8, 8 0 0 0 1321, 1264 L 1297, 1264 A 8, 8 0 0 0 1297, 1280" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 1297, 1272 L 1321, 1272" stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 1297, 930 L 1322, 930 A 8, 8 0 0 0 1322, 914 L 1297, 914 A 8, 8 0 0 0 1297, 930" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 1297, 922 L 1322, 922" stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<circle cx="598" cy="495" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="495" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="565" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="565" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="642" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="642" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="712" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="712" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="782" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="782" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="852" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="852" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="922" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="922" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="992" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="992" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1062" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1062" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1132" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1132" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1202" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1202" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1272" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1272" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1342" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1342" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1412" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1412" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1482" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1482" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1552" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1552" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1632" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1632" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1702" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1702" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1772" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1772" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1842" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1842" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1912" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1912" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="1982" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1982" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="2052" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="2052" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="2122" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="2122" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="598" cy="2192" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="2192" r="5" fill="#00aee6" opacity="1"/>
+<circle cx="223" cy="992" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="223" cy="992" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="298" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="298" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="398" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="398" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="498" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="498" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="622" cy="922" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="622" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="722" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="722" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="822" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="822" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="922" cy="922" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="922" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1022" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1022" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1122" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1122" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1222" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1222" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1322" cy="922" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1322" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1422" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1422" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1522" cy="922" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1522" cy="922" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1597" cy="992" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1597" cy="992" r="5" fill="#ef4939" opacity="1"/>
+<circle cx="1597" cy="1202" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1597" cy="1202" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1459" cy="1272" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1459" cy="1272" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1321" cy="1272" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1321" cy="1272" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1261" cy="1352" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1261" cy="1352" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1261" cy="1452" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1261" cy="1452" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1261" cy="1552" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1261" cy="1552" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1261" cy="1652" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1261" cy="1652" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1173" cy="1726" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1173" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="1058" cy="1726" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1058" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="943" cy="1726" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="943" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="828" cy="1726" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="828" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="713" cy="1726" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="713" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="598" cy="1726" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="473" cy="1726" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="473" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="338" cy="1726" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="338" cy="1726" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="222" cy="1772" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="222" cy="1772" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="222" cy="1842" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="222" cy="1842" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="222" cy="1912" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="222" cy="1912" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="222" cy="1982" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="222" cy="1982" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="222" cy="2052" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="222" cy="2052" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="222" cy="2122" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="222" cy="2122" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="222" cy="2192" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="222" cy="2192" r="5" fill="#f68d39" opacity="1"/>
+<circle cx="946" cy="922" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="922" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="992" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="992" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1062" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1062" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1132" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1132" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1202" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1202" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1272" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1272" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1342" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1342" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1412" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1412" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1482" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1482" r="5" fill="#41b649" opacity="1"/>
+<circle cx="946" cy="1552" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="946" cy="1552" r="5" fill="#41b649" opacity="1"/>
+<circle cx="830" cy="1576" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="830" cy="1576" r="5" fill="#41b649" opacity="1"/>
+<circle cx="598" cy="1576" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="598" cy="1576" r="5" fill="#41b649" opacity="1"/>
+<path d="M 765, 636 L 765, 648 A 8, 8 0 0 0 781, 648 L 781, 636 A 8, 8 0 0 0 765, 636" fill="#ffffff" opacity="1"/>
+<path d="M 915, 636 L 915, 648 A 8, 8 0 0 0 931, 648 L 931, 636 A 8, 8 0 0 0 915, 636" fill="#ffffff" opacity="1"/>
+<circle cx="1180" cy="575" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1180" cy="575" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="1260" cy="495" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1260" cy="495" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="1297" cy="420" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="420" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="1297" cy="350" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="350" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="1297" cy="280" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="280" r="5" fill="#ffd10a" opacity="1"/>
+<circle cx="1180" cy="709" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1180" cy="709" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="1260" cy="789" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1260" cy="789" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="1297" cy="922" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="922" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="1297" cy="1062" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="1062" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="1297" cy="1132" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="1132" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="1297" cy="1202" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="1202" r="5" fill="#984b9d" opacity="1"/>
+<circle cx="1297" cy="1272" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="1297" cy="1272" r="5" fill="#984b9d" opacity="1"/>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="519">SAB</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="519">SAB</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="589">Dr Sulaiman al Habib</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="589">Dr Sulaiman al Habib</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="621">KAFD</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="621">KAFD</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="736">Al Murooj</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="736">Al Murooj</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="806">King Fahd</tspan><tspan x="610" y="830">District</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="806">King Fahd</tspan><tspan x="610" y="830">District</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="876">King Fahd</tspan><tspan x="610" y="900">District 2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="876">King Fahd</tspan><tspan x="610" y="900">District 2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="614" y="962">STC</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="614" y="962">STC</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1016">Al Wurud 2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1016">Al Wurud 2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1086">Al Urubah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1086">Al Urubah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1156">Al Inma Bank</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1156">Al Inma Bank</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1226">Al Bilad Bank</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1226">Al Bilad Bank</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1296">King Fahd</tspan><tspan x="610" y="1320">Library</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1296">King Fahd</tspan><tspan x="610" y="1320">Library</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1366">Ministry of</tspan><tspan x="610" y="1390">Interior</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1366">Ministry of</tspan><tspan x="610" y="1390">Interior</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1436">Al Muorabba</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1436">Al Muorabba</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1506">Passport Department</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1506">Passport Department</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="614" y="1542">National</tspan><tspan x="614" y="1566">Museum</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="614" y="1542">National</tspan><tspan x="614" y="1566">Museum</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1656">Al Bat&#x27;ha</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1656">Al Bat&#x27;ha</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="614" y="1694">Qasr Al</tspan><tspan x="614" y="1718">Hokm</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="614" y="1694">Qasr Al</tspan><tspan x="614" y="1718">Hokm</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1796">Al Owd</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1796">Al Owd</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1866">Skirinah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1866">Skirinah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="1936">Manfouhah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="1936">Manfouhah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="2006">Al Iman Hospital</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="2006">Al Iman Hospital</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="2076">Transportation Centre</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="2076">Transportation Centre</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="2146">Al Aziziyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="2146">Al Aziziyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="2216">Ad Dar Al Baida</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="2216">Ad Dar Al Baida</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="235" y="1016">King Saud</tspan><tspan x="235" y="1040">University</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="235" y="1016">King Saud</tspan><tspan x="235" y="1040">University</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="254" y="857">King</tspan><tspan x="254" y="881">Salman</tspan><tspan x="254" y="905">Oasis</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="254" y="857">King</tspan><tspan x="254" y="881">Salman</tspan><tspan x="254" y="905">Oasis</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="366" y="960">KACST</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="366" y="960">KACST</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="582" y="909">At Takhassussi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="582" y="909">At Takhassussi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="614" y="962">STC</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="614" y="962">STC</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="670" y="909">Al Wurud</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="670" y="909">Al Wurud</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="788" y="960">King</tspan><tspan x="788" y="984">Abdulaziz</tspan><tspan x="788" y="1008">Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="788" y="960">King</tspan><tspan x="788" y="984">Abdulaziz</tspan><tspan x="788" y="1008">Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="870" y="879">Ministry of</tspan><tspan x="870" y="903">Education</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="870" y="879">Ministry of</tspan><tspan x="870" y="903">Education</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="980" y="960">An Nuzhah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="980" y="960">An Nuzhah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1082" y="857">Riyadh</tspan><tspan x="1082" y="881">Exhibition</tspan><tspan x="1082" y="905">Centre</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1082" y="857">Riyadh</tspan><tspan x="1082" y="881">Exhibition</tspan><tspan x="1082" y="905">Centre</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1158" y="960">Khalid Bin</tspan><tspan x="1158" y="984">Alwaleed</tspan><tspan x="1158" y="1008">Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1158" y="960">Khalid Bin</tspan><tspan x="1158" y="984">Alwaleed</tspan><tspan x="1158" y="1008">Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1307" y="907">Al Hamra</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1307" y="907">Al Hamra</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1365" y="960">Al Khaleej</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1365" y="960">Al Khaleej</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1490" y="907">Ishbiliyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1490" y="907">Ishbiliyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1609" y="1016">King Fahad</tspan><tspan x="1609" y="1040">Sport City</tspan><tspan x="1609" y="1064"></tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1609" y="1016">King Fahad</tspan><tspan x="1609" y="1040">Sport City</tspan><tspan x="1609" y="1064"></tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1609" y="1226">Khashm Al An</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1609" y="1226">Khashm Al An</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1463" y="1314">Hassan Bin Thabit Street</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1463" y="1314">Hassan Bin Thabit Street</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1390" y="1314">An Naseem</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1390" y="1314">An Naseem</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1273" y="1376">Harun Ar Rashid Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1273" y="1376">Harun Ar Rashid Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1273" y="1476">Al Rajih Grand Mosque</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1273" y="1476">Al Rajih Grand Mosque</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1273" y="1576">Jarir District</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1273" y="1576">Jarir District</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1273" y="1676">Al Malaz</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1273" y="1676">Al Malaz</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1158" y="1765">Railway</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1158" y="1765">Railway</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1002" y="1694">First</tspan><tspan x="1002" y="1718">Industrial City</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1002" y="1694">First</tspan><tspan x="1002" y="1718">Industrial City</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="910" y="1765">As Salhiyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="910" y="1765">As Salhiyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="810" y="1713">Al Margab</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="810" y="1713">Al Margab</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="710" y="1765">Al Hilla</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="710" y="1765">Al Hilla</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="614" y="1694">Qasr Al</tspan><tspan x="614" y="1718">Hokm</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="614" y="1694">Qasr Al</tspan><tspan x="614" y="1718">Hokm</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="455" y="1694">Courts</tspan><tspan x="455" y="1718">Complex</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="455" y="1694">Courts</tspan><tspan x="455" y="1718">Complex</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="248" y="1713">Al Jarradiyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="248" y="1713">Al Jarradiyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="234" y="1796">Sultanah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="234" y="1796">Sultanah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="234" y="1866">Dhahrat Al Badiah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="234" y="1866">Dhahrat Al Badiah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="234" y="1936">Aishah Bint Abi</tspan><tspan x="234" y="1960">Bakr Street</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="234" y="1936">Aishah Bint Abi</tspan><tspan x="234" y="1960">Bakr Street</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="234" y="2006">Western Station</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="234" y="2006">Western Station</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="234" y="2076">Ad Douh</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="234" y="2076">Ad Douh</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="234" y="2146">Tuwaiq</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="234" y="2146">Tuwaiq</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="234" y="2216">Jeddah Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="234" y="2216">Jeddah Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="870" y="879">Ministry of</tspan><tspan x="870" y="903">Education</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="870" y="879">Ministry of</tspan><tspan x="870" y="903">Education</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1016">King Salman</tspan><tspan x="958" y="1040">Park</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1016">King Salman</tspan><tspan x="958" y="1040">Park</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1086">As Sulimaniyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1086">As Sulimaniyah</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1156">Ad Dhabab</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1156">Ad Dhabab</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1226">Abu Dhabi Square</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1226">Abu Dhabi Square</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1296">Officers Club</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1296">Officers Club</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1366">GOSI</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1366">GOSI</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1436">Al Wizarat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1436">Al Wizarat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1506">Ministry of</tspan><tspan x="958" y="1530">Defense</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1506">Ministry of</tspan><tspan x="958" y="1530">Defense</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="958" y="1576">King Abdulaziz</tspan><tspan x="958" y="1600">Hospital</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="958" y="1576">King Abdulaziz</tspan><tspan x="958" y="1600">Hospital</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="784" y="1616">Ministry of</tspan><tspan x="784" y="1640">Finance</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="784" y="1616">Ministry of</tspan><tspan x="784" y="1640">Finance</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="614" y="1542">National</tspan><tspan x="614" y="1566">Museum</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="614" y="1542">National</tspan><tspan x="614" y="1566">Museum</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="610" y="621">KAFD</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="610" y="621">KAFD</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="745" y="689">Ar Rabi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="745" y="689">Ar Rabi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="885" y="689">Uthman</tspan><tspan x="885" y="713">Bin Affan</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="885" y="689">Uthman</tspan><tspan x="885" y="713">Bin Affan</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1045" y="622">SABIC</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1045" y="622">SABIC</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1192" y="599">Princess Nora bint</tspan><tspan x="1192" y="623">Abdul Rahman University 1</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1192" y="599">Princess Nora bint</tspan><tspan x="1192" y="623">Abdul Rahman University 1</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1248" y="519">Princess Nora bint</tspan><tspan x="1248" y="543">Abdul Rahman University 2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1248" y="519">Princess Nora bint</tspan><tspan x="1248" y="543">Abdul Rahman University 2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1285" y="444">Airport</tspan><tspan x="1285" y="468">T5</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1285" y="444">Airport</tspan><tspan x="1285" y="468">T5</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1285" y="374">Airport</tspan><tspan x="1285" y="398">T3-4</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1285" y="374">Airport</tspan><tspan x="1285" y="398">T3-4</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1285" y="304">Airport</tspan><tspan x="1285" y="328">T1-2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1285" y="304">Airport</tspan><tspan x="1285" y="328">T1-2</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1192" y="733">Granada Mall</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1192" y="733">Granada Mall</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1272" y="813">Al Yarmuk</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1272" y="813">Al Yarmuk</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1307" y="907">Al Hamra</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1307" y="907">Al Hamra</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1309" y="1086">Al Andalus</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1309" y="1086">Al Andalus</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1309" y="1156">Khurais Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1309" y="1156">Khurais Road</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1309" y="1226">As Salam</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1309" y="1226">As Salam</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="1390" y="1314">An Naseem</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="1390" y="1314">An Naseem</tspan></text>
+</svg>

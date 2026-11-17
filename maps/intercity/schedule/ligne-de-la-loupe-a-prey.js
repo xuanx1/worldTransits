@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-la-loupe-a-prey","identified_as":"Standard-gauge line La Loupe–Senonches–Verneuil-sur-Avre–Prey (Eure-et-Loir/Eure).","status":"Closed to passengers 1938/1939; freight ended 1953–2008; no track, declassified"};

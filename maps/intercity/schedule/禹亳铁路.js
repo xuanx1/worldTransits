@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"禹亳铁路","identified_as":"Yubo railway (禹亳铁路) section Lingjing – Chuhe – Yuzhou, Henan local railway","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

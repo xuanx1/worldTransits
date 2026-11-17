@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sagua-isabela","identified_as":"Sagua la Grande – Isabela de Sagua (Concha) local train (see slug linea-sagua).","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

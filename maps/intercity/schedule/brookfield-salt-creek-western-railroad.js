@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"brookfield-salt-creek-western-railroad","identified_as":"Brookfield, Salt Creek & Western Railroad, a narrow-gauge zoo railroad at Brookfield Zoo (Chicago).","status":"Closed in 1985 and dismantled."};

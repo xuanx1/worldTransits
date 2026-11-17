@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"huizhou-dayawan-railway","identified_as":"惠大铁路 Huizhou West – Dayawan (Huizhou port) branch railway.","status":"Freight only"};

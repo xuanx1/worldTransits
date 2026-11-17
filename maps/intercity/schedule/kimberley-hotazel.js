@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kimberley-hotazel","identified_as":"Kimberley – Barkly West – Postmasburg – Hotazel manganese line (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

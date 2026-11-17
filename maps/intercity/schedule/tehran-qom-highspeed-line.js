@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tehran-qom-highspeed-line","identified_as":"Tehran – Qom – Isfahan high-speed railway project (Tehran – Qom section).","status":"Not open — under construction / stalled (Dec 2025)"};

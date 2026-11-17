@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"武黄线","identified_as":"武黄铁路 Wuhan (Shekou) – Huangzhou railway, the Wuhan New Port north-bank railway (not the Wuhan–Huangshi intercity).","status":"Freight only"};

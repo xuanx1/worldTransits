@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rio-vista-montezuma","identified_as":"Western Railway Museum interurban ride on the former Sacramento Northern line from Rio Vista Junction across the Montezuma Hills.","status":"Heritage railway museum ride (weekends; 50-minute round trip)."};

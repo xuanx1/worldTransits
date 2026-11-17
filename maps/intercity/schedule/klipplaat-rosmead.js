@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"klipplaat-rosmead","identified_as":"Klipplaat – Graaff-Reinet (Robert Sobukwe Town) – Rosmead line","status":"Reopened 2015/16 but unused since (no traffic)"};

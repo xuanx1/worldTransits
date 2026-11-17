@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"voie-ferree-beninoise","identified_as":"Savè – Toui section of the Cotonou–Parakou metre-gauge line.","status":"No regular passenger service (freight only)"};

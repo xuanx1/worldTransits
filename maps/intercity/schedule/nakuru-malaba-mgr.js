@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nakuru-malaba-mgr","identified_as":"Metre-gauge Uganda Railway, Nakuru – Eldoret – Malaba (Uganda border)","status":"No passenger service"};

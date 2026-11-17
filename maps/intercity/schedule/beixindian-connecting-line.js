@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"beixindian-connecting-line","identified_as":"北辛店联络线 (Beixindian Connecting Line), Pinglingcheng (平陵城) – Jinandong (济南东), 18.9 km: connecting line into Jinan East (Jinan hub)","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

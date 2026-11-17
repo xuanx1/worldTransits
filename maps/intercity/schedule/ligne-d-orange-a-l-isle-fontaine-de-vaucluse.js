@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-orange-a-l-isle-fontaine-de-vaucluse","identified_as":"Former standard-gauge line Orange – Carpentras – Pernes – L'Isle-Fontaine-de-Vaucluse (Vaucluse).","status":"Closed to passengers since 2 Oct 1938; all traffic ended 1988; largely declassified; Jonquières–Carpentras now the Via Venaissia cycle route"};

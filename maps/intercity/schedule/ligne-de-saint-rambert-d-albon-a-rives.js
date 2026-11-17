@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-rambert-d-albon-a-rives","identified_as":"Former standard-gauge line Saint-Rambert-d'Albon – Beaurepaire – Rives (Drôme/Isère).","status":"Closed to passengers since 1939; no longer operated (freight Saint-Rambert–Beaurepaire still open in 2013); Izeaux–Rives declassified 1972"};

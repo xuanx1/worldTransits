@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"welverdiend-lichtenburg","identified_as":"Welverdiend (Rysmierbult) – Ventersdorp – Coligny – Lichtenburg line, North West.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

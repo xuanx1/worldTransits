@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"trem-do-pantanal","identified_as":"Trem do Pantanal (Pantanal Express), the former tourist passenger train Campo Grande – Aquidauana – Miranda on the Malha Oeste (ex-Noroeste do Brasil).","status":"No regular passenger service (Malha Oeste railway not operating since end of 2025)"};

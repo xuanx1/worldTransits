@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ibarra-salinas","identified_as":"Northern line Otavalo – Ibarra – Salinas (former 'Tren de la Libertad').","status":"Ibarra–Salinas not operating (only under inspection for future reactivation); a short Ibarra–Antonio Ante tourist train ('Tren Tayta Imbabura', 13 km) runs since April 2025"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"worcester-nashua-portland-railroad","identified_as":"Former Worcester & Nashua (B&M Worcester, Nashua & Portland Division), Worcester - Ayer section, now part of CSX's Worcester Subdivision.","status":"Freight only (CSX); no passenger trains on Worcester - Ayer."};

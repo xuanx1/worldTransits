@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"antsia-kushnits-ka","identified_as":"Borzhava narrow-gauge railway (750 mm), Berehove – Vynohradiv – Antsia / Kushnytsia branch, Zakarpattia.","status":"No regular passenger service (Berehove – Kushnytsia passenger trains ended in the early 1980s; no regular service as of Oct 2022)"};

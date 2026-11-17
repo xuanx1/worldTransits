@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pretoria-magaliesburg","identified_as":"Hercules (Pretoria) – Hartbeespoort – Magaliesburg line","status":"Closed 1996"};

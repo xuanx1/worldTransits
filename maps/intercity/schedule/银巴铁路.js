@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"银巴铁路","identified_as":"银巴铁路 (Yinba Railway), Bayanhaote (巴彦浩特) – 巴润别立, 110.3 km: Yinchuan – Bayanhaote railway section","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

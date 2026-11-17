@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"awash-weldiya-railway","identified_as":"Awash – Kombolcha – Weldiya – Hara Gebeya standard-gauge railway (ERC)","status":"Not open: under construction; ERC aims to complete remaining works within two years (Oct 2026)"};

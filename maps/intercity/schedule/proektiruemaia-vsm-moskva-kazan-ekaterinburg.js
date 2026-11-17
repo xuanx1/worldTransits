@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"proektiruemaia-vsm-moskva-kazan-ekaterinburg","identified_as":"Planned Moscow – Kazan (– Yekaterinburg) high-speed line (ВСМ-2), never built.","status":"Planned, not built (project shelved since 2019)"};

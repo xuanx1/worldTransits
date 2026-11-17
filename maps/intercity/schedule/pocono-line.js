@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pocono-line","identified_as":"Delaware-Lackawanna Railroad Pocono Main Line (former DL&W), Scranton - Slateford Junction, owned by PNRRA.","status":"Freight railroad; passenger use only by Steamtown NHS and other heritage excursions."};

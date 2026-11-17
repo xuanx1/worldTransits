@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fuyang-huangmei-high-speed-railway","identified_as":"The planned Fuyang–Huanggang high-speed railway (阜黄高铁, Anhui–Henan–Hubei); the mapped Fuyang West – Huangmei East route appears to be its alignment. Not yet built.","status":"Not yet under construction: at the environmental-impact approval stage as of 15 Oct 2026."};

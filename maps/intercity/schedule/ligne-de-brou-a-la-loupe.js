@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-brou-a-la-loupe","identified_as":"Standard-gauge line Brou–Frazé–La Loupe (Eure-et-Loir).","status":"Closed to passengers since 7 Nov 1938; freight ended 1971; declassified 1960/1973, no track"};

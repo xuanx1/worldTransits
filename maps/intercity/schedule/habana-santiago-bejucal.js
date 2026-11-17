@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"habana-santiago-bejucal","identified_as":"Suburban train La Habana (La Coubre) – Rancho Boyeros – Santiago de las Vegas – Bejucal.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

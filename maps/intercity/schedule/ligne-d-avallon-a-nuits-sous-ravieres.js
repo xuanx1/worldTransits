@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-avallon-a-nuits-sous-ravieres","identified_as":"Former PLM standard-gauge line Avallon – Nuits-sous-Ravières (Yonne).","status":"Passenger service replaced by road from 1933; line closed 1952, declassified 1954"};

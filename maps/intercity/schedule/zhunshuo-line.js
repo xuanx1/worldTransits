@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zhunshuo-line","identified_as":"准朔铁路 Zhungeer–Shuozhou heavy-haul coal railway (红进塔–店坪).","status":"Freight only (coal)"};

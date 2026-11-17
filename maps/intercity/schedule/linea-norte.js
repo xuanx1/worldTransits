@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linea-norte","identified_as":"Cuba's Línea Norte (northern main line) Santa Clara – Jarahueca – Morón – Esmeralda – Senado – Nuevitas (Tiffin).","status":"No regular traffic for more than ten years (through line out of use); local sections not running in 2026"};

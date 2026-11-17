@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"damas-amman","identified_as":"Hejaz Railway Damascus (Qadam)–Daraa–Nasib–Amman narrow-gauge international train.","status":"No passenger service since 2006"};

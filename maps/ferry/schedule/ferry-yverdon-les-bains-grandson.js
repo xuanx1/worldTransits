@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-yverdon-les-bains-grandson","identified_as":"LNM Lake Neuchâtel boat Yverdon-les-Bains - Grandson.","operator":"Société de Navigation sur les lacs de Neuchâtel et Morat (LNM)"};

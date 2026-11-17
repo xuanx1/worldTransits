@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"dozier-to-pittsburg","identified_as":"Former Sacramento Northern line through Rio Vista Junction, Gum Grove and Molena, now the Western Railway Museum's heritage line (rest of the route freight-only/abandoned).","status":"Heritage railway museum ride only (no public passenger service)."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"小厉铁路","identified_as":"Xiaoli railway (小厉铁路), Xiaolin (Handan railway) – Caodianzhen – Yindian – Gaocheng – Lishan (Ningxi railway), Suizhou","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

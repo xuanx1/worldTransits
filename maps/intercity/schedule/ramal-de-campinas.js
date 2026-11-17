@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-de-campinas","identified_as":"Sorocabana (ex-Ituana) Ramal de Campinas, Salto – Itu – Mairinque (SP).","status":"Tourist only: regular passenger trains ended 1976; the Itu – Salto stretch hosts the Trem Republicano / Trem da República tourist train (from 19 Dec 2020)"};

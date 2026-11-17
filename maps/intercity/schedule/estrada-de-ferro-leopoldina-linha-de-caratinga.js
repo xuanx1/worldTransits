@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-leopoldina-linha-de-caratinga","identified_as":"Leopoldina Três Rios – Ubá – Ponte Nova – Caratinga line (MG).","status":"Closed: no passenger trains since the 1980s; Três Rios – Ligação and Ponte Nova – Caratinga eradicated 1994, middle section 'tráfego suspenso'"};

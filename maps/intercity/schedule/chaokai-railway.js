@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chaokai-railway","identified_as":"Chaoyangchuan–Kaishantun railway (朝开铁路), Jilin.","status":"Closed (abandoned)"};

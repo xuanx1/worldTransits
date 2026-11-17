@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"鹧柳环线","identified_as":"鹧柳环线 (Zheliuhuan Line), Zhegujiang (鹧鸪江) – Liuzhouxi (柳州西), 17.4 km: Liuzhou hub ring line Zhegujiang – Liuzhou West","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

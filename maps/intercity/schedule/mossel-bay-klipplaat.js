@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mossel-bay-klipplaat","identified_as":"Mossel Bay (Voorbaai) – Great Brak – George – Oudtshoorn – Willowmore – Klipplaat line (Transnet).","status":"No regular passenger service; heritage tourist trips only (Ceres Rail ran four weekend trips George – Great Brak River in July 2026, now concluded)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-guatemala-herrera","identified_as":"Local ferrobús Guatemala – Herrera (Mayarí, Holguín province).","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

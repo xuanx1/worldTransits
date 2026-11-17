@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"deeside-railway","identified_as":"Deeside Railway Aberdeen - Banchory - Ballater; Royal Deeside Railway heritage line at Milton of Crathes.","status":"Closed 1966/1967; short heritage line from Milton of Crathes (15-20 min return trips)"};

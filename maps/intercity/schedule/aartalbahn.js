@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aartalbahn","identified_as":"Aartalbahn Wiesbaden - Bad Schwalbach - Diez (Lahn).","status":"No regular passenger service since 1983/1990; museum trains (Nassauische Touristik-Bahn) suspended since May 2009; draisines Freiendiez-Michelbach tunnel since 2004"};

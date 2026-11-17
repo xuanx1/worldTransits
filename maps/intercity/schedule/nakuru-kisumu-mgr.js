@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nakuru-kisumu-mgr","identified_as":"Metre-gauge Nakuru–Kisumu line, used by Kenya Railways' Nairobi–Kisumu 'Safari Train'","status":"No regular passenger service; seasonal/intermittent Kisumu Safari Train only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lanhe-railway","identified_as":"兰合铁路 Lanzhou–Hezuo railway (唐尕昂–临夏–刘家峡–石岗), under construction.","status":"Under construction"};

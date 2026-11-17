@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sudharz-eisenbahn","identified_as":"Südharz-Eisenbahn, narrow gauge Walkenried - Braunlage/Tanne (Sorge).","status":"Closed: passenger service ended Sep 1962, last section closed 1963"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-lajes-macau","identified_as":"Lajes – Pedro Avelino – Afonso Bezerra – Macau branch (RN).","status":"Closed: passenger trains ended 1982, freight in the 1990s"};

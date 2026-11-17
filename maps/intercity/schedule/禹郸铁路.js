@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"禹郸铁路","identified_as":"Lingjing – Yuzhou – Jiaxian line, on the alignment of the former Yudan narrow-gauge railway (禹郸铁路), rebuilt as the standard-gauge Yubo railway","status":"No passenger trains: the narrow-gauge Yudan railway's passenger trains have ended and the line was rebuilt as the freight-first Yubo railway; 12306 lists no trains on it"};

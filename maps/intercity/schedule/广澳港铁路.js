@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"广澳港铁路","identified_as":"广澳港铁路 (Guangaogang Railway), Shantou (汕头) – 汕头北, 23.0 km: Shantou Guang'ao port railway","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

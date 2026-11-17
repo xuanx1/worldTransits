@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"amabele-mthatha","identified_as":"Amabele – Butterworth – Mthatha line, route of the Kei Rail East London – Mthatha regional train","status":"No passenger service (Kei Rail suspended since 31 Oct 2012)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"肥东合肥联络线","identified_as":"肥东合肥联络线 (Feidonghefeilianluo Line), Sanshilipu (三十里铺) – Hefei (合肥), 13.0 km: Hefei hub connecting line Sanshilipu – Hefei","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

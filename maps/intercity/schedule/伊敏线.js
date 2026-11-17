@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"伊敏线","identified_as":"Yimin railway (伊敏铁路 / Haiyi railway), Hailar East – Yimin coal field, 77 km","status":"Freight only (no passenger trains)"};

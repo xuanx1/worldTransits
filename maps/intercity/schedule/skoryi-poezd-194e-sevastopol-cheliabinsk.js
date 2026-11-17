@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"skoryi-poezd-194e-sevastopol-cheliabinsk","identified_as":"Seasonal through train 194Э Sevastopol – Chelyabinsk (Grand Service Express).","status":"Seasonal — no runs in Nov 2026"};

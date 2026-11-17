@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bulawayo-francistown","identified_as":"Botswana Railways Francistown – Plumtree – Bulawayo cross-border passenger train (started trial 20 Dec 2017)","status":"Passenger service suspended since 2020 (COVID-19); still suspended 2026"};

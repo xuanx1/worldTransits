@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"carbondale-line","identified_as":"Delaware-Lackawanna Railroad Carbondale Line (former D&H Penn Division), Scranton - Carbondale, with Electric City Trolley Museum / Steamtown excursions.","status":"Freight railroad; passenger use only by heritage excursions (Steamtown, Electric City Trolley Museum)."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"khaf-herat-railway","identified_as":"Khaf (Iran)–Shamtigh–Rozanak–Robat-e-Parian (Herat) standard-gauge railway.","status":"Freight only; no passenger service"};

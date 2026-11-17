@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-do-paranapanema","identified_as":"RVPSC Ramal do Paranapanema, Jacarezinho – Platina – Costa Júnior (PR/SP), Rumo.","status":"Disused: last passenger train June 1979; freight suspended by ALL in 2001, line practically abandoned"};

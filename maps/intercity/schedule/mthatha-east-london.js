@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mthatha-east-london","identified_as":"Kei Rail regional passenger train, East London – Amabele – Mthatha (Eastern Cape Department of Transport)","status":"Passenger service suspended since 31 Oct 2012"};

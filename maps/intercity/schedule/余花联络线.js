@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"余花联络线","identified_as":"余花联络线 (Yuhualianluo Line), Heliu (何刘) – Yujiawan (余家湾), 24.1 km: Wuhan hub connecting line Heliu – Nanhu – Wuchang South – Yujiawan","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

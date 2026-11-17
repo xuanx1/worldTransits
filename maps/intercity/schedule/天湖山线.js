@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"天湖山线","identified_as":"天湖山线 (Tianhushan Line), Xiayang (下洋) – Zhangji (长基), 24.1 km: Fujian coal branch Xiayang – Zhangji","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

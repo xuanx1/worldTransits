@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"黄石山南线","identified_as":"黄石山南线 (Huangshishannan Line), Xisaishan (西塞山) – Luojiaqiao (罗家桥), 30.0 km: Huangshi line Xisaishan – Luojiaqiao","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

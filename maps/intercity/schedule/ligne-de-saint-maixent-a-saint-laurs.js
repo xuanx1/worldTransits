@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-maixent-a-saint-laurs","identified_as":"Unfinished metre-gauge Tramways des Deux-Sèvres line Saint-Maixent-l'École – Saint-Laurs (Deux-Sèvres).","status":"Never opened: built but abandoned in 1914, rails requisitioned; no service ever"};

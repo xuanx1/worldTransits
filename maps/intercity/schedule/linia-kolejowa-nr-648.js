@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-648","identified_as":"Planned PKP PLK line 648 Chorzew Siemkowice – Wieluń (Kolej+ programme).","status":"Under design; opening planned for 2029 — no service yet. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_648 (pl.wikipedia, read 16 Nov 2026)"};

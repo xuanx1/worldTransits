@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"天陇铁路","identified_as":"Tianshui–Longnan railway (天陇铁路), Gansu.","status":"Under construction (completion planned Dec 2027)"};

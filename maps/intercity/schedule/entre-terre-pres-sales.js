@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"entre-terre-pres-sales","identified_as":"Tourist service of the Chemin de fer de la baie de Somme (run by a non-profit association) between Le Crotoy, Noyelles-sur-Mer and Saint-Valery.","status":"Heritage/tourist train (seasonal, mainly weekends April–October), not a regular service"};

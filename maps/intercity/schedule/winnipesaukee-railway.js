@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"winnipesaukee-railway","identified_as":"Winnipesaukee Scenic Railroad (Granite State Railway), lakeshore excursions from Meredith and Weirs Beach.","status":"Tourist excursion railroad (seasonal round trips)."};

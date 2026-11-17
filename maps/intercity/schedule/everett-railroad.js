@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"everett-railroad","identified_as":"Everett Railroad, a 23-mile Class III freight short line in Blair County, PA, which also runs steam/diesel excursions from Hollidaysburg.","status":"Freight railroad with occasional heritage excursions only (no regular passenger service)."};

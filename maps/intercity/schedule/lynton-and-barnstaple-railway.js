@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lynton-and-barnstaple-railway","identified_as":"Lynton and Barnstaple Railway (narrow gauge); short heritage section at Woody Bay.","status":"Closed 1935; short heritage section reopened 2004"};

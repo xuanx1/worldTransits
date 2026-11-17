@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"broodsnyersplaas-wonderfontein","identified_as":"Coal link Pullenshope – Rietkuil (Broodsnyersplaas – Wonderfontein), Mpumalanga.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

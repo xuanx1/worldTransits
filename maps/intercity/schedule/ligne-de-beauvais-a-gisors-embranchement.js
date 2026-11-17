@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-beauvais-a-gisors-embranchement","identified_as":"Former standard-gauge line Beauvais – Auneuil – La Bosse – Trie-Château (Gisors-Embranchement), Oise.","status":"Passenger traffic transferred to road 1939/1942; all rail traffic ended Feb 2013; Beauvais–Auneuil now a greenway (2020)"};

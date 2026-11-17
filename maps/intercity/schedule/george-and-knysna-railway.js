@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"george-and-knysna-railway","identified_as":"George – Knysna branch line, former route of the Outeniqua Choo Tjoe steam train","status":"Closed; under restoration for a tourist service (Classic Rail, announced Oct 2025)"};

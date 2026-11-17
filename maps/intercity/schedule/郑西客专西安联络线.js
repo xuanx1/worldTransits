@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"郑西客专西安联络线","identified_as":"郑西客专西安联络线 (Zhengxikezhuanxianlianluo Line), Yaocun (窑村) – Lintongdong (临潼东), 16.3 km: Zhengxi high-speed line connection towards Xi'an (Yaocun – Lintong East)","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rediul-mare-bratuseni-railway-line","identified_as":"Rediul Mare–Brătușeni branch in northern Moldova.","status":"No passenger service in 2026"};

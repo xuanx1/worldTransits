@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"成宾线","identified_as":"成宾铁路 Chenggaozi–Binxi line (Harbin).","status":"No passenger service: 成高子 stopped passenger business on 1 Apr 2026; 宾西东 handles no passengers"};

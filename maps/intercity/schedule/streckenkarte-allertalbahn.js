@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"streckenkarte-allertalbahn","identified_as":"Allertalbahn: Celle – Schwarmstedt – Verden (Bahnstrecke Celle–Wahnebergen) and Gifhorn Stadt – Wilsche – Celle (Bahnstrecke Gifhorn Stadt–Celle).","status":"Closed to passengers (Celle – Verden 1966, Gifhorn Stadt – Celle 1981); largely closed/dismantled"};

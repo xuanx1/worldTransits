@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"禹郑铁路","identified_as":"禹郑铁路 (Yuzheng Railway), Huangdao (黄道) – Xijia (西贾), 27.7 km: Henan coal local railway Huangdao – Jiaxian – Xijia","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

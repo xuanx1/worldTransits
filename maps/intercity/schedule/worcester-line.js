@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"worcester-line","identified_as":"Providence & Worcester Railroad freight routes (Worcester - Woonsocket - Pawtucket/Central Falls, and toward New London).","status":"Freight only (Providence & Worcester / Genesee & Wyoming); seasonal Polar Express excursions at Woonsocket."};

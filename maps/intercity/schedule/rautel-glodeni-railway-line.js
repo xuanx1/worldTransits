@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rautel-glodeni-railway-line","identified_as":"Răuțel–Glodeni branch north of Bălți.","status":"No passenger service in 2026"};

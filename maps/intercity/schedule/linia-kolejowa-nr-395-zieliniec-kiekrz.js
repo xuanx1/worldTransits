@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-395-zieliniec-kiekrz","identified_as":"PKP PLK line 395 Zieliniec – Kiekrz (Poznań freight bypass).","status":"Freight bypass of Poznań; passenger trains only occasionally. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_395 (pl.wikipedia, read 16 Nov 2026)"};

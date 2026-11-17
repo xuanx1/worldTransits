@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"爱伊线","identified_as":"爱伊线 (Aiyi Line), Old Muling (老穆棱) – Aihe (爱河), 65.0 km: old Binsui alignment Aihe – Modaoshi – Daimagou – Old Muling","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

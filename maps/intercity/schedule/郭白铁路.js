@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"郭白铁路","identified_as":"郭白铁路 Wurigentala–Baiyinmanglai coal-mine railway.","status":"Freight only (coal)"};

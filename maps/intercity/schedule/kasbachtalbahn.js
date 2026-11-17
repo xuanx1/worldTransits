@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kasbachtalbahn","identified_as":"Kasbachtalbahn Linz (Rhein) – Kalenborn, a tourist railbus line (Eifelbahn Verkehrsgesellschaft).","status":"Tourist line: weekend (and selected day) excursion service only, no weekday trains"};

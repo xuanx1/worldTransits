@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"petit-train-de-banlieue","identified_as":"Petit Train de Banlieue (PTB) Dakar – Rufisque – Thiès suburban service.","status":"Discontinued (2016)"};

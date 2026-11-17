@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-marmande-a-mont-de-marsan","identified_as":"Former standard-gauge line Marmande – Casteljaloux – Mont-de-Marsan (Lot-et-Garonne/Landes).","status":"Closed to passengers since 2 Oct 1938; largely declassified; only fuel-depot freight remains; Marmande–Casteljaloux greenway"};

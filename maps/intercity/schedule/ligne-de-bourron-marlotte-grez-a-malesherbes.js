@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-bourron-marlotte-grez-a-malesherbes","identified_as":"Standard-gauge line Bourron-Marlotte–Grez – La Chapelle-la-Reine – Malesherbes (Seine-et-Marne/Loiret), ex-PLM, SNCF Réseau.","status":"Freight only; passenger service ended 1937; Bourron–Roncevaux section unused (non exploitée)"};

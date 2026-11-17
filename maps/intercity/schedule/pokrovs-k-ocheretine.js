@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pokrovs-k-ocheretine","identified_as":"Pokrovs'k – Ocheretyne line, Donetsk oblast (front-line area).","status":"Suspended since Sep 2024 (front line; trains end at Pavlohrad)"};

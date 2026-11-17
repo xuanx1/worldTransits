@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-santa-clara-nuevitas","identified_as":"Regional train Santa Clara – Nuevitas over the Línea Norte (Villa Clara, Sancti Spíritus, Ciego de Ávila, Camagüey).","status":"No through service: Línea Norte cut near Iguará since May 2023 (bridge rebuilding reported Feb 2025)"};

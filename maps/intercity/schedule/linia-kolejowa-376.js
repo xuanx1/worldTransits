@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-376","identified_as":"Line 376 Grodzisk Wielkopolski – Kościan.","status":"No trains: passenger traffic ended 1989/1991; since 2005 used by the Grodziska Kolej Drezynowa (draisines). Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_376 (pl.wikipedia, read 16 Nov 2026)"};

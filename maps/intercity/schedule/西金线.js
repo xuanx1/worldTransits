@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"西金线","identified_as":"西金线 (Xijin Line), Xixiaozhao (西小召) – Jinquan (金泉), 60.8 km: Xixiaozhao – Jinquan line (Xigan railway)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

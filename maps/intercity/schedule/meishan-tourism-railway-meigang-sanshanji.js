@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"meishan-tourism-railway-meigang-sanshanji","identified_as":"Meishan Steel sightseeing train '滨江工业生态走廊' (梅钢工业文化旅游区), Sanshanji – Meigang (Meishan Iron & Steel works), Nanjing","status":"Tourist/industrial-heritage sightseeing train (not a public transport service)"};

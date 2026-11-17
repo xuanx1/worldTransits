@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"railway-fushe-kosova-skopje","identified_as":"Skopje–Volkovo–Blace–(Fushë Kosova/Pristina) cross-border line, Macedonian section.","status":"International passenger service suspended (no trains in timetable)"};

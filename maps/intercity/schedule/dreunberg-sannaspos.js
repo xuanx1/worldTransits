@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"dreunberg-sannaspos","identified_as":"Sannaspos – Dewetsdorp – Wepener – Zastron – Dreunberg line (Free State/Eastern Cape)","status":"Closed 2006 (Sannaspos – Zastron); Zastron – Dreunberg status uncertain"};

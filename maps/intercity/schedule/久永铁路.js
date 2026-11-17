@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"久永铁路","identified_as":"久永铁路 (Jiuyong Railway), Yongwen (永温) – Jiuchang (久长), 33.5 km: Guizhou local line Yongwen – Jiuchang","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"黄公线","identified_as":"黄公线 (Huanggong Line), Gongwusu (公乌素) – Huangbaici (黄白茨), 34.5 km: Wuhai line Gongwusu – Huangbaici","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

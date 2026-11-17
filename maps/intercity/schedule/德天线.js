@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"德天线","identified_as":"德天铁路 Deyang–Tianchi (Hanwang) coal railway.","status":"Coal railway (freight)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"金渤线","identified_as":"金渤线 (Jinbo Line), Dawa (大洼) – Jinbowan (金帛湾), 41.8 km: Dawa – Jinbowan line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

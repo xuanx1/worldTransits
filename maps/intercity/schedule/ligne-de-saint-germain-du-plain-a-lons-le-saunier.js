@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-germain-du-plain-a-lons-le-saunier","identified_as":"Standard-gauge line (Chalon-sur-Saône–)Saint-Germain-du-Plain–Louhans–Lons-le-Saunier (Saône-et-Loire/Jura).","status":"Closed to passengers since 1 July 1938; entirely lifted; Lons-le-Saunier–Louhans now the Voie bressanne greenway"};

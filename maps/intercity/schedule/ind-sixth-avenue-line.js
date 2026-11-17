@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ind-sixth-avenue-line","identified_as":"NYC Subway IND Sixth Avenue Line, served by the B, D, F and M trains.","status":"Not a railway service of its own: NYC Subway rapid-transit trunk line (B/D/F/M)."};

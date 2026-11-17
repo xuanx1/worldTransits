@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"section-neutralisee-de-bedous-a-canfranc","identified_as":"Bedous – Canfranc section of the Pau – Canfranc (– Zaragoza) line, Pyrenees.","status":"Closed since 1970 (Estanguet bridge accident); reopening targeted for 2032"};

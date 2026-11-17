@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bulawayo-chirezi","identified_as":"NRZ weekly Bulawayo – Rutenga – Chiredzi passenger train","status":"Passenger service suspended (post-pandemic); still listed as suspended mid-2026"};

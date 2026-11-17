@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"eastern-line","identified_as":"Cotonou – Porto-Novo (– Pobè) eastern metre-gauge line.","status":"Passenger service ceased"};

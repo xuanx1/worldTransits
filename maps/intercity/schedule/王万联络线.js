@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"王万联络线","identified_as":"王万联络线 (Wangwanlianluo Line), Wanle (万乐) – Wanggang (王岗), 36.7 km: Harbin hub connecting line Wanggang – Wanle","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

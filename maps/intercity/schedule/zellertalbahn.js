@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zellertalbahn","identified_as":"Zellertalbahn Monsheim - Langmeil (Pfalz), seasonal Sunday excursion line.","status":"No regular service; Sunday excursion trains (3 per direction) Kaiserslautern - Monsheim ran until 29 Oct 2023"};

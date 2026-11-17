@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"临白铁路","identified_as":"临白铁路 (Linbai Railway), Gaocheng (告成) – Linruzhen (临汝镇), 66.9 km: Henan coal-field local railway Gaocheng – Baiping – Linruzhen","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

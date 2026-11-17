@@ -1,0 +1,1 @@
+window.__ADM={"cc":"VA","n":"Vatican City","o":[],"u":[]};

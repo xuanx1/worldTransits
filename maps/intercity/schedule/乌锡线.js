@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"乌锡线","identified_as":"乌锡线 (Wuxi Line), Hangjinqibei (杭锦旗北) – Gongmiaozi (公庙子), 92.1 km: Ordos southern railway, Hangjinqi North – Gongmiaozi","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tramway-d-erbray","identified_as":"Metre-gauge secondary railway (Tramway d'Erbray) in Loire-Inférieure: Châteaubriant – Erbray – La Chapelle-Glain, with a branch Erbray – Ancenis.","status":"Closed: Erbray–Ancenis 1938, Châteaubriant–La Chapelle-Glain 28 September 1947"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-des-aubrais-orleans-a-montargis","identified_as":"Standard-gauge line Les Aubrais-Orléans – Bellegarde – Montargis (Loiret).","status":"Closed to passengers 4 Nov 1969; partly declassified; only freight Fleury-les-Aubrais–Boigny-sur-Bionne; vélorail planned on a declassified 12 km section"};

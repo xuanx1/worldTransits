@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ind-eighth-avenue-line","identified_as":"NYC Subway IND Eighth Avenue Line, served by the A, C and E trains.","status":"Not a railway service of its own: NYC Subway rapid-transit trunk line (A/C/E)."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nelspruit-plaston","identified_as":"Nelspruit – Plaston (Rocky Drift) branch, Mpumalanga.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

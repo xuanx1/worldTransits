@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-carnoules-a-gardanne","identified_as":"Standard-gauge line Carnoules–Brignoles–Saint-Maximin–Gardanne (Var/Bouches-du-Rhône).","status":"Closed to passengers since 18 April 1939; Gardanne–La Barque-Fuveau freight only; Carnoules–Brignoles seasonal heritage/tourist train (ATTCV) and a vélorail - not a regular service"};

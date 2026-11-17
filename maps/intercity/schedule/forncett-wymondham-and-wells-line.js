@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"forncett-wymondham-and-wells-line","identified_as":"Wymondham - Dereham - Fakenham - Wells-next-the-Sea branch (incl. North Elmham).","status":"Closed to passengers 1964-1969 (Dereham-Wells 5 Oct 1964); Wymondham-Dereham now Mid-Norfolk heritage railway"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"上饶联络线","identified_as":"上饶联络线 (Shangraolianluo Line), Yanshanxi (铅山西) – Chating (茶亭), 37.8 km: Shangrao hub connecting line Yanshan West – Chating","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

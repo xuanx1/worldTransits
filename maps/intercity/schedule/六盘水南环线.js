@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"六盘水南环线","identified_as":"六盘水南环线 (Liupanshuinanhuan Line), Maga (马嘎) – Shuangshui (双水), 20.6 km: Liupanshui southern ring line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

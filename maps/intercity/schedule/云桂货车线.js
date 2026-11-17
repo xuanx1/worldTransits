@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"云桂货车线","identified_as":"云桂铁路 freight line Shilin South–Shilin West.","status":"Freight line (石林南 handles no passengers)"};

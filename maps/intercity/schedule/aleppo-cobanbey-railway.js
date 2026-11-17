@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aleppo-cobanbey-railway","identified_as":"Aleppo–Çobanbey (Turkey) cross-border line.","status":"No international passenger service"};

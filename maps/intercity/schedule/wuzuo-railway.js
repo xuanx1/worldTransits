@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"wuzuo-railway","identified_as":"武左铁路 Wuxiang–Zuoquan local coal branch (Shanxi).","status":"Freight (coal branch)"};

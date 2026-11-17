@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"紫云线","identified_as":"紫云地方铁路 Zhijiang–Yunchi (Hubei).","status":"Freight local railway; 枝江 stopped passenger business in 2005"};

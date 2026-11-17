@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"林新线","identified_as":"林新线 (Linxin Line), Xindianzhen (新店镇) – 林歹, 25.2 km: Guizhou line Xindianzhen – Weicheng – Lindai","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-nouvelle-lyon-turin","identified_as":"New Lyon – Turin rail link (Mont-d'Ambin base tunnel + French access lines).","status":"Under construction – base tunnel expected 2033/2034 (about 2032 in another passage), French access lines around 2045"};

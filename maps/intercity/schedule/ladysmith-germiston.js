@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ladysmith-germiston","identified_as":"Germiston – Volksrust – Newcastle – Ladysmith Natal main line, route of the Shosholoza Meyl Johannesburg – Durban train","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

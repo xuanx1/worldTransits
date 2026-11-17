@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-macao-taipa-zhuhai-jiuzhou","identified_as":"Macau Taipa - Zhuhai Jiuzhou ferry (Yuet Tung, opened 1 Mar 2021).","operator":"(no current operator)"};

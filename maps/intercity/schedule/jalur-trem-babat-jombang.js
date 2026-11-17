@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jalur-trem-babat-jombang","identified_as":"Former Babat – Ploso – Jombang steam tramway (East Java).","status":"Closed in 1974; no service."};

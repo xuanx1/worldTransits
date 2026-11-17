@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"buffalo-and-lake-erie-traction-company","identified_as":"Buffalo & Lake Erie Traction Company, former interurban Buffalo – Erie.","status":"Closed: 'The last of its trolleys ran between Erie and New York on December 1, 1932.' (Wikipedia, accessed 15 Nov 2026)."};

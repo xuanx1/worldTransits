@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"banbury-and-cheltenham-line","identified_as":"Kingham - Bourton-on-the-Water - Cheltenham section of the Banbury and Cheltenham Direct Railway.","status":"Closed to passengers October 1962"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-lexos-a-montauban-ville-bourbon","identified_as":"Standard-gauge line Lexos – Montauban-Ville-Bourbon (Tarn-et-Garonne), ex-Grand-Central/PO, SNCF.","status":"Closed 1955; declassified 1990; track entirely lifted, much of the route became road D115"};

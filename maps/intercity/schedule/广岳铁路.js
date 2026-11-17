@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"广岳铁路","identified_as":"Guanghan–Yuejiashan railway (广岳铁路), Sichuan.","status":"Freight only (no passenger trains since 2014)"};

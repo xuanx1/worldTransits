@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"malmesbury-bitterfontein","identified_as":"Malmesbury – Moorreesburg – Piketberg – Klawer – Vredendal – Bitterfontein line (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

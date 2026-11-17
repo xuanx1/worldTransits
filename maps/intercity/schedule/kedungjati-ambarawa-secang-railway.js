@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kedungjati-ambarawa-secang-railway","identified_as":"Kedungjati – Ambarawa – Secang railway (rack line); closed to regular traffic, Ambarawa sections used by heritage tourist trains.","status":"No regular passenger service: closed to public service in 1976; only heritage tourist trains Ambarawa – Bedono (rack steam) and Ambarawa – Tuntang."};

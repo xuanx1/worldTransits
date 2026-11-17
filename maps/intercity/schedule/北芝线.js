@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"北芝线","identified_as":"北芝线 (Beizhi Line), Zhiyang (芝阳) – Beiyuan (北塬), 82.8 km: Beiyuan – Baishui – Chengcheng – Heyang North – Zhiyang line (Weinan)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

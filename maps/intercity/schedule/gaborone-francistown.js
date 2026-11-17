@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"gaborone-francistown","identified_as":"Botswana Railways BR Express / standard passenger trains Lobatse – Gaborone – Palapye – Francistown","status":"Passenger service suspended since 2020 (COVID-19); still suspended May 2026"};

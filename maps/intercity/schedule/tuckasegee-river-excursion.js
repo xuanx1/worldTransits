@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tuckasegee-river-excursion","identified_as":"Great Smoky Mountains Railroad Tuckasegee River Excursion, Bryson City – Dillsboro round trip, North Carolina.","status":"Heritage excursion round trip from Bryson City with a 'one-hour and 20-minute layover in beautiful Dillsboro' (gsmr.com, accessed 15 Nov 2026); no regular transport service."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linea-minas","identified_as":"Línea Minas (Montevideo – Sayago – Pando – Sudriers).","status":"No passenger service: AFE's only passenger train in 2026 is Tacuarembó–Rivera"};

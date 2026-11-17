@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"walvis-bay-windhoek","identified_as":"TransNamib StarLine overnight Windhoek – Swakopmund – Walvis Bay passenger train (formerly 4x weekly)","status":"Passenger service suspended since early 2021 (all TransNamib StarLine trains); freight only"};

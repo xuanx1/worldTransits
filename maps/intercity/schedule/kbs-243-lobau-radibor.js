@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kbs-243-lobau-radibor","identified_as":"Löbau - Radibor railway (former KBS 243).","status":"Closed; remaining track lifted 2004"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sudbury-and-thetford-line-bury-st-edmunds-to-sudbury","identified_as":"Long Melford - Lavenham - Bury St Edmunds branch.","status":"Closed: passengers 10 Apr 1961, freight 19 Apr 1965"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-nouvel-avricourt-a-benestroff","identified_as":"Standard-gauge line Nouvel-Avricourt – Moussey – Dieuze – Bénestroff (Moselle), ex-Est/EL, SNCF.","status":"Closed to passengers 1958/1969; wholly declassified 2016; Dieuze–Vergaville (and reportedly to Bénestroff) used by a tourist vélorail"};

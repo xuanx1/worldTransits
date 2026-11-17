@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-kremmen-meyenburg-section-wittstock-meyenburg","identified_as":"Wittstock (Dosse) - Meyenburg section of the Kremmen - Meyenburg railway.","status":"Closed 28 May 1967"};

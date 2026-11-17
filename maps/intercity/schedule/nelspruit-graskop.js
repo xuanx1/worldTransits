@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nelspruit-graskop","identified_as":"Mbombela (Nelspruit) – White River – Graskop branch, Mpumalanga.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

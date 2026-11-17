@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"naranjito-duran","identified_as":"Durán – Yaguachi – Naranjito section of the Trans-Andean line (former Tren Ecuador route).","status":"No passenger service: state operator Ferrocarriles del Ecuador closed (decree 19 May 2020), operations ceased 2020"};

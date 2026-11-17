@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-chaugey-a-lons-le-saunier","identified_as":"Former standard-gauge SNCF line Chaugey (near Chaussin) – Lons-le-Saunier (Jura).","status":"Closed to passengers since Sept 1969; closed 1995 except Chaugey–Chemin-Peseux (freight); Chemin–Lons declassified 2014; 40 km greenway Chaussin–Lons (2026)"};

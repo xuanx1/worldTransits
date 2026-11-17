@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sindro-commuter-line","identified_as":"Former KAI Commuter local train Commuter Line Sindro (Sidoarjo – Indro, Gresik).","status":"Discontinued as a separate service on 1 Feb 2025 (Gapeka 2025); its trips were merged into Commuter Line Jenggala (Indro – Krian – Mojokerto and Indro – Sidoarjo – Mojokerto)."};

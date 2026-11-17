@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-sachsenhagen-pier-fahranleger-steinhude","identified_as":"Steinhuder Personenschifffahrt boat on the Steinhuder Meer (Steinhude - Mardorf / Wilhelmstein).","operator":"Steinhuder Personenschifffahrt & Berufssegler GmbH"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"云岗铁路","identified_as":"云岗铁路 (Yungang Railway), Xingaoshan (新高山) – Yungang (云岗), 31.0 km: Datong coal branch Xingaoshan – Yungang","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

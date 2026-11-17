@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pnr-shuttle-service-line","identified_as":"PNR Metro Manila Shuttle Service (Governor Pascual–Bicutan) on the old commuter line.","status":"Passenger service suspended since 28 March 2024 for at least five years (North–South Commuter Railway construction)"};

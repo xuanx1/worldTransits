@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-manila-corregidor","identified_as":"Former Manila - Corregidor tourist ferry.","operator":"(none - service ended)"};

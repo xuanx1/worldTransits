@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"niederlausitzer-eisenbahn","identified_as":"Niederlausitzer Eisenbahn Falkenberg (Elster) - Uckro - Lübben - Beeskow.","status":"No scheduled passenger service since Dec 2008 (earlier seasonal weekend trains)"};

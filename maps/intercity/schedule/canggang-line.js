@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"canggang-line","identified_as":"沧港线 (Canggang Line), Huanghuagang (黄骅港) – Cangbei (沧北), 86.1 km: branch to Huanghua port","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

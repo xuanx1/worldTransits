@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-mont-sur-meurthe-a-bruyeres","identified_as":"Standard-gauge line Mont-sur-Meurthe–Rambervillers–Bruyères (Meurthe-et-Moselle/Vosges).","status":"Closed to passengers since 31 May 1980, freight 1988; declassified/closed; draisine (tourist) Deinvillers–Xermaménil since 1990"};

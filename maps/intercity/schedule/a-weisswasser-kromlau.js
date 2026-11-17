@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"a-weisswasser-kromlau","identified_as":"Waldeisenbahn Muskau (600 mm) museum line Weißwasser – Kromlau.","status":"Heritage/museum railway: tourist trains on selected days (season), no regular service"};

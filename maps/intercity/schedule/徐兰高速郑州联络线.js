@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"徐兰高速郑州联络线","identified_as":"徐兰高速郑州联络线 (Xulangaosuzhengzhoulianluo Line), Zhongyuan (中原) – Zhengzhouxi (郑州西), 17.6 km: Xulan high-speed line connection Zhengzhou West – Zhongyuan","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

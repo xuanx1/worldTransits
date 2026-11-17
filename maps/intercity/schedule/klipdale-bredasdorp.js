@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"klipdale-bredasdorp","identified_as":"Overberg branch line, Klipdale – Bredasdorp section","status":"No regular passenger service"};

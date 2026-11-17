@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bicol-commuter-500","identified_as":"PNR Bicol Commuter Legazpi → Naga trip.","status":"Passenger service suspended since 10 November 2025 (Typhoon Uwan bridge damage at Guinobatan); still suspended as of July 2026"};

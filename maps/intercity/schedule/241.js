@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"241","identified_as":"Seasonal fast train 241Г Kirov → Anapa (FPC).","status":"Seasonal — no runs in Nov 2026"};

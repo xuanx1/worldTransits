@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-central-do-rio-grande-do-norte","identified_as":"E. F. Central do Rio Grande do Norte, Pedra Preta – Lajes (RN).","status":"No traffic: passenger trains ended 1982, freight in the 1990s"};

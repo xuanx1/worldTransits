@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-brest-a-saint-pol-de-leon-via-plouescat-et-plabennec","identified_as":"Former metre-gauge Chemins de fer départementaux du Finistère (Léon network) route Brest – Plabennec – Lesneven – Plouescat – Saint-Pol-de-Léon.","status":"Closed 1946 (network closed 1932–1947)"};

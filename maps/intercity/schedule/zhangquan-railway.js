@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zhangquan-railway","identified_as":"漳泉铁路 Zhangping–Quanzhou railway (惠安南–梅水坑 part).","status":"Freight only (passenger service ended 10 Dec 2014; a staff commuter car rides on freight train 48031/48032)"};

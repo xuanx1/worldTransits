@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-dole-ville-a-poligny","identified_as":"Former standard-gauge line Dole-Ville – Mont-sous-Vaudrey – Poligny (Jura).","status":"Closed to passengers since 1938; freight ended in stages to 2005; partly declassified, 19 km greenway (2021)"};

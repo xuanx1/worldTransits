@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-plemy-a-dinan-via-collinee","identified_as":"Former metre-gauge Chemins de fer des Côtes-du-Nord route Plémy – Moncontour – Collinée – Plénée-Jugon – Dinan.","status":"Closed 1 April 1937; tracks lifted 1957"};

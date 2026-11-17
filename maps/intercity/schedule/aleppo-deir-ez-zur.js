@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aleppo-deir-ez-zur","identified_as":"CFS Aleppo–Raqqa–Deir ez-Zor line.","status":"No regular passenger service (network paralysed since 2012)"};

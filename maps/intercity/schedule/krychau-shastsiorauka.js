@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"krychau-shastsiorauka","identified_as":"Krychau-1 – Krychau-2 – Shastsiorauka railway (towards Roslavl', Russia).","status":"No regular passenger service found: the Krychau-1 suburban timetable lists only the Bialynkavichy/Unecha, Mogilev and Orsha directions."};

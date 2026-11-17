@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"遵小线","identified_as":"遵小线 (Zunxiao Line), Santunying (三屯营) – Zunhuanan (遵化南), 116.9 km: Zunhua South – Santunying line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

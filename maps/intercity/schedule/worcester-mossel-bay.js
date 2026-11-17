@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"worcester-mossel-bay","identified_as":"Worcester – Robertson – Swellendam – Riversdale – Albertinia – Mossel Bay (Voorbaai) line (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

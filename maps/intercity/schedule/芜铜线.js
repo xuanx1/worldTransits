@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"芜铜线","identified_as":"芜铜线 (Wutong Line), Tonglingxi (铜陵西) – Baliwan (八里湾), 71.6 km: Wuhu – Tongling line Baliwan – Fanchang – Tongling West","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

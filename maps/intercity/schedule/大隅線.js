@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"大隅線","identified_as":"JNR Ōsumi Line (大隅線) Shibushi – Kokubu.","status":"Closed: whole line abolished 14 March 1987, converted to bus routes."};

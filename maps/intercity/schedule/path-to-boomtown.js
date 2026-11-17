@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"path-to-boomtown","identified_as":"Springs Preserve (Las Vegas) trackless train to the Boomtown 1905 exhibit.","status":"Attraction ride (trackless train inside a museum park), not a railway service."};

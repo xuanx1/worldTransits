@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"daqin-line","identified_as":"Datong–Qinhuangdao railway (大秦铁路), heavy-haul coal line.","status":"Freight only"};

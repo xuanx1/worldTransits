@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"thabazimbi-sentrarand","identified_as":"Pretoria North – Rosslyn – Ga-Rankuwa – De Wildt – Brits – Rustenburg – Northam – Thabazimbi line (Transnet).","status":"No passenger service beyond De Wildt (freight); the Pretoria North – De Wildt section is served by Metrorail (see slugs de-wildt, pretoria-de-wildt)"};

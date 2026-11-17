@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"north-cornwall-railway","identified_as":"North Cornwall Railway (Halwill - Launceston - Wadebridge - Padstow); Launceston Steam Railway on part of the trackbed.","status":"Closed 3 Oct 1966 (Wadebridge-Padstow 28 Jan 1967)"};

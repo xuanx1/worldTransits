@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"yannan-connecting-line","identified_as":"兖南联络线 (Yannan Connecting Line), Nantaoluo (南陶洛) – Baijiadian (白家店), 27.4 km: Yanzhou-area connecting line","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

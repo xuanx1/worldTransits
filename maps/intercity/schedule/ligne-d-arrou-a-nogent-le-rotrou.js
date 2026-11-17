@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-arrou-a-nogent-le-rotrou","identified_as":"Standard-gauge line Arrou – Nogent-le-Rotrou (Eure-et-Loir), ex-État/SNCF.","status":"Closed to passengers since 1938 (wartime reopening 1939–1945); freight ended 1950/1959; declassified 1995"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"franklin-matatiele","identified_as":"Franklin – Cedarville – Matatiele branch.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-jarahueca-perea","identified_as":"Railcar (coche motor) Jarahueca – Perea serving communities of Yaguajay municipality (Sancti Spíritus) on the Línea Norte.","status":"Suspended: Línea Norte cut near Iguará since May 2023; recovery depended on a new bridge (Feb 2025)"};

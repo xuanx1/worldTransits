@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-santa-clara-los-arabos","identified_as":"Santa Clara – Esperanza – Santo Domingo – Los Arabos line (Villa Clara / Matanzas).","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"patensie-branch","identified_as":"Gamtoos – Hankey – Patensie narrow-gauge branch of the Avontuur Railway","status":"Closed 2009"};

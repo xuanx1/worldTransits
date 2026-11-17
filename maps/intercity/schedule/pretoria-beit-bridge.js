@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pretoria-beit-bridge","identified_as":"Pretoria – Pienaarsrivier – Polokwane – Musina – Beitbridge main line, route of the Shosholoza Meyl Johannesburg – Pretoria – Musina train","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

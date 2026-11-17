@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-helmstedt-bor-um","identified_as":"Helmstedt - Jerxheim - Börßum railway.","status":"No passenger service since 8 Dec 2007; sections closed 2008-2009"};

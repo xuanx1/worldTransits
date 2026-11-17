@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"成万高速线","identified_as":"Chengdu-Dazhou-Wanzhou high-speed railway (成达万高铁), 477 km, 350 km/h, from Chengdu Tianfu via Ziyang, Suining, Nanchong and Dazhou to Wanzhou North; under construction.","status":"Not open yet: track-laying started on 01 Oct 2026."};

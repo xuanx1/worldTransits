@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"de-aar-fourteen-streams","identified_as":"De Aar – Kimberley – Fourteen Streams main line, route of the Shosholoza Meyl Johannesburg – Kimberley – Cape Town train","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

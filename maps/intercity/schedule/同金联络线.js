@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"同金联络线","identified_as":"同金联络线 (Tongjinlianluo Line), Jinshanwan (金山湾) – Tongxing (同兴), 12.4 km: connecting line Tongxing – Jinshanwan","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

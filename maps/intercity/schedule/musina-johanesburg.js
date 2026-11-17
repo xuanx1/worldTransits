@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"musina-johanesburg","identified_as":"OSM route \"Musina–Johannesburg\" (Shosholoza Meyl Johannesburg – Pretoria – Musina train; OSM relation only covers the Pretoria section)","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

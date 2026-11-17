@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"prigorodnyi-dizel-poezd-5","identified_as":"Kem / Belomorsk – Ledmozero – Kostomuksha passenger train (Karelia), mislabelled OSM relation (generic name 'Мамоново => Калининград').","status":"Seasonal — last run 27 Sep 2026; none in Nov 2026"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"springs-nigel","identified_as":"Springs – Nigel – Kaydale branch line (former Metrorail Springs – Nigel service; Nigel – Kaydale closed 2010)","status":"No passenger service (no Metrorail trains since 2020; Nigel – Kaydale closed 2010)"};

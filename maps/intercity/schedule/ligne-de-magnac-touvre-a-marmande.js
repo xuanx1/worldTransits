@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-magnac-touvre-a-marmande","identified_as":"Standard-gauge line Magnac-Touvre – Ribérac – Mussidan – Bergerac – Eymet – Marmande (Charente/Dordogne/Lot-et-Garonne), ex-PO, SNCF.","status":"Closed to passengers 1938–1940 (minor services to 1953); freight ended 1942–1953; declassified 1953–1967"};

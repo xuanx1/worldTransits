@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"passazhirskii-poezd-527s","identified_as":"Seasonal passenger train 527С Vladikavkaz → Simferopol (Grand Service Express).","status":"Seasonal (summer) — no runs in Nov 2026"};

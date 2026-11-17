@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"urbano-noris-viet-nam","identified_as":"Local railcar Urbano Noris (San Germán) – Viet Nam (Holguín province).","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

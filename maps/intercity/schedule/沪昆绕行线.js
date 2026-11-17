@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"沪昆绕行线","identified_as":"沪昆绕行线 (Hukunraoxing Line), Xiaoshan (萧山) – Hangzhou (杭州), 27.6 km: Hangzhou hub bypass Xiaoshan – Hangzhou","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

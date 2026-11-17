@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"heart-of-georgia-railroad","identified_as":"Heart of Georgia Railroad (freight short line, Cordele - Americus - Plains); passenger use only by the SAM Shortline excursion train.","status":"Freight railroad; only tourist excursions (SAM Shortline from Cordele and Americus)."};

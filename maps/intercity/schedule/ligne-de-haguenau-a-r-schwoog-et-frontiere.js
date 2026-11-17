@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-haguenau-a-r-schwoog-et-frontiere","identified_as":"Haguenau – Rœschwoog – border (Rhine) line, Bas-Rhin (SNCF Réseau line 150000).","status":"Closed to passengers since 23 Aug 1939 (cross-border since 1938); partly used for a military siding, rest neutralised"};

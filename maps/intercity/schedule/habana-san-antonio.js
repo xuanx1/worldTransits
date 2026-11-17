@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"habana-san-antonio","identified_as":"Suburban train La Habana (Tulipán) – Rincón – San Antonio de los Baños.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

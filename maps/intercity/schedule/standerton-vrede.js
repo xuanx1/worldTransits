@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"standerton-vrede","identified_as":"Standerton (Firham) – Vrede branch.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

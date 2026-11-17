@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ladysmith-kroonstad","identified_as":"Ladysmith – Van Reenen – Harrismith – Bethlehem – Kroonstad line (KwaZulu-Natal / Free State).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

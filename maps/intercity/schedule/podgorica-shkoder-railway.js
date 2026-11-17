@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"podgorica-shkoder-railway","identified_as":"Podgorica–Shkodër cross-border line (Albanian section Bajza–Shkodër).","status":"No passenger service; no international trains to or from Albania"};

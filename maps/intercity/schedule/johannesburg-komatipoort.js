@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"johannesburg-komatipoort","identified_as":"PRASA Shosholoza Meyl long-distance route Johannesburg – Pretoria – Mbombela (Nelspruit) – Komatipoort","status":"Passenger service suspended (Shosholoza Meyl not operating; PRASA targets a limited restart in 2027)"};

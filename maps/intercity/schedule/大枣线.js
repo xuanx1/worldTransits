@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"大枣线","identified_as":"大枣线 (Dazao Line), Zaoquan (枣泉) – Daba (大坝), 88.6 km: Ningdong coal-field line Daba – Zaoquan","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

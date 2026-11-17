@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-carhaix-a-chateaulin-embranchement","identified_as":"Carhaix – Châteaulin section of the former metre-gauge Réseau breton line Carhaix – Camaret-sur-Mer (Finistère).","status":"Closed to passengers 10 April 1967; declassified 1969; now a greenway"};

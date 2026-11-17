@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"汤台铁路","identified_as":"Tangtai railway (汤台铁路), Tangyin – Puyang – Fanxian – Taiqian, Henan local railway (catalogue segment Fanxian – Chaicun)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pietermaritzburg-kranskop","identified_as":"Pietermaritzburg – New Hanover – Greytown – Kranskop line, KwaZulu-Natal.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

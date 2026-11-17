@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"extensao-juquia-cajati","identified_as":"Juquiá – Registro – Cajati extension of the ex-Sorocabana Santos – Juquiá line (Vale do Ribeira, São Paulo), Rumo Malha Paulista concession.","status":"No service (line inactive; Santos – Cajati reactivation for passengers and freight only at licensing stage in Aug 2026)"};

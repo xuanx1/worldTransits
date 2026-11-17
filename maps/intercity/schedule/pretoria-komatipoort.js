@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pretoria-komatipoort","identified_as":"Pretoria – Witbank – Mbombela (Nelspruit) – Komatipoort main line, route of the former Shosholoza Meyl Johannesburg – Komatipoort train","status":"No regular passenger service (Shosholoza Meyl long-distance trains not operating; PRASA plans a limited restart in 2027)"};

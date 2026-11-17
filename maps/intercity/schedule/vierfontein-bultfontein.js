@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"vierfontein-bultfontein","identified_as":"Vierfontein – Bothaville – Wesselsbron – Bultfontein line, Free State.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

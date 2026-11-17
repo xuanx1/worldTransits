@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"武汉枢纽直通线","identified_as":"武汉枢纽直通线 (Wuhanshuniuzhitong Line), Yunmeng East (云梦东) – Nanhu (南湖), 88.7 km: Wuhan hub through line Yunmeng East – Xingou – Hanyang – Nanhu","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

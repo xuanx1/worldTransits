@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tianlin-line","identified_as":"Former Taisugar narrow-gauge (五分車) Tianlin Line, Tianzhong – Zhutang – Erlin, Changhua County.","status":"Closed and dismantled: stations demolished and track bed paved over as a road (Zhongxing Street in Zhutang); no service for about half a century."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"羊场线","identified_as":"羊场铁路 Xiquele – Yanfang branch (Qujing, Yunnan).","status":"No passenger service (passenger trains ended 9 Feb 2009)"};

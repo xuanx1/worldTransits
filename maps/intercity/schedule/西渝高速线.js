@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"西渝高速线","identified_as":"西渝高铁 Xi'an–Chongqing HSR eastern (Wanzhou) branch, 万州北–开州–樊哙, under construction.","status":"Under construction"};

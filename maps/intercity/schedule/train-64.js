@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"train-64","identified_as":"ADY overnight Baku–Balakan (Balakən) train via Gakh–Zagatala.","status":"Temporarily suspended (flood damage on Gakh–Zagatala section); service due to resume 20 Nov 2026"};

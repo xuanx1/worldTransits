@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"morrison-s-cove-branch","identified_as":"Former PRR Morrison's Cove Branch (Hollidaysburg - Roaring Spring), now operated by the Everett Railroad (freight plus excursions).","status":"Freight railroad with occasional heritage excursions only."};

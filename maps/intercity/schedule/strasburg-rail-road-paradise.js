@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"strasburg-rail-road-paradise","identified_as":"Strasburg Rail Road steam excursion, Strasburg - Paradise (Leaman Place) round trip.","status":"Heritage / tourist steam railroad; temporarily closed for track replacement until 21 Nov 2026."};

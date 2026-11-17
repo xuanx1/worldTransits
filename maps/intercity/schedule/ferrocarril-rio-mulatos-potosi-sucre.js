@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrocarril-rio-mulatos-potosi-sucre","identified_as":"Potosí – Sucre (El Tejar) FCA railbus line (with the Río Mulatos–Potosí freight section).","status":"Passenger service suspended (track damage/rail theft); reactivation projected for 2027"};

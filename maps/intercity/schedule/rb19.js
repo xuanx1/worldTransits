@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rb19","identified_as":"RB19 \"Südbahn\" seasonal service Parchim – Lübz – Karow – Plau am See (ODEG, VMV).","status":"Seasonal: runs only in the spring/summer season (Fri–Sun and holidays); no trains in November"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"westgate","identified_as":"Metrorail Gauteng Naledi – New Canada – Crown service (Soweto trains routed via the Crown branch)","status":"No passenger service via Crown (Crown branch not running since 2020; provisional)"};

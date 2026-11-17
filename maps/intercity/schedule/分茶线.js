@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"分茶线","identified_as":"分茶线 (Fencha Line), Chalingxi (茶陵西) – Fenyi (分宜), 218.3 km: Fenyi – Anfu – Yongxin – Chaling line (Jiangxi/Hunan)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chemin-de-fer-de-dakar-a-saint-louis","identified_as":"Dakar – Thiès – Louga – Saint-Louis metre-gauge line.","status":"No passenger service"};

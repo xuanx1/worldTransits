@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"九江线","identified_as":"Jiujiang connecting line (九江铁路), Xinjiuzhan – Qipan – Jiangmifeng, the Changtu railway bypass of Jilin city","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

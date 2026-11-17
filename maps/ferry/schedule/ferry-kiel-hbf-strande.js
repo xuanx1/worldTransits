@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-kiel-hbf-strande","identified_as":"SFK Förde-Fährlinie F1 summer extension, leg Kiel Bahnhof - Strande.","operator":"Schlepp- und Fährgesellschaft Kiel mbH (SFK)"};

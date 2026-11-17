@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"北票线","identified_as":"北票铁路 Beipiao branch (北票东 – 北票).","status":"No passenger service (passenger trains ended 7 Nov 2019)"};

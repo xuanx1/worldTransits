@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"business-express","identified_as":"Former Metrorail Western Cape 'Business Express' premium service (Strand/Huguenot – Bellville – Cape Town).","status":"Business Express not in the current timetable; the route is served by ordinary Metrorail Northern Line trains (Cape Town – Strand, Cape Town – Wellington)"};

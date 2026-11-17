@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"dukou-railway","identified_as":"渡口铁路 Panzhihua (Dukou) industrial railway, 格里坪 – 牛坪子.","status":"Freight only (public passenger trains ended 2008; Pangang staff commuter trains only)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-morlaix-a-roscoff","identified_as":"Morlaix – Saint-Pol-de-Léon – Roscoff branch (Finistère).","status":"Suspended since a landslide on 3 June 2018; replaced by BreizhGo coach line 29 since 2 Jan 2019"};

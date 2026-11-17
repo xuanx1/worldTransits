@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-severac-le-chateau-a-rodez","identified_as":"Rodez – Sévérac-le-Château section of the Rodez – Millau service (Aveyron).","status":"No trains since December 2017; TER liO replacement coaches (P29 Rodez – Millau); reopening project suspended"};

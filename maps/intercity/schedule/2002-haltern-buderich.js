@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"2002-haltern-buderich","identified_as":"Former Haltern - Wesel - Venlo railway (Haltern-Wesel section incl. Wesel Rheinpromenade/Büderich).","status":"Closed and largely dismantled (sections closed 1975-1992; further section closure approved 14 May 2019)"};

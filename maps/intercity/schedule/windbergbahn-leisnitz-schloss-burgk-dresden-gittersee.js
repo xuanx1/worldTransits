@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"windbergbahn-leisnitz-schloss-burgk-dresden-gittersee","identified_as":"Windbergbahn (Freital Ost – Dresden-Gittersee remnant of the Freital – Possendorf line), museum railway.","status":"Heritage/museum railway; no regular passenger service (line closed to regular traffic, museum use since 2008)"};

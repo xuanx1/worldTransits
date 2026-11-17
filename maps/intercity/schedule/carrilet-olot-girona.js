@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"carrilet-olot-girona","identified_as":"The former narrow-gauge Olot–Girona railway ('Carrilet').","status":"Closed in 1969; now a greenway for walkers and cyclists. Quote: \"la va clausurar el 1969 juntament amb la línia Girona - Sant Feliu de Guíxols\". Source: https://ca.wikipedia.org/wiki/L%C3%ADnia_Olot-Girona (accessed 16 Nov 2026)"};

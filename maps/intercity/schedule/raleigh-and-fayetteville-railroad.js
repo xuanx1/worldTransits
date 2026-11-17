@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"raleigh-and-fayetteville-railroad","identified_as":"Raleigh & Fayetteville Railroad (RFCC), R.J. Corman freight short line Raleigh - Fuquay-Varina - Fayetteville, ex-Norfolk Southern.","status":"Freight only (started December 2022)."};

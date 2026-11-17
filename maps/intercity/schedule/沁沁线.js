@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"沁沁线","identified_as":"沁沁线 (Qinqin Line), Xinjiaokou (新交口) – Qinxian (沁县), 35.3 km: Qinyuan – Qinxian line (Shanxi coal)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"luderitz-keetmanshoop","identified_as":"TransNamib Keetmanshoop – Aus – Lüderitz line","status":"No passenger service (all TransNamib passenger services suspended since early 2021)"};

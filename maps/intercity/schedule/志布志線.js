@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"志布志線","identified_as":"JNR Shibushi Line (志布志線) Nishi-Miyakonojō – Shibushi.","status":"Closed: whole line abolished 28 March 1987, converted to Kagoshima Kōtsū bus."};

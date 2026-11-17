@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-unten-port-motobu-pier","identified_as":"Izena village ferry Unten (Nakijin) – Izena (Nakada port).","operator":"Izena village (伊是名村)","frequency":{"source":"https://ja.wikipedia.org/wiki/伊是名村","publisher":"ja.wikipedia.org (transcribed)","date":"retrieved 2026-11-16","official":false,"text":"2 round trips a day","trains_per_day":2}};

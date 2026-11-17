@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"variante-entroncamento-amoroso-costa","identified_as":"Fepasa variant Entroncamento – Ituverava – Amoroso Costa (Mogiana trunk to Uberaba/Araguari), FCA.","status":"Freight only (passenger trains suppressed Sep 1997)"};

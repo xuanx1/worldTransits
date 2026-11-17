@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"le-grand-large","identified_as":"Chemin de fer de la Baie de Somme (CFBS) tourist service Le Crotoy – Noyelles – Saint-Valery – Cayeux-sur-Mer, metre gauge (dual gauge Noyelles–Saint-Valery).","status":"Heritage/tourist train (seasonal), not a regular service; regular passenger service ended 1969 (Le Crotoy) and 1972 (Cayeux)"};

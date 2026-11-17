@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"东川线","identified_as":"东川铁路 Xiaoxinjie–Dongchuan branch (Kunming).","status":"Freight siding only: 塘子–东川 run as a shunting siding, one return freight trip a day; no passenger trains"};

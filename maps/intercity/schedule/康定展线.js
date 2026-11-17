@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"康定展线","identified_as":"Kangding–Luding section of the Sichuan–Tibet railway (川藏铁路 雅安–林芝).","status":"Under construction (planned completion 2032)"};

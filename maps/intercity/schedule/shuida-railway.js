@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"shuida-railway","identified_as":"水大支线铁路 Liupanshui – Dawan branch, Guizhou.","status":"Freight only"};

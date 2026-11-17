@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"dollnitzbahn-oschatz-glossen","identified_as":"Döllnitzbahn narrow-gauge (750 mm) Oschatz – Mügeln – Glossen (Döllnitzbahn GmbH).","status":"No regular public timetable: only school-day trains and steam excursion trains"};

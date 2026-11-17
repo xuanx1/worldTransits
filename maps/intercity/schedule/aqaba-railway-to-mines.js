@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aqaba-railway-to-mines","identified_as":"Aqaba Railway (phosphate line from the Shidiya/El-Hasa mines to Aqaba port).","status":"Freight only"};

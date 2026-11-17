@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-yffiniac-a-loudeac-via-plemy","identified_as":"Former metre-gauge Chemins de fer des Côtes-du-Nord route Yffiniac – Moncontour – Plémy – Loudéac (sections of the Saint-Brieuc–Moncontour line and the Plémy–Loudéac line).","status":"Closed since 1 April 1937; network tracks lifted 1957"};

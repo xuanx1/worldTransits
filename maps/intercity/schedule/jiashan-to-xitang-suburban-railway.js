@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jiashan-to-xitang-suburban-railway","identified_as":"嘉善至西塘市域铁路 (嘉善–西塘–水乡客厅), Zhejiang section of the Shanghai–Suzhou–Jiaxing intercity railway, under construction.","status":"Under construction"};

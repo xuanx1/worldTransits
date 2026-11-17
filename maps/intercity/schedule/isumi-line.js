@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"isumi-line","identified_as":"Isumi Railway Isumi Line (いすみ線) Ōhara – Kazusa-Nakano, 26.8 km.","status":"Suspended: all trains suspended since the derailment between Kuniyoshi and Kazusa-Nakagawa (Oct 2024); replacement buses run; restoration expected around autumn 2027."};

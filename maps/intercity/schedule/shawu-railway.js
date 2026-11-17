@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"shawu-railway","identified_as":"Shawu railway (沙午铁路), Shaheshi (Jingguang railway) – Wuan – Wuji, an industrial/mining line","status":"No public passenger trains (none on 12306); only a staff commuter train is recorded"};

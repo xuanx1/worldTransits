@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-etampes-a-beaune-la-rolande","identified_as":"Étampes – Pithiviers – Beaune-la-Rolande line (Essonne/Loiret).","status":"Closed to passengers (1939 Pithiviers – Beaune-la-Rolande, 1969 Étampes – Pithiviers); tourist vélorail Étampes – Méréville since 2022"};

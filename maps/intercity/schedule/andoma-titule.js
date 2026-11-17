@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"andoma-titule","identified_as":"Andoma–Titulé branch of the Chemins de fer des Uele (CFU, ex-Vicicongo) network.","status":"Closed (not operational for about 30 years)"};

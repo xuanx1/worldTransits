@@ -1,0 +1,512 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="2500" viewBox="0 0 1250 2500">
+<rect width="1250" height="2500" fill="#ffffff"/>
+<circle cx="525" cy="1743" r="16" fill="#6ac9c8"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="509" y="1742.0">1</tspan></text>
+<circle cx="964" cy="418" r="16" fill="#6ac9c8"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="948" y="417.0">1</tspan></text>
+<circle cx="536" cy="2265" r="16" fill="#48b85e"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="520" y="2264.0">2</tspan></text>
+<circle cx="16" cy="16" r="16" fill="#48b85e"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="0" y="15.0">2</tspan></text>
+<circle cx="868" cy="2122" r="16" fill="#0078bf"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="852" y="2121.0">T2</tspan></text>
+<circle cx="539" cy="1277" r="16" fill="#0078bf"/>
+<text text-anchor="start" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" opacity="1"><tspan x="523" y="1276.0">T2</tspan></text>
+<image x="563" y="2350" opacity="1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTNweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgNTMgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zNy4xOTQgMTEuNzNWMTZIMzUuNDg2VjExLjc0NEwzMi4xNCA1Ljk2MkgzNC4wNDRMMzYuNDM4IDEwLjI3NEwzOC44NzQgNS45NjJINDAuNTEyTDM3LjE5NCAxMS43M1pNNDEuNzMyMyA1Ljk2Mkg0OC4yMDAzVjcuNDMySDQzLjQyNjNWMTAuMDc4SDQ3LjQ3MjNWMTEuNTM0SDQzLjQyNjNWMTQuNTQ0SDQ4LjI3MDNWMTZINDEuNzMyM1Y1Ljk2MlpNNTEuODQ4MiA1Ljk2MlYxNkg1MC4xNTQyVjUuOTYySDUxLjg0ODJaIiBmaWxsPSIjNjY2NjY2Ii8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMCAzLjk5MDA1QzAgMS43ODY0MSAxLjc4NDI5IDAgMy45OTAwNSAwSDIwLjAwOTlDMjIuMjEzNiAwIDI0IDEuNzg0MjkgMjQgMy45OTAwNVYyMC4wMDk5QzI0IDIyLjIxMzYgMjIuMjE1NyAyNCAyMC4wMDk5IDI0SDMuOTkwMDVDMS43ODY0MSAyNCAwIDIyLjIxNTcgMCAyMC4wMDk5VjMuOTkwMDVaIiBmaWxsPSIjNjY2NjY2Ii8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTAuOTc2NCAxMS4zNjJMNi4xODIwNyA4LjE2NTdDNS45OTQyMyA4LjA0MDQ4IDUuOTQzNDcgNy43ODY2OSA2LjA2ODcgNy41OTg4NUw2LjY3OTg5IDYuNjgyMDdDNi43ODcxMSA2LjUyMTIzIDYuOTkyMzQgNi40NTc0OSA3LjE3MTgxIDYuNTI5MjhMMTMuMzE0NSA4Ljk4NjM3QzE2LjUwMzMgNS45OTk0IDE3LjYwMDUgNS44MDA0NiAxNy45IDYuMUMxOC4yIDYuNCAxOCA3LjUgMTUgMTAuN0MxMy44MjU4IDExLjk1MjUgMTEuODU5OSAxMy42NDI0IDEwLjUgMTQuNzc0MVYxNy40MTM4QzEwLjUgMTcuNTMwNCAxMC40MzQxIDE3LjYzNyAxMC4zMjk5IDE3LjY4OTFMOS43NzMyIDE3Ljk2NzRDOS42MjExNSAxOC4wNDM0IDkuNDM2MjYgMTcuOTgxOCA5LjM2MDI0IDE3LjgyOThDOS4zNTY0MiAxNy44MjIxIDkuMzUyOTMgMTcuODE0NCA5LjM0OTc2IDE3LjgwNjRMOC40NDc5OSAxNS41NTJMNi4xOTM1NyAxNC42NTAyQzYuMDM1NzMgMTQuNTg3MSA1Ljk1ODk2IDE0LjQwOCA2LjAyMjEgMTQuMjUwMUM2LjAyNTI3IDE0LjI0MjIgNi4wMjg3NiAxNC4yMzQ0IDYuMDMyNTggMTQuMjI2OEw2LjMxMDkgMTMuNjcwMkM2LjM2MzA0IDEzLjU2NTkgNi40Njk2MiAxMy41IDYuNTg2MjEgMTMuNUg5LjE0NTA3QzkuNjI1MTUgMTIuOTAyOSAxMC4yNDM2IDEyLjE2NjEgMTAuOTc2NCAxMS4zNjJaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE1LjM4MTQgMTEuNjA0OUwxNy40NzA3IDE2LjgyODJDMTcuNTQyNSAxNy4wMDc3IDE3LjQ3ODggMTcuMjEyOSAxNy4zMTc5IDE3LjMyMDFMMTYuNDAxMSAxNy45MzEzQzE2LjIxMzMgMTguMDU2NSAxNS45NTk1IDE4LjAwNTggMTUuODM0MyAxNy44MTc5TDEzLjA3ODkgMTMuNjg0OUMxMy43MTk3IDEzLjE5MjMgMTQuMzcwOSAxMi42MjkxIDE1IDEyQzE1LjEzMjUgMTEuODY3NSAxNS4yNTk2IDExLjczNTcgMTUuMzgxNCAxMS42MDQ5VjExLjYwNDlaIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIwLjkiLz4KPC9zdmc+Cg=="/>
+<circle cx="466" cy="1672" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1672" r="5" fill="#48b85e" opacity="1"/>
+<line x1="417" y1="1342" x2="417" y2="1412" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="417" y1="1342" x2="417" y2="1412" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="806" y1="582" x2="746" y2="642" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="806" y1="582" x2="746" y2="642" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<circle cx="466" cy="1082" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1082" r="5" fill="#48b85e" opacity="1"/>
+<line x1="466" y1="72" x2="466" y2="142" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="72" x2="466" y2="142" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="142" x2="466" y2="212" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="142" x2="466" y2="212" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="212" x2="466" y2="282" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="212" x2="466" y2="282" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="282" x2="466" y2="352" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="282" x2="466" y2="352" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="352" x2="466" y2="422" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="352" x2="466" y2="422" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="422" x2="466" y2="492" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="422" x2="466" y2="492" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="492" x2="466" y2="562" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="492" x2="466" y2="562" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="562" x2="466" y2="632" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="562" x2="466" y2="632" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="632" x2="466" y2="702" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="632" x2="466" y2="702" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="702" x2="466" y2="772" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="702" x2="466" y2="772" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="772" x2="466" y2="842" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="772" x2="466" y2="842" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="842" x2="466" y2="942" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="842" x2="466" y2="942" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="942" x2="466" y2="1012" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="942" x2="466" y2="1012" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1012" x2="466" y2="1082" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1012" x2="466" y2="1082" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1082" x2="466" y2="1152" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1082" x2="466" y2="1152" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1152" x2="466" y2="1222" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1152" x2="466" y2="1222" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 466, 1222 L 466, 1237 Q 466 1252 455.39 1262.61 L 436, 1282" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 466, 1222 L 466, 1237 Q 466 1252 455.39 1262.61 L 436, 1282" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 436, 1282 L 416.61, 1301.39 Q 406 1312 406 1327 L 406, 1342" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 436, 1282 L 416.61, 1301.39 Q 406 1312 406 1327 L 406, 1342" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="406" y1="1342" x2="406" y2="1412" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="406" y1="1342" x2="406" y2="1412" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 406, 1412 L 406, 1427 Q 406 1442 416.61 1452.61 L 436, 1472" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 406, 1412 L 406, 1427 Q 406 1442 416.61 1452.61 L 436, 1472" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 436, 1472 L 455.39, 1491.39 Q 466 1502 466 1517 L 466, 1532" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 436, 1472 L 455.39, 1491.39 Q 466 1502 466 1517 L 466, 1532" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="466" y1="1532" x2="466" y2="1602" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1532" x2="466" y2="1602" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1602" x2="466" y2="1672" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1602" x2="466" y2="1672" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1672" x2="466" y2="1742" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1672" x2="466" y2="1742" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1742" x2="466" y2="1812" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1742" x2="466" y2="1812" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1812" x2="466" y2="1882" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1812" x2="466" y2="1882" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1882" x2="466" y2="1952" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1882" x2="466" y2="1952" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1952" x2="466" y2="2022" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="1952" x2="466" y2="2022" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="2022" x2="466" y2="2092" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="2022" x2="466" y2="2092" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="2092" x2="466" y2="2162" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="466" y1="2092" x2="466" y2="2162" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 466, 2162 L 466, 2179 Q 466 2196 477.82 2208.22 L 495, 2226" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 466, 2162 L 466, 2179 Q 466 2196 477.82 2208.22 L 495, 2226" stroke="#48b85e" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="926" y1="462" x2="866" y2="522" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="926" y1="462" x2="866" y2="522" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="866" y1="522" x2="806" y2="582" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="866" y1="522" x2="806" y2="582" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="746" y1="642" x2="686" y2="702" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="746" y1="642" x2="686" y2="702" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="686" y1="702" x2="626" y2="762" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="686" y1="702" x2="626" y2="762" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="626" y1="762" x2="566" y2="822" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="626" y1="762" x2="566" y2="822" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="566" y1="822" x2="506" y2="882" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="566" y1="822" x2="506" y2="882" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 506, 882 L 487.96, 900.04 Q 477 911 477 926.5 L 477, 942" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 506, 882 L 487.96, 900.04 Q 477 911 477 926.5 L 477, 942" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="477" y1="942" x2="477" y2="1012" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="942" x2="477" y2="1012" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1012" x2="477" y2="1082" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1012" x2="477" y2="1082" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1082" x2="477" y2="1152" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1082" x2="477" y2="1152" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1152" x2="477" y2="1222" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1152" x2="477" y2="1222" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 477, 1222 L 477, 1239.5 Q 477 1257 464.63 1269.37 L 444, 1290" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 477, 1222 L 477, 1239.5 Q 477 1257 464.63 1269.37 L 444, 1290" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 444, 1290 L 425.84, 1308.16 Q 417 1317 417 1329.5 L 417, 1342" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 444, 1290 L 425.84, 1308.16 Q 417 1317 417 1329.5 L 417, 1342" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 417, 1412 L 417, 1425 Q 417 1438 426.36 1447.02 L 444, 1464" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 417, 1412 L 417, 1425 Q 417 1438 426.36 1447.02 L 444, 1464" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 444, 1464 L 465.16, 1485.8 Q 477 1498 477 1515 L 477, 1532" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 444, 1464 L 465.16, 1485.8 Q 477 1498 477 1515 L 477, 1532" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="477" y1="1532" x2="477" y2="1602" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1532" x2="477" y2="1602" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1602" x2="477" y2="1672" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1602" x2="477" y2="1672" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1672" x2="477" y2="1742" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="477" y1="1672" x2="477" y2="1742" stroke="#6ac9c8" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="476" y1="1322" x2="536" y2="1382" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="476" y1="1322" x2="536" y2="1382" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="536" y1="1382" x2="596" y2="1442" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="536" y1="1382" x2="596" y2="1442" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="596" y1="1442" x2="656" y2="1502" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="596" y1="1442" x2="656" y2="1502" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="656" y1="1502" x2="716" y2="1562" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="656" y1="1502" x2="716" y2="1562" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="716" y1="1562" x2="776" y2="1622" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="716" y1="1562" x2="776" y2="1622" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="776" y1="1622" x2="836" y2="1682" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="776" y1="1622" x2="836" y2="1682" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 836, 1682 L 851.86, 1697.86 Q 866 1712 866 1732 L 866, 1760" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<path d="M 836, 1682 L 851.86, 1697.86 Q 866 1712 866 1732 L 866, 1760" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" stroke-linejoin="round" opacity="1" fill="none"/>
+<line x1="866" y1="1760" x2="866" y2="1860" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="866" y1="1760" x2="866" y2="1860" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="866" y1="1860" x2="866" y2="1960" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="866" y1="1860" x2="866" y2="1960" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="866" y1="1960" x2="866" y2="2060" stroke="#ffffff" stroke-width="12" stroke-linecap="butt" opacity="1" fill="none"/>
+<line x1="866" y1="1960" x2="866" y2="2060" stroke="#0078bf" stroke-width="8" stroke-linecap="butt" opacity="1" fill="none"/>
+<path d="M 476, 1322 L 436, 1282" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 468, 1322 A 8, 8 0 0 0 484, 1322 A 8, 8 0 0 0 468, 1322 M 428, 1282 A 8, 8 0 0 0 444, 1282 A 8, 8 0 0 0 428, 1282" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 476, 1322 L 444, 1290" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 468, 1322 A 8, 8 0 0 0 484, 1322 A 8, 8 0 0 0 468, 1322 M 436, 1290 A 8, 8 0 0 0 452, 1290 A 8, 8 0 0 0 436, 1290" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d=" " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<circle cx="477" cy="942" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="942" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1012" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1012" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1082" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1082" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1152" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1152" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1222" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1222" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="444" cy="1290" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="444" cy="1290" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="417" cy="1342" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="417" cy="1342" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="417" cy="1412" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="417" cy="1412" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="444" cy="1464" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="444" cy="1464" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1532" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1532" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1602" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1602" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1672" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1672" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="477" cy="1742" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="477" cy="1742" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="466" cy="942" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="942" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1012" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1012" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1152" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1152" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1222" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1222" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="436" cy="1282" r="7" fill="#ffffff" opacity="1"/>
+<circle cx="436" cy="1282" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="406" cy="1342" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="406" cy="1342" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="406" cy="1412" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="406" cy="1412" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="436" cy="1472" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="436" cy="1472" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1532" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1532" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1602" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1602" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1742" r="5" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1742" r="5" fill="#48b85e" opacity="1"/>
+<path d="M 458, 1026 L 463.5, 1026 A 5, 5 0 0 0 463.5, 1016 L 458, 1016 A 5, 5 0 0 0 458, 1026" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 463, 1211 L 443, 1191 M 463, 1211 L 447, 1195" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-dasharray="0 4" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 458, 1211 A 5, 5 0 0 0 468, 1211 A 5, 5 0 0 0 458, 1211 M 438, 1191 A 5, 5 0 0 0 448, 1191 A 5, 5 0 0 0 438, 1191 M 442, 1195 A 5, 5 0 0 0 452, 1195 A 5, 5 0 0 0 442, 1195" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 463, 1211 L 443, 1191" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-dasharray="0 4" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 458, 1211 A 5, 5 0 0 0 468, 1211 A 5, 5 0 0 0 458, 1211 M 438, 1191 A 5, 5 0 0 0 448, 1191 A 5, 5 0 0 0 438, 1191" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 463, 1211 L 447, 1195" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-dasharray="0 4" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 458, 1211 A 5, 5 0 0 0 468, 1211 A 5, 5 0 0 0 458, 1211 M 442, 1195 A 5, 5 0 0 0 452, 1195 A 5, 5 0 0 0 442, 1195" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1027 L 463.5, 1027 A 6, 6 0 0 0 463.5, 1015 L 458, 1015 A 6, 6 0 0 0 458, 1027" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1062 L 463.5, 1062 A 6, 6 0 0 0 463.5, 1050 L 458, 1050 A 6, 6 0 0 0 458, 1062" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1097 L 463.5, 1097 A 6, 6 0 0 0 463.5, 1085 L 458, 1085 A 6, 6 0 0 0 458, 1097" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1132 L 463.5, 1132 A 6, 6 0 0 0 463.5, 1120 L 458, 1120 A 6, 6 0 0 0 458, 1132" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1167 L 463.5, 1167 A 6, 6 0 0 0 463.5, 1155 L 458, 1155 A 6, 6 0 0 0 458, 1167" fill="#ffffff" opacity="1"/>
+<path d="M 428, 1227 L 433.5, 1227 A 6, 6 0 0 0 433.5, 1215 L 428, 1215 A 6, 6 0 0 0 428, 1227" fill="#ffffff" opacity="1"/>
+<path d="M 428, 1262 L 433.5, 1262 A 6, 6 0 0 0 433.5, 1250 L 428, 1250 A 6, 6 0 0 0 428, 1262" fill="#ffffff" opacity="1"/>
+<path d="M 447.24, 1290.24 L 451.24, 1286.24 A 6, 6 0 0 0 442.76, 1277.76 L 438.76, 1281.76 A 6, 6 0 0 0 447.24, 1290.24" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1322 L 463.5, 1322 A 6, 6 0 0 0 463.5, 1310 L 458, 1310 A 6, 6 0 0 0 458, 1322" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1357 L 463.5, 1357 A 6, 6 0 0 0 463.5, 1345 L 458, 1345 A 6, 6 0 0 0 458, 1357" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1392 L 463.5, 1392 A 6, 6 0 0 0 463.5, 1380 L 458, 1380 A 6, 6 0 0 0 458, 1392" fill="#ffffff" opacity="1"/>
+<path d="M 458, 1427 L 463.5, 1427 A 6, 6 0 0 0 463.5, 1415 L 458, 1415 A 6, 6 0 0 0 458, 1427" fill="#ffffff" opacity="1"/>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="692" y="795">Geçit / Balat</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="692" y="795">Geçit / Balat</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="664" y="825">Emek</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="664" y="825">Emek</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="634" y="855">Korupark</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="634" y="855">Korupark</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="604" y="885">Organize Sanayi</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="604" y="885">Organize Sanayi</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="574" y="915">Hamitler / Fethiye</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="574" y="915">Hamitler / Fethiye</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="544" y="945">Bağlarbaşı / Esentepe</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="544" y="945">Bağlarbaşı / Esentepe</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="514" y="975">İhsaniye</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="514" y="975">İhsaniye</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="484" y="1005">Karaman</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="484" y="1005">Karaman</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="600">Üniversite</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="600">Üniversite</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="635">Batıkent</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="635">Batıkent</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="670">Yüzüncüyıl</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="670">Yüzüncüyıl</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="705">Özlüce / 29 Ekim</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="705">Özlüce / 29 Ekim</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="740">Ertuğrul</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="740">Ertuğrul</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="775">Altınşehir</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="775">Altınşehir</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="810">Küçük Sanayi</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="810">Küçük Sanayi</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="845">Ataevler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="845">Ataevler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="880">Beşevler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="880">Beşevler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="915">Fatih Sultan Mehmet</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="915">Fatih Sultan Mehmet</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="950">Nilüfer</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="950">Nilüfer</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="985">Odunluk</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="985">Odunluk</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1035">Bursaspor / Acemler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1035">Bursaspor / Acemler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1070">Paşa Çiftliği</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1070">Paşa Çiftliği</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1105">Sırameşeler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1105">Sırameşeler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1140">Kültürpark</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1140">Kültürpark</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1175">Merinos</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1175">Merinos</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="435" y="1205">Osmangazi</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="435" y="1205">Osmangazi</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="422" y="1235">Şehreküstü</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="422" y="1235">Şehreküstü</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="422" y="1270">Demirtaşpaşa</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="422" y="1270">Demirtaşpaşa</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="437" y="1300">Gökdere</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="437" y="1300">Gökdere</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1330">Yıldırım / Davutdede</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1330">Yıldırım / Davutdede</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1365">Duaçınarı</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1365">Duaçınarı</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1400">152 Evler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1400">152 Evler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1435">Arabayatağı</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1435">Arabayatağı</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1470">Mimar Sinan / BTÜ</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1470">Mimar Sinan / BTÜ</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1505">Hacivat</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1505">Hacivat</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1540">Şirinevler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1540">Şirinevler</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1575">Otosansit</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1575">Otosansit</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1610">Cumalıkızık / Değirmenönü</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1610">Cumalıkızık / Değirmenönü</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="452" y="1645">Gürsu</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="452" y="1645">Gürsu</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="466.5" y="1677">Kestel</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="466.5" y="1677">Kestel</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="473" y="1222.5">Kent Meydanı</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="473" y="1222.5">Kent Meydanı</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="503" y="1252.5">Gençosman</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="503" y="1252.5">Gençosman</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="533" y="1282.5">Beşyol</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="533" y="1282.5">Beşyol</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="563" y="1312.5">Fatih / Altınova</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="563" y="1312.5">Fatih / Altınova</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="593" y="1342.5">Bölge Adliye / Müftülük</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="593" y="1342.5">Bölge Adliye / Müftülük</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="623" y="1372.5">Otokoop / Orman Bölge</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="623" y="1372.5">Otokoop / Orman Bölge</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="653" y="1402.5">BUTTİM</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="653" y="1402.5">BUTTİM</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="652" y="1444">Panayır</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="652" y="1444">Panayır</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="652" y="1494">Yeniceabat</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="652" y="1494">Yeniceabat</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="652" y="1544">Meslek Yüksek Okulu</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="652" y="1544">Meslek Yüksek Okulu</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="2" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="652" y="1594">Terminal</tspan></text>
+<text text-anchor="start" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="652" y="1594">Terminal</tspan></text>
+<path d="M 466, 950 L 477, 950 A 8, 8 0 0 0 477, 934 L 466, 934 A 8, 8 0 0 0 466, 950" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="M 466, 942 L 477, 942" stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<path d="M 476, 1322 L 436, 1282 M 476, 1322 L 444, 1290" stroke="#979797" stroke-width="4" stroke-linecap="round" stroke-dasharray="0 8" stroke-dashoffset="8" opacity="1" fill="none"/>
+<path d="M 468, 1322 A 8, 8 0 0 0 484, 1322 A 8, 8 0 0 0 468, 1322 M 428, 1282 A 8, 8 0 0 0 444, 1282 A 8, 8 0 0 0 428, 1282 M 436, 1290 A 8, 8 0 0 0 452, 1290 A 8, 8 0 0 0 436, 1290" stroke="#000000" stroke-width="2" fill="#ffffff" opacity="1"/>
+<path d="  " stroke="#aaaaaa" stroke-width="2" opacity="1" fill="none"/>
+<circle cx="926" cy="462" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="926" cy="462" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="866" cy="522" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="866" cy="522" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="806" cy="582" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="806" cy="582" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="746" cy="642" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="746" cy="642" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="686" cy="702" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="686" cy="702" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="626" cy="762" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="626" cy="762" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="566" cy="822" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="566" cy="822" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="506" cy="882" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="506" cy="882" r="5" fill="#6ac9c8" opacity="1"/>
+<circle cx="466" cy="72" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="72" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="142" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="142" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="212" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="212" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="282" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="282" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="352" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="352" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="422" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="422" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="492" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="492" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="562" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="562" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="632" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="632" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="702" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="702" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="772" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="772" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="842" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="842" r="5" fill="#48b85e" opacity="1"/>
+<path d="M 466, 950 L 477, 950 A 8, 8 0 0 0 477, 934 L 466, 934 A 8, 8 0 0 0 466, 950" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1020 L 477, 1020 A 8, 8 0 0 0 477, 1004 L 466, 1004 A 8, 8 0 0 0 466, 1020" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1090 L 477, 1090 A 8, 8 0 0 0 477, 1074 L 466, 1074 A 8, 8 0 0 0 466, 1090" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1160 L 477, 1160 A 8, 8 0 0 0 477, 1144 L 466, 1144 A 8, 8 0 0 0 466, 1160" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1230 L 477, 1230 A 8, 8 0 0 0 477, 1214 L 466, 1214 A 8, 8 0 0 0 466, 1230" fill="#ffffff" opacity="1"/>
+<path d="M 406, 1350 L 417, 1350 A 8, 8 0 0 0 417, 1334 L 406, 1334 A 8, 8 0 0 0 406, 1350" fill="#ffffff" opacity="1"/>
+<path d="M 406, 1420 L 417, 1420 A 8, 8 0 0 0 417, 1404 L 406, 1404 A 8, 8 0 0 0 406, 1420" fill="#ffffff" opacity="1"/>
+<path d="M 441.66, 1477.66 L 449.66, 1469.66 A 8, 8 0 0 0 438.34, 1458.34 L 430.34, 1466.34 A 8, 8 0 0 0 441.66, 1477.66" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1540 L 477, 1540 A 8, 8 0 0 0 477, 1524 L 466, 1524 A 8, 8 0 0 0 466, 1540" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1610 L 477, 1610 A 8, 8 0 0 0 477, 1594 L 466, 1594 A 8, 8 0 0 0 466, 1610" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1680 L 477, 1680 A 8, 8 0 0 0 477, 1664 L 466, 1664 A 8, 8 0 0 0 466, 1680" fill="#ffffff" opacity="1"/>
+<path d="M 466, 1750 L 477, 1750 A 8, 8 0 0 0 477, 1734 L 466, 1734 A 8, 8 0 0 0 466, 1750" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1812" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1812" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1882" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1882" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="1952" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="1952" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="2022" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="2022" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="2092" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="2092" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="466" cy="2162" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="466" cy="2162" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="495" cy="2226" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="495" cy="2226" r="5" fill="#48b85e" opacity="1"/>
+<circle cx="476" cy="1322" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="476" cy="1322" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="536" cy="1382" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="536" cy="1382" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="596" cy="1442" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="596" cy="1442" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="656" cy="1502" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="656" cy="1502" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="716" cy="1562" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="716" cy="1562" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="776" cy="1622" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="776" cy="1622" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="836" cy="1682" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="836" cy="1682" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="866" cy="1760" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="866" cy="1760" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="866" cy="1860" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="866" cy="1860" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="866" cy="1960" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="866" cy="1960" r="5" fill="#0078bf" opacity="1"/>
+<circle cx="866" cy="2060" r="8" fill="#ffffff" opacity="1"/>
+<circle cx="866" cy="2060" r="5" fill="#0078bf" opacity="1"/>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="934" y="486">Geçit / Balat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="934" y="486">Geçit / Balat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="878" y="546">Emek</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="878" y="546">Emek</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="818" y="606">Korupark</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="818" y="606">Korupark</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="758" y="666">Organize Sanayi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="758" y="666">Organize Sanayi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="698" y="726">Hamitler / Fethiye</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="698" y="726">Hamitler / Fethiye</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="638" y="786">Bağlarbaşı / Esentepe</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="638" y="786">Bağlarbaşı / Esentepe</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="578" y="846">İhsaniye</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="578" y="846">İhsaniye</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="518" y="906">Karaman</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="518" y="906">Karaman</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="96">Üniversite</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="96">Üniversite</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="166">Batıkent</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="166">Batıkent</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="236">Yüzüncüyıl</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="236">Yüzüncüyıl</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="306">Özlüce / 29 Ekim</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="306">Özlüce / 29 Ekim</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="376">Ertuğrul</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="376">Ertuğrul</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="446">Altınşehir</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="446">Altınşehir</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="516">Küçük Sanayi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="516">Küçük Sanayi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="586">Ataevler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="586">Ataevler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="656">Beşevler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="656">Beşevler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="726">Fatih Sultan Mehmet</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="726">Fatih Sultan Mehmet</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="796">Nilüfer</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="796">Nilüfer</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="866">Odunluk</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="866">Odunluk</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="966">Bursaspor / Acemler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="966">Bursaspor / Acemler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1036">Paşa Çiftliği</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1036">Paşa Çiftliği</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1106">Sırameşeler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1106">Sırameşeler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1176">Kültürpark</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1176">Kültürpark</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1246">Merinos</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1246">Merinos</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="420" y="1306">Osmangazi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="420" y="1306">Osmangazi</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="394" y="1366">Şehreküstü</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="394" y="1366">Şehreküstü</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="394" y="1436">Demirtaşpaşa</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="394" y="1436">Demirtaşpaşa</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="424" y="1496">Gökdere</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="424" y="1496">Gökdere</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1556">Yıldırım / Davutdede</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1556">Yıldırım / Davutdede</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1626">Duaçınarı</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1626">Duaçınarı</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1696">152 Evler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1696">152 Evler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1766">Arabayatağı</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1766">Arabayatağı</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1836">Mimar Sinan / BTÜ</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1836">Mimar Sinan / BTÜ</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1906">Hacivat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1906">Hacivat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="1976">Şirinevler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="1976">Şirinevler</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="2046">Otosansit</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="2046">Otosansit</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="2116">Cumalıkızık / Değirmenönü</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="2116">Cumalıkızık / Değirmenönü</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="454" y="2186">Gürsu</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="454" y="2186">Gürsu</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="483" y="2250">Kestel</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="483" y="2250">Kestel</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="496" y="1341">Kent Meydanı</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="496" y="1341">Kent Meydanı</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="556" y="1401">Gençosman</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="556" y="1401">Gençosman</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="616" y="1461">Beşyol</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="616" y="1461">Beşyol</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="676" y="1521">Fatih / Altınova</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="676" y="1521">Fatih / Altınova</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="736" y="1581">Bölge Adliye / Müftülük</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="736" y="1581">Bölge Adliye / Müftülük</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="796" y="1641">Otokoop / Orman Bölge</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="796" y="1641">Otokoop / Orman Bölge</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="856" y="1701">BUTTİM</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="856" y="1701">BUTTİM</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="854" y="1784">Panayır</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="854" y="1784">Panayır</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="854" y="1884">Yeniceabat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="854" y="1884">Yeniceabat</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="854" y="1984">Meslek Yüksek Okulu</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="854" y="1984">Meslek Yüksek Okulu</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#ffffff" stroke="#ffffffe6" stroke-width="4" stroke-linejoin="round" paint-order="stroke" opacity="1"><tspan x="854" y="2084">Terminal</tspan></text>
+<text text-anchor="start" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="normal" fill="#12161a" opacity="1"><tspan x="854" y="2084">Terminal</tspan></text>
+</svg>

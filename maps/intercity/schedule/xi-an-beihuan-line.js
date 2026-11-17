@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"xi-an-beihuan-line","identified_as":"西安铁路枢纽北环线 Maoling–Xinfengzhen northern freight bypass of Xi'an.","status":"Freight bypass (no passenger service)"};

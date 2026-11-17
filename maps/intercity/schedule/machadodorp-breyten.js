@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"machadodorp-breyten","identified_as":"Machadodorp – Carolina – Breyten line, Mpumalanga.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

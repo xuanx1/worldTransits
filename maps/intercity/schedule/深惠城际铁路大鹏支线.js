@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"深惠城际铁路大鹏支线","identified_as":"Shenzhen–Huizhou intercity railway, Dapeng branch (深惠城际大鹏支线), Longcheng – Pingshan – Kuichong – Dapeng – Xinda, Shenzhen (catalogue segment Shenzhen Pingshan – Zhanqian Road East)","status":"Not yet open (under construction; first train delivered May 2026, no opening date announced)"};

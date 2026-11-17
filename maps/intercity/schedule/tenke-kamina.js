@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tenke-kamina","identified_as":"SNCC Tenke–Kamina section of the Katanga main line, used by Lubumbashi–Ilebo/Kananga/Kindu/Kalemie trains.","status":"No regular timetable: occasional SNCC passenger trains (monthly or less, 2022-2023)"};

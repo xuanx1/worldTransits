@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bariay","identified_as":"Short line at Rafael Freyre (Bariay), Holguín province.","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026; no restart reported)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-khabarovsk-pobeda","identified_as":"Khabarovsk river station – Pobeda suburban Amur boat.","operator":"not named (Khabarovsk suburban river boats, organised by city/krai authorities)"};

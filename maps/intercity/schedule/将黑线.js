@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"将黑线","identified_as":"将黑线 (Jianghei Line), 黑山 – Jiangjunmiao (将军庙), 65.9 km: Jiangjunmiao – Heishan coal line (Zhundong)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

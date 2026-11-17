@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fort-beaufort-seymour","identified_as":"Fort Beaufort – Seymour branch line (Eastern Cape)","status":"Closed 1984"};

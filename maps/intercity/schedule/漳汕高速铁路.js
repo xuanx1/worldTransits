@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"漳汕高速铁路","identified_as":"Zhangzhou–Shantou high-speed railway (漳汕高铁), part of the Fujian–Guangdong coastal corridor.","status":"Under construction"};

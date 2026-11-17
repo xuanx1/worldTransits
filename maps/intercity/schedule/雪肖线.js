@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"雪肖线","identified_as":"Xuefeng–Xiaocuo line, part of the Zhangping–Quanzhou–Xiaocuo railway (漳泉肖铁路), Fujian.","status":"Freight only (passenger service ended 10 Dec 2014)"};

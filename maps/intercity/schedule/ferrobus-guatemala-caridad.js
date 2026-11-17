@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-guatemala-caridad","identified_as":"Local ferrobús Guatemala – Caridad (Mayarí, Holguín province).","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

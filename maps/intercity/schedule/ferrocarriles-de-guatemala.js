@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrocarriles-de-guatemala","identified_as":"FEGUA national railway network (Atlantic line Guatemala City – Zacapa – Puerto Barrios and Pacific line to Tecún Umán/Ciudad Hidalgo).","status":"Closed: no train service; trains stopped running in 1996 and revival plans had not materialised as of Aug 2025"};

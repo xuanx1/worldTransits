@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-winsen-aller-pier-oldau-schleuse","identified_as":"Section of the Aller river boat line (OSM \"Aller\") between Celle and Winsen (Aller), served by M.S. \"Wappen von Celle\".","operator":"Celler Schifffahrt GbR (M.S. Wappen von Celle)"};

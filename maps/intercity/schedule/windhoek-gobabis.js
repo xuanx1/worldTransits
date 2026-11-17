@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"windhoek-gobabis","identified_as":"TransNamib Windhoek – Gobabis line","status":"Passenger service cancelled indefinitely in January 2009; freight only"};

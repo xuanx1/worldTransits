@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-etang-sur-arroux-a-santenay","identified_as":"Étang-sur-Arroux – Autun – Santenay line (Saône-et-Loire/Côte-d'Or).","status":"No trains: Autun – Étang closed to passengers since March 2020, served by replacement coaches; Autun – Santenay has no passenger trains"};

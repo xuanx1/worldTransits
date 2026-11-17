@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"schmalspurbahn-wilkau-ha-lau-carlsfeld","identified_as":"Narrow gauge Wilkau-Haßlau - Carlsfeld; Schönheide - Stützengrün museum section.","status":"Closed (passenger service ended 1966-1977); museum railway Schönheide on selected days"};

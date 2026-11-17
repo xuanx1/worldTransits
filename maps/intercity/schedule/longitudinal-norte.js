@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"longitudinal-norte","identified_as":"Chile's northern main line (Longitudinal Norte / Red Norte, La Calera–Pintados, now Ferronor), freight only.","status":"Freight only"};

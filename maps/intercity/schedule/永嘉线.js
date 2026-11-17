@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"永嘉线","identified_as":"永嘉线 (Yongjia Line), Jiafu (加福) – Yikou (益口), 28.6 km: Jiafu – Yikou line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

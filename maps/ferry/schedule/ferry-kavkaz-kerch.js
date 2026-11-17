@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-kavkaz-kerch","identified_as":"Kerch Strait ferry Port Kavkaz – Kerch (Port Krym).","operator":"Kerch Strait ferry line (state-run, «Крымская переправа»)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"stirling-alloa-and-kincardine-railway","identified_as":"Stirling - Alloa - Kincardine - Dunfermline line.","status":"Stirling - Alloa reopened to passengers 15 May 2008 (ScotRail); Alloa - Kincardine - Dunfermline has no passenger service"};

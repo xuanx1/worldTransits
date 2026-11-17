@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"大莱龙铁路","identified_as":"大莱龙铁路 Dajiawa–Laizhou–Longkou railway (龙口西–大家洼).","status":"Freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"habitation-lasalle","identified_as":"Short plantation tourist train ride in Sainte-Marie, Martinique, from the rum museum (Saint-James distillery) to Habitation La Salle, i.e. the 1,168 mm Train des Plantations heritage line.","status":"Heritage/tourist train, not a regular service"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"homs-dimashq","identified_as":"CFS Homs–Damascus line.","status":"No regular passenger service (network paralysed since 2012)"};

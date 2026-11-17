@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"awash-weldiya-railway-phase-1","identified_as":"Phase 1 (Awash – Kombolcha) of the Awash – Weldiya railway","status":"Not open: under construction (Oct 2026)"};

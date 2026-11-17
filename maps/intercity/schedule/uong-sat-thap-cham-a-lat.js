@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"uong-sat-thap-cham-a-lat","identified_as":"Tháp Chàm–Đà Lạt railway: only the ~7 km Đà Lạt–Trại Mát tourist section operates.","status":"Tourist train only on the ~7 km Đà Lạt–Trại Mát section; the rest of the 84 km line is not operated"};

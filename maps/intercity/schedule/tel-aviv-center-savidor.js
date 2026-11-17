@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tel-aviv-center-savidor","identified_as":"Israel Railways Jerusalem Malha–Bet Shemesh–Tel Aviv Savidor service (reverse of the Malha line).","status":"Passenger service suspended since 2020"};

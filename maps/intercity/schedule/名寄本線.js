@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"名寄本線","identified_as":"JR Hokkaido Nayoro Main Line (名寄本線) Nayoro – Engaru.","status":"Closed: abolished 1 May 1989, converted to bus."};

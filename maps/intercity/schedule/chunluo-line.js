@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chunluo-line","identified_as":"春罗铁路 Chunwan–Luoding local railway (Guangdong).","status":"No passenger trains (none at 春湾 since July 2012; 罗定 not a 12306 passenger station)"};

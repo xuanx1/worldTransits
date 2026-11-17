@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"damas-homs-et-prolongements-dhp","identified_as":"Former DHP (Damas–Hama et Prolongements) line around Homs.","status":"No regular passenger service (network paralysed since 2012)"};

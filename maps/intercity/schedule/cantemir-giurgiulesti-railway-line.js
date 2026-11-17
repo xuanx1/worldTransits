@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cantemir-giurgiulesti-railway-line","identified_as":"Cantemir–Cahul–Giurgiulești line in southern Moldova.","status":"No passenger service in 2026"};

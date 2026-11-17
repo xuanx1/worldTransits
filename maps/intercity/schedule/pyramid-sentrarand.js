@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pyramid-sentrarand","identified_as":"Pyramid South – Onderstepoort – Medunsa – Ga-Rankuwa link north of Pretoria (part of the freight bypass towards Sentrarand).","status":"No passenger service (not used by any Metrorail route; Ga-Rankuwa is served via Rosslyn on the De Wildt line)"};

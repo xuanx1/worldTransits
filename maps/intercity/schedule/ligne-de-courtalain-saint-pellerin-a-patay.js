@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-courtalain-saint-pellerin-a-patay","identified_as":"Former standard-gauge line Courtalain-Saint-Pellerin – Châteaudun – Patay (Eure-et-Loir/Loiret).","status":"Closed to passengers; Courtalain–Châteaudun track lifted 1943; Châteaudun–Patay partly freight only / largely abandoned"};

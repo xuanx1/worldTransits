@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"xinghe-line","identified_as":"和邢铁路 Heshun–Xingtai line (opened 12 Dec 2023).","status":"Freight line; only a red-tourism special train (抗大号) between 白马河 and 浆水镇 since 13 Sep 2025"};

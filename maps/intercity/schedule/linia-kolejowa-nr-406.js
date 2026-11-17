@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-406","identified_as":"PKP PLK line 406 Szczecin Główny – Police – Trzebież.","status":"Freight only (mainly to Grupa Azoty Police) since passenger service ended in 2002; passenger trains planned under the Szczecin Metropolitan Railway (SKM). Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_406 (pl.wikipedia, read 16 Nov 2026)"};

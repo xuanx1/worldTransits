@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-ciego-limones-palmero","identified_as":"Local ferrobús Ciego de Ávila – Limones Palmero (Ciego de Ávila province).","status":"Suspended since early 2026 (all Ciego de Ávila rail routes halted for fuel in Mar 2026; only Morón – Ciego and Morón – Camagüey reported restored in Sep 2026)"};

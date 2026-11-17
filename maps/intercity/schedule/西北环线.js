@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"西北环线","identified_as":"西北环线 (Xibeihuan Line), Shahe (沙河) – Junzhuang (军庄), 31.2 km: Beijing north-west ring (bypass) Shahe – Junzhuang","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

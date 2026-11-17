@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"newbury-and-winchester-line","identified_as":"Didcot, Newbury and Southampton Railway, Newbury - Winchester (Shawford) section.","status":"Closed: passenger service south of Newbury ended 5 Mar 1960; line closed 1964-1965"};

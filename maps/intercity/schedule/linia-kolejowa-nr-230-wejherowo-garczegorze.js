@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-230-wejherowo-garczegorze","identified_as":"PKP PLK line 230 Wejherowo – Garczegorze (Pomerania).","status":"Closed: passenger traffic suspended 31 May 1992; freight ceased in 2004. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_230 (pl.wikipedia, read 16 Nov 2026)"};

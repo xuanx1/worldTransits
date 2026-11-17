@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"inselbahn-fehmarn","identified_as":"Großenbrode - Fehmarnsund - Fehmarn-Burg section of the Lübeck - Puttgarden line.","status":"Suspended: scheduled trains Neustadt (Holstein) - Puttgarden ended Aug 2022, replaced by buses (Fehmarnbelt hinterland rebuild)"};

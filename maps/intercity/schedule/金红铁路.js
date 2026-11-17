@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"金红铁路","identified_as":"金红铁路 Jinchengjiang – Hongmao (Guangxi) local railway.","status":"Closed (all operation ceased 2014)"};

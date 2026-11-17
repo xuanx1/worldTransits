@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-guines","identified_as":"La Habana (Martí) – San José de las Lajas – Güines line.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

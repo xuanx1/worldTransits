@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kouquan-railway","identified_as":"口泉铁路 (Kouquan Railway), Pingwang (平旺) – Qiaocun (乔村), 32.9 km: Datong coal-field branch Pingwang – Kouquan – Qiaocun","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

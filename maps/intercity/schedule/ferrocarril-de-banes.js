@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrocarril-de-banes","identified_as":"Banes railway (Holguín province), local railcar services around Banes.","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

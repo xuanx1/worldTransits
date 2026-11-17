@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-banes-macabi","identified_as":"Local train Banes – Macabí, Holguín province.","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026; no restart reported)"};

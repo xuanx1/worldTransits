@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"germiston-ermelo","identified_as":"Germiston – Benoni – Springs – Kinross – Bethal – Davel – Ermelo line (coal line east of Springs).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"2-wilmington-and-northern-branch","identified_as":"Wilmington & Northern Branch (former Reading), Elsmere/Wilmington DE - Coatesville PA, operated by the East Penn Railroad.","status":"Freight only (East Penn Railroad); no passenger service."};

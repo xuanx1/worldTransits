@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"camajuani-vega-alta","identified_as":"Camajuaní – Vega Alta line, Villa Clara (Santa Clara – Camajuaní railcar route).","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

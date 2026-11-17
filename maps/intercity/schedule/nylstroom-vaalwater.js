@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nylstroom-vaalwater","identified_as":"Nylstroom (Modimolle) – Vaalwater branch line (Limpopo)","status":"Closed 2002"};

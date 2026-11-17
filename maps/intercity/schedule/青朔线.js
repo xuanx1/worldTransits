@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"青朔线","identified_as":"青朔线 (Qingshuo Line), Shuoli (朔里) – Qinglongshan (青龙山), 29.1 km: Huaibei Mining railway Qinglongshan – Shuoli (operator 淮北矿业股份有限公司铁路运输处)","status":"Freight only (no passenger trains)"};

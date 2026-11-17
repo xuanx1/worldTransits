@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"和坪线","identified_as":"Heping railway (和坪铁路), Helong – Nanpingzhen (North Korean border, Musan iron mine)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"veles-kocani-railway","identified_as":"Veles–Štip–Kočani branch (ŽRSM Transport train 651/650 Skopje–Kočani).","status":"Passenger service temporarily suspended"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"良陈线","identified_as":"良陈铁路 Liangxiang–Chenjiafen line (Beijing), a coal branch.","status":"Freight only (shunting moves only)"};

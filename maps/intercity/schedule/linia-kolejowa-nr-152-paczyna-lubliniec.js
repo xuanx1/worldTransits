@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-152-paczyna-lubliniec","identified_as":"PKP PLK line 152 Paczyna – Lubliniec (Silesia).","status":"Mainly freight; a few PKP Intercity long-distance trains pass (2020), no local stopping service established. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_152 (pl.wikipedia, read 16 Nov 2026)"};

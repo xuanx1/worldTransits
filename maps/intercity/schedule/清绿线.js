@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"清绿线","identified_as":"清绿铁路 Qingshui – Dongfeng (Jiuquan Satellite Launch Centre) railway.","status":"Closed (retired 15 Dec 2021)"};

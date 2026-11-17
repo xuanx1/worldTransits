@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hohenstaufenbahn","identified_as":"Hohenstaufenbahn Göppingen - Schwäbisch Gmünd.","status":"Closed: passenger service ended June 1984, tracks lifted 1986/87 (now a cycle path)"};

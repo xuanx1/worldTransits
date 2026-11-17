@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"2961-paderborn-hbf-brilon-wald","identified_as":"Almetalbahn Paderborn - Büren - Brilon Wald (DB line 2961).","status":"No through passenger service; only Brilon Stadt - Brilon Wald has regional trains (since 2011); rest freight/museum or closed"};

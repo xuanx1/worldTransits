@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"万南线","identified_as":"Wansheng – Nanchuan section of the Sanwannan local railway (三万南铁路)","status":"Freight only (no passenger trains)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"津潍高速线","identified_as":"The Tianjin-Weifang high-speed railway (津潍高铁), from Tianjin Binhai via Huanghua North, Binzhou and Dongying South to Weifang North. It is under construction.","status":"Not open yet: still under construction, with track-laying under way since 01 Sep 2026."};

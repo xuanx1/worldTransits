@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"echo-lift-sancho-sanroku","identified_as":"Takao Tozan Railway two-seat sightseeing chairlift (高尾山 リフト / Echo Lift) Sanroku – Sanjō, Mt Takao.","status":"Tourist sightseeing chairlift (二人乗り観光リフト), not a rail line: runs continuously from 9:00, last ride 16:30 weekdays May–Nov, ride about 12 minutes."};

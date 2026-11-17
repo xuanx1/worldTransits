@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"宣庞线","identified_as":"宣庞铁路 Xuanhua–Pangjiabao branch (Hebei).","status":"Passenger service ended 1993; line out of use"};

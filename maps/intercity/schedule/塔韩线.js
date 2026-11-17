@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"塔韩线","identified_as":"塔韩铁路 Tahe–Hanjiayuan line (Greater Khingan).","status":"Passenger train 4059/4060 (韩家园–加格达奇) withdrawn; no passenger trains"};

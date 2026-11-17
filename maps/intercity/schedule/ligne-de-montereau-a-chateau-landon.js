@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-montereau-a-chateau-landon","identified_as":"Former standard-gauge line Montereau – Château-Landon (Seine-et-Marne).","status":"Closed 1959; declassified 1960"};

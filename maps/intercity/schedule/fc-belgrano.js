@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fc-belgrano","identified_as":"Metre-gauge Belgrano line between Rosario (OSM endpoint Sarratea, north Rosario) and Santo Tomé/Santa Fe – most likely Ramal F1 (ex-Ferrocarril Santa Fe), a Trenes Argentinos Cargas freight line.","status":"Freight only (Trenes Argentinos Cargas); no passenger service"};

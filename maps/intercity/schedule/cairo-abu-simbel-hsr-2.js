@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cairo-abu-simbel-hsr-2","identified_as":"Egyptian high-speed rail Line 2 (6th of October - Luxor - Aswan - Abu Simbel), under construction","status":"Under construction; no passenger service yet"};

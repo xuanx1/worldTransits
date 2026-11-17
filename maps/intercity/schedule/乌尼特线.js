@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"乌尼特线","identified_as":"乌尼特线 (Wunite Line), Wunite (乌尼特) – Hanihure (哈尼乎热), 30.2 km: Wunite – Hanihure line (Xilin Gol)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

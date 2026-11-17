@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-nerac-a-mont-de-marsan","identified_as":"Former standard-gauge line Nérac – Mézin – Gabarret – Mont-de-Marsan (Lot-et-Garonne/Landes).","status":"Closed to passengers since 2 Oct 1938; only Nérac–Mézin remains (freight + heritage/tourist Train touristique de l'Albret); rest lifted, Villeneuve-de-Marsan–Mont-de-Marsan a greenway"};

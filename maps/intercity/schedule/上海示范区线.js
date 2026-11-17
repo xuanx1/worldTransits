@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"上海示范区线","identified_as":"示范区线 Shanghai section of the Shanghai–Suzhou–Jiaxing intercity railway (水乡客厅–上海虹桥), under construction.","status":"Under construction"};

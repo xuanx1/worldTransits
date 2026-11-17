@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"la-galoche-de-raucoules-a-lavoute-sur-loire","identified_as":"Metre-gauge CFD Réseau du Vivarais line Raucoules-Brossettes – Yssingeaux – Lavoûte-sur-Loire (Haute-Loire).","status":"Closed since 28 February 1952; route largely reused by the Via Fluvia greenway"};

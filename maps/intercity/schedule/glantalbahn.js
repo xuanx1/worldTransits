@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"glantalbahn","identified_as":"Glantalbahn Homburg - Altenglan - Staudernheim/Bad Münster am Stein.","status":"Closed to trains since 1996 except Glan-Münchweiler - Altenglan (Landstuhl-Kusel line); Altenglan-Staudernheim used by self-drive draisines since 2000"};

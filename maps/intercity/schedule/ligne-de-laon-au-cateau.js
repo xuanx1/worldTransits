@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-laon-au-cateau","identified_as":"Standard-gauge line Laon – Sains-Richaumont – Guise – Le Cateau (Aisne/Nord), SNCF.","status":"Closed to passengers during WWII; freight ended stepwise 1945–2011; now closed to all traffic, declassified Sains-Richaumont–Le Cateau"};

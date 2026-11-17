@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hanoi-quang-ninh-high-speed-railway","identified_as":"VinSpeed Hanoi–Quang Ninh high-speed line, under construction.","status":"Under construction (work started 12 April 2026); not yet open"};

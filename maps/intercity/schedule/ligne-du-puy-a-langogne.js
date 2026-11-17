@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-du-puy-a-langogne","identified_as":"Le Puy-en-Velay – Langogne line (Haute-Loire/Lozère).","status":"Closed: passenger service ended April 1939 (brief 1944–50 revival); line declassified, Tireboeuf bridge destroyed 2010, parts are vélorail/greenway"};

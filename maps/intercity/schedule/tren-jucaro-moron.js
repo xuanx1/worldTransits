@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-jucaro-moron","identified_as":"Local train Júcaro – Ciego de Ávila – Morón over the Trocha line (Ciego de Ávila province).","status":"Suspended since early 2026 (all Ciego de Ávila rail routes halted for fuel in Mar 2026; only Morón – Ciego and Morón – Camagüey reported restored in Sep 2026)"};

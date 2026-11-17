@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"comilog-mbinda-mont-belo","identified_as":"Ex-Comilog line Mont-Belo–Mbinda (285 km), served by the CFCO 'Mbinda' passenger train from Pointe-Noire/Dolisie.","status":"Passenger service suspended since March 2025"};

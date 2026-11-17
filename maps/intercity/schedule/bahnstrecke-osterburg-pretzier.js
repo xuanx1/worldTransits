@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-osterburg-pretzier","identified_as":"Osterburg - Pretzier (Altmark) light railway.","status":"Closed: passenger trains ended 1968/1974, official closure 29 Sep 1975"};

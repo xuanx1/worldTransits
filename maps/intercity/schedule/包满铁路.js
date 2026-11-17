@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"包满铁路","identified_as":"包满铁路 Baotou–Mandula (Mongolian border) railway.","status":"Freight (cross-border coal) line"};

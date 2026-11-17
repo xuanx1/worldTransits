@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fianarantsoa-cote-est","identified_as":"FCE (Fianarantsoa–Côte Est) passenger train Fianarantsoa – Manakara","status":"Service disrupted: as of Oct 2026 trains no longer reach Manakara, stopping about 70 km short; RNCFM targets restoring Fenomby – Manakara by end of 2026"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrovia-eritrea","identified_as":"Former Eritrean Railway section west of Keren towards Akordat (Agordat)","status":"Closed (not rebuilt; only Massawa – Asmara has been restored)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cape-town-queenstown","identified_as":"PRASA Shosholoza Meyl long-distance route Cape Town – De Aar – Komani (Queenstown)","status":"Passenger service suspended (Shosholoza Meyl not operating; PRASA targets a limited restart in 2027)"};

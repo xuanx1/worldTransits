@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"cmstp-p-everett-branch","identified_as":"Milwaukee Road Everett (Snoqualmie Valley) Branch, Everett - Monroe - Duvall - North Bend; now the Snoqualmie Valley Regional Trail.","status":"Abandoned (Milwaukee Road 1973; remaining part by Burlington Northern 1990); now a trail."};

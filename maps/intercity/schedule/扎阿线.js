@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"扎阿线","identified_as":"阿扎铁路 Arongqi–Zhalantun line (Inner Mongolia).","status":"Freight only (opened for freight 1 Apr 2016)"};

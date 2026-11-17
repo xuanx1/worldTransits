@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-parthenay-a-melle","identified_as":"Metre-gauge Tramways des Deux-Sèvres line Parthenay–Ménigoute–Saint-Maixent-l'École–Melle (opened 1897–1901).","status":"Closed: network closed early 1939 and dismantled (Lezay–Melle section ran until 1947)"};

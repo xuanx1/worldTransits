@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-guaro-nicaro","identified_as":"Local ferrobús Guaro – Nicaro (Mayarí, Holguín province).","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

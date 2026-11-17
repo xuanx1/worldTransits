@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chapline","identified_as":"Chaplyne – Mezhova – Pokrovsk – Ocheretyne – Avdiivka line (Prydniprovska/Donetsk railways), front line / occupied area.","status":"No passenger service (front line; Pokrovsk station closed to passengers since Sep 2024, Avdiivka occupied)"};

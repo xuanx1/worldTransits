@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"连燕铁路","identified_as":"连燕铁路 (Lianyan Railway), Yangang (燕岗) – Lianjie (连界), 117.5 km: Yangang – Leshan port – Jingyan – Lianjie line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

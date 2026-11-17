@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"阜金线","identified_as":"Fujin railway (阜金铁路), Fuxin South – Qinghemen – Lijin, the old single-track alignment of the Xinyi railway left after its 2019 rebuilding","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

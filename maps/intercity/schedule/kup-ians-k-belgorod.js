@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kup-ians-k-belgorod","identified_as":"Cross-border Kupiansk – Ohirtseve – Nezhegol – Belgorod line (Ukraine – Russia).","status":"Cross-border service ended (Ukrzaliznytsia cut all links with Russian Railways on 26 Feb 2022; Kupiansk not served)"};

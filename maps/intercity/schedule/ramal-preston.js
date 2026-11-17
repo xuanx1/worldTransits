@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-preston","identified_as":"Guatemala (Preston) – Herrera branch, Mayarí, Holguín province.","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026; no restart reported)"};

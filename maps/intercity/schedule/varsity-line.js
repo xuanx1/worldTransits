@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"varsity-line","identified_as":"Oxford - Bicester - Bletchley - (Bedford - Cambridge) 'Varsity Line' / East West Rail route.","status":"As of Nov 2026: rebuilt Bicester-Bletchley section used by freight only; passenger service (Chiltern, Oxford-Milton Keynes) not yet started; Bedford-Cambridge closed 1968"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linha-ourinhos-apucarana","identified_as":"RVPSC Ourinhos – Cambará – Cornélio Procópio – Londrina – Apucarana line (PR), Rumo.","status":"Freight only (passenger trains ended 1981)"};

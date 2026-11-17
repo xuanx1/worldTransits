@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jinan-jinan-west-link-line","identified_as":"京济联络线 (Jinan Jinan West Link Line), Jinannan (济南南) – Jinanxi (济南西), 11.7 km: link between Jinan South and Jinan West (Jinan hub)","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

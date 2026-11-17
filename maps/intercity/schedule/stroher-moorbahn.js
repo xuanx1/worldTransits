@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"stroher-moorbahn","identified_as":"Ströher Moorbahn, a visitor field railway at Ströhen (Wagenfeld) to the Moorpadd trail.","status":"Tourist/museum field railway, seasonal (1 Apr – 31 Oct) only"};

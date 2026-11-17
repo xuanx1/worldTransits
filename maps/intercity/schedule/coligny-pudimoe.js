@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"coligny-pudimoe","identified_as":"Coligny – Delareyville – Schweizer-Reneke – Pudimoe line, North West.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

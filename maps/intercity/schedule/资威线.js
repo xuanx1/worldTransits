@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"资威线","identified_as":"资威铁路 Zizhong – Nihe (Weiyuan) coal branch, Sichuan.","status":"Freight only (coal)"};

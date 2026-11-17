@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hobo-railroad","identified_as":"Hobo Railroad (now marketed as the Granite State Railway 'Lincoln Train Excursion'), scenic trains from Lincoln, NH.","status":"Tourist excursion railroad."};

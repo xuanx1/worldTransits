@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-la-grande-ceinture","identified_as":"Northern Grande Ceinture de Paris (Sartrouville – Argenteuil – Épinay – Le Bourget – Noisy-le-Sec).","status":"Freight only on the northern section; tram-train T11 runs beside it (on separate tracks) between Épinay-sur-Seine and Le Bourget"};

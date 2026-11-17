@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"淮宿阜城际铁路","identified_as":"Huaibei–Fuyang high-speed railway (淮阜高铁, formerly 淮宿阜城际), Anhui, Fuyangxi–Shuangduiji.","status":"Under construction (in trial operation; not yet open to passengers as of Nov 2026)"};

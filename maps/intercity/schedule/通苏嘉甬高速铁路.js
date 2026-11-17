@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"通苏嘉甬高速铁路","identified_as":"Nantong–Suzhou–Jiaxing–Ningbo high-speed railway (通苏嘉甬高铁), part of China's coastal HSR corridor, crossing the Yangtze and Hangzhou Bay from Nantong West to Ningbo North. Under construction.","status":"Under construction, with opening planned for 2027; no passenger service yet."};

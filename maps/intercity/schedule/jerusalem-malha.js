@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jerusalem-malha","identified_as":"Israel Railways classic Tel Aviv–Bet Shemesh–Jerusalem Malha service over the old Jaffa–Jerusalem line.","status":"Passenger service suspended since 2020"};

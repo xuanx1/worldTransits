@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chester-valley-branch","identified_as":"Reading's Chester Valley Branch, Bridgeport/Norristown - Downingtown.","status":"Abandoned by Conrail in 1989, tracks removed early 1990s; partly the Chester Valley Trail."};

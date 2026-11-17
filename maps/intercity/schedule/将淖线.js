@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"将淖线","identified_as":"Jiangnao railway (将淖铁路), Jiangjunmiao East – Santanghu – Baishihu South (Naomaohu), Xinjiang coal export line opened 15 Jan 2024","status":"Freight only (no passenger trains)"};

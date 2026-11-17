@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"xiaoliu-railway","identified_as":"Xiaoliu local railway (孝柳铁路), Xiaoxi – Fenyang – Zhongyang – Lishi – Mucun (Liulin), 115 km","status":"Freight only (no passenger trains)"};

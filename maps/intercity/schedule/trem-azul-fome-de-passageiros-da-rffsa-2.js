@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"trem-azul-fome-de-passageiros-da-rffsa-2","identified_as":"Petrolina – Afrânio – Paulistana line (same trackbed as the E. F. Petrolina a Teresina), labelled with the RFFSA period.","status":"Closed: passenger trains ended 1972, line officially eradicated 1 Jul 1975 and track lifted"};

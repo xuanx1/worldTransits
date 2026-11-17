@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-canada-honda","identified_as":"Railbus Banes – Cañada Honda, Holguín province.","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026; no restart reported)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"santa-cruz-branch","identified_as":"Santa Cruz Branch Line (Santa Cruz - Watsonville), owned by the Santa Cruz County RTC; only the Roaring Camp Santa Cruz Beach Train excursion carries passengers.","status":"No regular passenger service; tourist excursion only (Roaring Camp beach train, returning spring 2027)."};

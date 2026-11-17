@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"jiayuguan-ring-railway","identified_as":"嘉峪关环线铁路 (Jiayuguan Ring Railway), Jiayuguan (嘉峪关) – Jiaxi (嘉西), 23.2 km: Jiayuguan (Jiuquan Steel) ring railway","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

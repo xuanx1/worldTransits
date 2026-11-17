@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"松团线","identified_as":"松团线 (Songtuan Line), Tuanshan (团山) – Songyuan (松原), 105.7 km: Songyuan – Fuyu West – Tuanshan line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

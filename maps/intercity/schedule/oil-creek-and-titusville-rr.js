@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"oil-creek-and-titusville-rr","identified_as":"Oil Creek & Titusville Railroad, excursion trains from Perry Street Station (Titusville) through Oil Creek State Park via Rynd Farm.","status":"Heritage / tourist excursion railroad (seasonal; 3-hour round trip)."};

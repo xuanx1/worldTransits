@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-tokuyama-kari-o-minato-ft","identified_as":"Otsushima Junko ferry/passenger boat Tokuyama – Otsushima.","operator":"Otsushima Junko (大津島巡航)","frequency":{"source":"https://ja.wikipedia.org/wiki/大津島","publisher":"ja.wikipedia.org (transcribed)","date":"retrieved 2026-11-16","official":false,"text":"7 sailings a day","trains_per_day":7}};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"沈金线","identified_as":"沈金线 (Shenjin Line), Santai (三台) – Jinbowan (金帛湾), 198.4 km: Shenyang – Panjin – Jinbowan line (Santai – Jinbowan)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

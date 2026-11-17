@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mullewa-meekatharra-railway","identified_as":"The former Mullewa – Cue – Meekatharra railway, WA.","status":"Closed: 'The Mullewa to Meekatharra line was closed on 1 May 1978' (Mullewa – Pindar closed November 1996). (source: https://en.wikipedia.org/wiki/Mullewa%E2%80%93Meekatharra_railway, English Wikipedia, raw article text read 16 Nov 2026)"};

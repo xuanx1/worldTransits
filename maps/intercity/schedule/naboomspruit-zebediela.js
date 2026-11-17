@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"naboomspruit-zebediela","identified_as":"Naboomspruit – Roedtan – Zebediela branch line (Limpopo)","status":"Closed 2003"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"beitbridge-bulawayo","identified_as":"Same NRZ Bulawayo – Beitbridge line as slug bulawayo-beitbridge","status":"Passenger service cancelled July 2014 until further notice; not running"};

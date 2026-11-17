@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"soweto-business-express","identified_as":"Former Metrorail 'Soweto Business Express' premium service Naledi – Johannesburg Park (introduced 2007).","status":"Business Express not in the current timetable; the route is served by ordinary Naledi – Johannesburg Metrorail trains (see slug naledi)"};

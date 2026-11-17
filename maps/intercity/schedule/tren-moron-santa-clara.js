@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-moron-santa-clara","identified_as":"Former regional train Santa Clara – Morón over the Línea Norte.","status":"No regular passenger service (inactive for years)"};

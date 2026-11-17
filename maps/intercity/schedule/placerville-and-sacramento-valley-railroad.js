@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"placerville-and-sacramento-valley-railroad","identified_as":"Placerville & Sacramento Valley Railroad (Folsom), volunteer heritage operation on the former SP Placerville Branch.","status":"Heritage excursion / motorcar rides only."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"challoch-junction-to-dumfries-line","identified_as":"Portpatrick and Wigtownshire Joint Railway, Challoch Junction - Newton Stewart - Castle Douglas - Dumfries.","status":"Closed 1965 (except Stranraer - Challoch Junction, part of the Glasgow-Stranraer route)"};

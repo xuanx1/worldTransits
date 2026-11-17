@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"宜珙线","identified_as":"宜珙铁路 Yibin–Gongxian branch (Sichuan).","status":"Passenger trains withdrawn in 2010 (freight)"};

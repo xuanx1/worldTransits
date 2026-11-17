@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pietermaritzburg-kokstad","identified_as":"Pietermaritzburg – Donnybrook – Franklin – Kokstad line, KwaZulu-Natal.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

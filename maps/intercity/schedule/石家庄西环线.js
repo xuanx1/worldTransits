@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"石家庄西环线","identified_as":"石家庄西环线 (Shijiazhuangxihuan Line), Pingnan (平南) – Zhengding (正定), 41.2 km: Shijiazhuang western ring (bypass) line Pingnan – Shijiazhuang West – Zhengding","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

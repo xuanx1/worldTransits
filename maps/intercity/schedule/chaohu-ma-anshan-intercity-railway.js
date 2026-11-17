@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chaohu-ma-anshan-intercity-railway","identified_as":"Chaohu–Ma'anshan high-speed railway (巢马高速铁路), Anhui, Chaohudong–Ma'anshannan.","status":"Under construction (in testing; not yet open to passengers as of Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"宁静铁路","identified_as":"Ningwu–Jingle railway (宁静铁路), Shanxi.","status":"Freight only (heavy-haul coal line)"};

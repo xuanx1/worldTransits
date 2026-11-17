@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rb-35-wolfsburg-stendal","identified_as":"RB35 Wolfsburg – Oebisfelde – Gardelegen – Stendal (Start Mitteldeutschland).","status":"Suspended for the whole 2026 timetable year (Generalsanierung), replaced by buses; trains planned to return with the timetable change in mid-December 2026"};

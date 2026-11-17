@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"宁西铁路二线","identified_as":"宁西铁路二线 (Ningxitieluer Line), Caijiahe (蔡家河) – Qiaonanzhen (桥南镇), 33.4 km: second-track section of the Nanjing–Xi'an railway, Caijiahe – Qiaonanzhen","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

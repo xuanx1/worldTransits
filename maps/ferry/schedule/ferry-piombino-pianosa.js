@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-piombino-pianosa","identified_as":"Toremar Piombino - Pianosa.","operator":"Toremar","journey_time":{"source":"https://www.toremar.it/it/tratte/orari-tariffe.html","publisher":"www.toremar.it (transcribed)","date":"Toremar routes page as of 15 Nov 2026","official":false,"minutes":170,"from":"Piombino","to":"Pianosa","train":"Toremar"}};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"johannesburg-gqeberha","identified_as":"PRASA Shosholoza Meyl long-distance route Johannesburg – Bloemfontein – Gqeberha (Port Elizabeth)","status":"Passenger service suspended (Shosholoza Meyl not operating; PRASA targets a limited restart in 2027)"};

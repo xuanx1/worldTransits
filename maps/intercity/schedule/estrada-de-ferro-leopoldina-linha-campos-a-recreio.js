@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-leopoldina-linha-campos-a-recreio","identified_as":"Leopoldina Campos – Recreio line (RJ/MG), FCA.","status":"Freight only (passenger trains ended early 1980s)"};

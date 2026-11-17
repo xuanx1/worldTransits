@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"中马线","identified_as":"Zhongma railway (中马铁路), Zhongchuan North – Majiaping, Lanzhou New Area local line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

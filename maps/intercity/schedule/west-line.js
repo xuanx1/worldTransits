@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"west-line","identified_as":"Metrorail KwaZulu-Natal Bluff line, Durban – Wests (Bluff)","status":"Passenger service suspended (Bluff line closed)"};

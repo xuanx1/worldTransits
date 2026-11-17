@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"wolseley-prince-alfred-hamlet","identified_as":"Wolseley – Ceres – Prince Alfred Hamlet branch (concession of the Ceres Rail Company).","status":"No regular passenger service (branch reopened 2015 under the Ceres Rail Company; only occasional tourist/heritage trains)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"吕临铁路","identified_as":"吕临铁路 (Lvlin Railway), Sanjiaodong (三交东) – Xishuba (西属巴), 35.1 km: Lvliang North – Linxian line (Shanxi)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

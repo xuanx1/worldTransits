@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"潍宿高速青岛联络线","identified_as":"潍宿高铁至青岛连接线 Weifang–Suqian HSR Qingdao link (青岛西–洋河口), under construction.","status":"Under construction"};

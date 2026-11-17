@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"湖大线","identified_as":"湖大线 Datong East–Hudong link into the 大秦 coal line yard.","status":"Freight link (湖东 is on the coal-only 大秦铁路)"};

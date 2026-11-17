@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"banbury-and-cheltenham-direct-railway","identified_as":"Banbury and Cheltenham Direct Railway (Kings Sutton - Chipping Norton - Kingham - Cheltenham).","status":"Closed: passenger service withdrawn 1951-1962, line closed 1964 (complete closure 1969)"};

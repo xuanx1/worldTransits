@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"北保线","identified_as":"北保线 (Beibao Line), Baoguo (保国) – Luotuoying (骆驼营), 60.0 km: Baoguo – Luotuoying line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kolej-m-ocinska","identified_as":"Kolej młocińska, a private standard-gauge railway Warszawa Gdańska – Młociny – Łomianki – Palmiry (1929–1943).","status":"Closed: passenger service apparently ended by May 1939, line largely dismantled by the Germans in 1943. Source: https://pl.wikipedia.org/wiki/Kolej_m%C5%82oci%C5%84ska (read 16 Nov 2026)."};

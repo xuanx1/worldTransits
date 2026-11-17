@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"disneyland-railroad","identified_as":"Disneyland Railroad, steam park railroad circling Disneyland Park.","status":"Amusement-park ride (not public transport)."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"takoradi-tarkwa-dunkwa-kumasi","identified_as":"Western line (Cape gauge) Takoradi – Tarkwa – Dunkwa – Kumasi.","status":"No passenger service beyond Kojokrom: Takoradi–Tarkwa passenger service suspended since 2 March 2020; only the Takoradi–Sekondi–Kojokrom shuttle runs (resumed 24 April 2026)"};

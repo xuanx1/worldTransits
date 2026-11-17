@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-braunschweig-mattierzoll","identified_as":"Former Braunschweig-Schöninger Eisenbahn line Braunschweig – Wittmar – Mattierzoll.","status":"Closed to passengers since 1954 (Hötzum – Mattierzoll); no passenger service"};

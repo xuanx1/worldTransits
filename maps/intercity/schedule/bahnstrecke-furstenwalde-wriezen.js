@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-furstenwalde-wriezen","identified_as":"Fürstenwalde (Spree) - Seelow - Wriezen railway.","status":"Closed to passengers 1966-1969; last freight Dolgelin-Seelow ended 10 Jan 1994"};

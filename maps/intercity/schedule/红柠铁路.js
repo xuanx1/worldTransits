@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"红柠铁路","identified_as":"红柠铁路 (Hongning Railway), Shenmu (神木) – Shenmuxi (神木西), 42.2 km: Shenmu – Ningtiaota coal line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

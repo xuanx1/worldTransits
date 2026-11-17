@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"aleppo-homs","identified_as":"CFS main line Aleppo–Hama–Homs.","status":"No regular passenger service (network paralysed since 2012; Aleppo–Hama test runs from August 2025)"};

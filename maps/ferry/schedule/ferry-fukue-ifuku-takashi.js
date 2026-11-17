@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-fukue-ifuku-takashi","identified_as":"Kiguchi Kisen Kabashima route Fukue – (Honkama) – Ifuki.","operator":"Kiguchi Kisen (木口汽船)","frequency":{"source":"https://ja.wikipedia.org/wiki/木口汽船","publisher":"ja.wikipedia.org (transcribed)","date":"retrieved 2026-11-16","official":false,"text":"3 round trips a day","trains_per_day":3}};

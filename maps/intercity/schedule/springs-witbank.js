@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"springs-witbank","identified_as":"Springs – Delmas – Ogies – Witbank (eMalahleni) coal line.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

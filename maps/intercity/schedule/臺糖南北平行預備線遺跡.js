@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"臺糖南北平行預備線遺跡","identified_as":"Remains of the Taisugar North–South Parallel Reserve/Preparatory Line (南北平行預備線), the Yuanlin-area section now usually called the Yuanlin Line.","status":"Abandoned: passenger service ended in 1975 and freight in 1997; parts of the right of way have been converted to bikeways (Yuanlin Sugar Railway Trail)."};

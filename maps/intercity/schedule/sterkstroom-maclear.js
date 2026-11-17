@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sterkstroom-maclear","identified_as":"Sterkstroom – Indwe – Elliot – Maclear branch line (Eastern Cape)","status":"Closed 2001"};

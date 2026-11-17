@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"西南环进港线","identified_as":"西南环进港线 (Xinanhuanjingang Line), Dongdagu (东大沽) – Xinbeidagang (新北大港), 23.3 km: Tianjin port access line (south-west ring) Dongdagu – Xinbeidagang","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

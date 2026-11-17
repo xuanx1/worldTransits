@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-paimpol-a-lannion-via-treguier","identified_as":"Former metre-gauge Chemins de fer des Côtes-du-Nord route Paimpol – Tréguier – (Perros-Guirec) – Lannion.","status":"Closed 1949–1950 (Tréguier–Perros/Lannion 15 Apr 1949, Tréguier–Paimpol 31 Mar 1950); tracks lifted 1957"};

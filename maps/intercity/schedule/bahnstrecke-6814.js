@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-6814","identified_as":"Zeitz - Altenburg railway (DB 6814).","status":"Passenger service ended end of 2002; Altenburg-Meuselwitz closed Dec 2007"};

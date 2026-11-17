@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"丰洛线","identified_as":"丰洛线 Fengcheng – Luoshi line (Jiangxi).","status":"Freight only"};

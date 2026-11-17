@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"brandt-train","identified_as":"Unclear OSM route ending at Aleppo (from Umm al-Rujaym); some CFS service into Aleppo.","status":"No regular passenger service (network paralysed since 2012)"};

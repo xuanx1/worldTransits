@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kaduna-zarai-kano-railway","identified_as":"Kaduna–Kano standard gauge railway (Lagos–Kano SGR extension via Jaji and Zaria), under construction.","status":"Not yet open: Jaji–Kano section due to be inaugurated 3 December 2026"};

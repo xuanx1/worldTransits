@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"hepu-zhanjiang-highspeed-railway","identified_as":"合湛高铁 Hepu–Zhanjiang high-speed railway (合浦–湛江西), under construction.","status":"Under construction"};

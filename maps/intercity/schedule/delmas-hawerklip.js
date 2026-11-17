@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"delmas-hawerklip","identified_as":"Delmas – Silica – Hawerklip branch, Mpumalanga.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

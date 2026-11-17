@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nigel","identified_as":"Springs – Dunnottar – Nigel branch (former Metrorail Springs – Nigel service)","status":"No passenger service (no Metrorail trains since 2020; weaker evidence, see notes)"};

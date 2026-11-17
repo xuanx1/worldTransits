@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-lapeyrouse-a-volvic","identified_as":"Standard-gauge line Lapeyrouse – Saint-Éloy-les-Mines – Volvic (Puy-de-Dôme/Allier).","status":"Rail service suspended since 8 Dec 2007, services transferred to road; vélorail on Lapeyrouse–Saint-Éloy; greenway planned"};

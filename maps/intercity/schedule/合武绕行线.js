@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"合武绕行线","identified_as":"合武绕行线 (Hewuraoxing Line), Hefeibei (合肥北) – Chang'anji (长安集), 23.8 km: Hefei hub bypass Hefei North – Hefei West – Chang'anji","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

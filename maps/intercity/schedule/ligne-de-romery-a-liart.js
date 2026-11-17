@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-romery-a-liart","identified_as":"Metre-gauge CFD (Aisne, later CFD-NE) secondary line Romery – Vervins – Brunehamel – Liart (Aisne/Ardennes).","status":"Closed 1935 (Vervins–Liart) and 1951 (Romery–Vervins); declassified and track lifted, line has disappeared"};

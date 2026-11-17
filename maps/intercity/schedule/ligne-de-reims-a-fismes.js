@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-reims-a-fismes","identified_as":"Metre-gauge Reims–Villedommange–Fismes line of the Chemins de fer de la Banlieue de Reims (CBR), opened 20 March 1903.","status":"Closed to passengers since 20 May 1931; freight ended by 1939/1947; network abandoned and declassified (1948)"};

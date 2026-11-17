@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kaapmuiden-soekmekaar","identified_as":"Selati line Kaapmuiden – Hazyview – Hoedspruit – Tzaneen – Soekmekaar/Groenbult (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

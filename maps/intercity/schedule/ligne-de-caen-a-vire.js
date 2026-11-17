@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-caen-a-vire","identified_as":"Former standard-gauge line Caen – Louvigny – Vire (Calvados).","status":"Closed to passengers since 1 March 1938; declassified and track lifted; a 4.4 km section near Vire is a greenway"};

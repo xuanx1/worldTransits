@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"甘泉线","identified_as":"甘泉铁路 Ganqimaodu–Baotou (Wanshuiquan South) railway.","status":"Freight railway"};

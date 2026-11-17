@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"红淖线","identified_as":"红淖铁路 Hongliuhe–Naomaohu railway (Xinjiang).","status":"Freight railway (opened 3 Jan 2019)"};

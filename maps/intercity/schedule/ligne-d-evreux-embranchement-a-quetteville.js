@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-evreux-embranchement-a-quetteville","identified_as":"Former standard-gauge line Évreux – Le Neubourg – Glos-Montfort – Quetteville (Eure/Calvados).","status":"Closed to passengers since 1969; Évreux–Glos-Montfort declassified, partly a greenway; Glos-Montfort–Quetteville section retained but closed (freight only per infobox)"};

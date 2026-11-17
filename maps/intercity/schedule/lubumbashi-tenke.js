@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lubumbashi-tenke","identified_as":"SNCC Lubumbashi–Likasi–Tenke section of the Katanga main line, used by all long-distance SNCC trains from Lubumbashi.","status":"No regular timetable: occasional SNCC passenger trains (monthly or less, 2022-2023)"};

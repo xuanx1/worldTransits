@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-blois-ouzouer-le-marche-orleans-moulin-de-l-hopital","identified_as":"Blois – Ouzouer-le-Marché – Orléans (Moulin de l'Hôpital) line of the Compagnie des tramways de Loir-et-Cher (TLC), a secondary tramway/light railway.","status":"Closed 1934 (whole TLC network wound up January–July 1934)"};

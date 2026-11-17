@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-nagasaki-fukue","identified_as":"Kyushu Shosen Nagasaki–Fukue (Goto) ferry and jetfoil.","operator":"Kyushu Shosen","journey_time":{"source":"https://www.kyusho.co.jp/routes","publisher":"www.kyusho.co.jp (transcribed)","date":"accessed 15 Nov 2026","official":false,"minutes":190,"from":"Nagasaki","to":"Fukue","train":"Kyushu Shosen"}};

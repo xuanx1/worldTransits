@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-283-jelenia-gora-zagan","identified_as":"PKP PLK line 283 Jelenia Góra – Lwówek Śląski – Żagań.","status":"No scheduled passenger service since 11 Dec 2016; field works to revitalise Jelenia Góra – Lwówek Śląski started in Feb 2026. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_283 (pl.wikipedia, read 16 Nov 2026)"};

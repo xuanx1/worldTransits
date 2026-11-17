@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"盐宜高速线","identified_as":"The Yancheng-Taizhou-Wuxi-Changzhou-Yixing railway (盐泰锡常宜铁路, 'Yanyi' HSR), about 311 km from Yancheng to Yixing across the Yangtze. It is under construction.","status":"Not open yet: under construction, with opening planned for June 2030."};

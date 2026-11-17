@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"estrada-de-ferro-noroeste-do-brasil","identified_as":"Former Estrada de Ferro Noroeste do Brasil (Bauru – Campo Grande – Corumbá), now Rumo's Malha Oeste.","status":"No regular passenger service (Malha Oeste railway not operating since end of 2025)"};

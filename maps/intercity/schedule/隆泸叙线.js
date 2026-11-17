@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"隆泸叙线","identified_as":"隆泸叙铁路 Longchang – Luzhou – Xuyong railway (upgraded 隆黄铁路 section).","status":"Freight only (reopened 25 Dec 2025 for freight)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-el-valdiviano","identified_as":"The Valdivia–Antilhue branch, used only by occasional heritage tourist trains (formerly 'El Valdiviano'); EFE ran a limited tourist season in February 2026.","status":"No regular passenger service; tourist trains only in February 2026"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-ars-a-amberieu","identified_as":"Ars – Villars-les-Dombes – Ambérieu-en-Bugey line of the Compagnie des Tramways de l'Ain (TA), metre-gauge network.","status":"Closed 1 December 1937, replaced by RDTA buses; the whole TA network closed by 1954"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"安康枢纽货车疏解线","identified_as":"安康枢纽货车疏解线 (Ankangshuniuhuocheshujie Line), Ankang (安康) – Ankangdong (安康东), 16.4 km: Ankang hub freight-train relief line (货车疏解线 = freight-train relief line)","status":"Freight only (no passenger trains)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zixu-railway","identified_as":"Zixu railway (资许铁路), Xujiadong (Jingguang railway) – Sandu (Zixing), coal branch","status":"Freight only (no passenger trains)"};

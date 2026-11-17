@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-canaples-a-longroy-gamaches","identified_as":"Standard-gauge cross-country line Canaples–Longpré-les-Corps-Saints–Oisemont–Longroy-Gamaches (Somme), ex-Compagnie du Nord.","status":"Closed to passengers since 1938 (briefly reopened 1941–44); entirely lifted, out of service; part now a greenway/footpaths"};

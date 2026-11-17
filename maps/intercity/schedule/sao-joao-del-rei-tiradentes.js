@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sao-joao-del-rei-tiradentes","identified_as":"Maria Fumaça São João del-Rei – Tiradentes (12 km, 76 cm gauge) heritage steam train; operated by VLI/FCA until 31 Aug 2026, then a heritage-preservation entity under the two municipalities.","status":"Heritage/tourist train"};

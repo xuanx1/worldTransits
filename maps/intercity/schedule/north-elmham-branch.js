@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"north-elmham-branch","identified_as":"Wymondham - Dereham - North Elmham, operated by the Mid-Norfolk Railway (heritage).","status":"Heritage railway, selected days; BR passenger service ended 1964-1969"};

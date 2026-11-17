@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"irt-white-plains-road-line","identified_as":"NYC Subway IRT White Plains Road Line (Bronx), served by the 2 and 5 trains.","status":"Not a railway service of its own: NYC Subway rapid-transit line (2/5)."};

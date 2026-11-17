@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-katasoba-nagashima-pier","identified_as":"Tenchou Ferry Shoura – Katasoba section (Amakusa).","operator":"Tenchou Ferry (天長フェリー)","frequency":{"source":"https://ja.wikipedia.org/wiki/天長フェリー","publisher":"ja.wikipedia.org (transcribed)","date":"Feb 2024","official":false,"text":"3 round trips a day","trains_per_day":3}};

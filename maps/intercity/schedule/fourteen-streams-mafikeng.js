@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fourteen-streams-mafikeng","identified_as":"Fourteen Streams – Taung – Vryburg – Mahikeng line.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

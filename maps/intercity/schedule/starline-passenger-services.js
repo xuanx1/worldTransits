@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"starline-passenger-services","identified_as":"TransNamib StarLine passenger services (network route ending at Windhoek)","status":"Passenger service suspended since early 2021 (all TransNamib StarLine trains); freight only"};

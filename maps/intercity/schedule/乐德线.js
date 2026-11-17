@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"乐德线","identified_as":"乐德铁路 Leping–Dexing copper-ore railway.","status":"Freight (copper ore) line"};

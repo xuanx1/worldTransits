@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"6292-6290-kramators-k-kharkiv","identified_as":"Suburban trains 6292/6290 Kramatorsk – Kharkiv via Sloviansk, Barvinkove and Lozova.","status":"Suspended since Nov 2025 (security): trains towards Kramatorsk end at Husarivka or Barvinkove; nothing listed between Lozova and Sloviansk"};

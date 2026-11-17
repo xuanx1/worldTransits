@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"荆沙线","identified_as":"荆沙铁路 Jingmen South–Shashi South line (Hubei).","status":"No passenger service found: both end stations are freight-only"};

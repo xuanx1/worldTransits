@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-stadthagen-stolzenau","identified_as":"Stadthagen - Loccum - Leese-Stolzenau railway.","status":"Closed: passenger service ended 6 Jun 1961, freight 1969-1981, tracks lifted"};

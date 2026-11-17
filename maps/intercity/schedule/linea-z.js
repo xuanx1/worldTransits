@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linea-z","identified_as":"Tren Interoceánico Línea Z (Salina Cruz – Coatzacoalcos) across the Isthmus of Tehuantepec, operated by Ferrocarril del Istmo de Tehuantepec / CIIT.","status":"Passenger service suspended since the 28 Dec 2025 derailment near Nizanda; freight continues"};

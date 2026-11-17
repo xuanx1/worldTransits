@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"chisinau-bender-railway-line","identified_as":"Chișinău–Bender (Tighina) line towards Transnistria/Odesa.","status":"Passenger service suspended since January 2025"};

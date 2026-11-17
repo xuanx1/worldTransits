@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-piombino-cavo","identified_as":"Toremar hydrofoil Piombino - Cavo (Elba).","operator":"Toremar","journey_time":{"source":"https://www.toremar.it/it/tratte/orari-tariffe.html","publisher":"www.toremar.it (transcribed)","date":"Toremar routes page as of 15 Nov 2026","official":false,"minutes":20,"from":"Piombino","to":"Cavo","train":"Toremar"}};

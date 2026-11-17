@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-laboe-schilksee","identified_as":"SFK Förde-Fährlinie F1 summer extension, leg Laboe - Schilksee.","operator":"Schlepp- und Fährgesellschaft Kiel mbH (SFK)"};

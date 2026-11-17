@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-armentieres-a-arques","identified_as":"Standard-gauge line Armentières–Merville–Berguette–Aire-sur-la-Lys–Arques (Nord/Pas-de-Calais).","status":"Freight only (remaining sections), no passenger service; parts declassified 1972–1994; Armentières–Merville TER reopening project suspended"};

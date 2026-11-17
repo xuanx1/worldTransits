@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pajaro-valley-consolidated-railroad","identified_as":"Pajaro Valley Consolidated Railroad, narrow-gauge sugar-beet railroad Watsonville - Moss Landing - Salinas area.","status":"Closed 1929 (passenger service ended 1925); line scrapped."};

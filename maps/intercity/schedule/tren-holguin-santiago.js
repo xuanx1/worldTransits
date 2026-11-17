@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tren-holguin-santiago","identified_as":"Interprovincial train Holguín – Santiago de Cuba.","status":"Suspended (Holguín province interprovincial and local trains suspended, Apr 2026)"};

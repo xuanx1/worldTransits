@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linea-de-la-trocha","identified_as":"Morón – Ciego de Ávila – Júcaro 'Trocha' railway; its Ciego de Ávila – Júcaro section carries only provincial local trains.","status":"Suspended since early 2026 (all Ciego de Ávila rail routes halted for fuel in Mar 2026; only Morón – Ciego and Morón – Camagüey reported restored in Sep 2026)"};

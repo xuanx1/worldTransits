@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-hong-kong-west-kowloon-aomen","identified_as":"Hong Kong China Ferry Terminal (Kowloon) - Macau Outer Harbour ferry.","operator":"(no current operator)"};

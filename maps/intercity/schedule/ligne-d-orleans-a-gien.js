@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-d-orleans-a-gien","identified_as":"Standard-gauge line Orléans–Châteauneuf-sur-Loire–Gien along the Loire (Loiret).","status":"Closed to passengers since 15 May 1939; freight on end sections, middle section lifted/unused; Orléans–Châteauneuf passenger reopening only a project"};

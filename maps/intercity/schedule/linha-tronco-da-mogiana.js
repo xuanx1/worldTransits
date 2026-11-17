@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linha-tronco-da-mogiana","identified_as":"Mogiana trunk (Tambaú – Bento Quirino variant) Casa Branca – São Simão – Ribeirão Preto (SP), FCA.","status":"Freight only (passenger trains ended end of 1997)"};

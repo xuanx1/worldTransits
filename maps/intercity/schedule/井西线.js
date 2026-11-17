@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"井西线","identified_as":"井西线 (Jingxi Line), Chongqingxi (重庆西) – Jingkou (井口), 18.0 km: Chongqing hub line Chongqing West – Geleshan – Jingkou","status":"Connecting/bypass line with no passenger stations of its own: no passenger calls (12306); any passenger trains on it pass without stopping"};

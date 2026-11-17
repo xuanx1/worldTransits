@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-valleroy-moineville-a-villerupt-micheville","identified_as":"Standard-gauge line Valleroy-Moineville–Briey–Audun-le-Roman–Villerupt-Micheville (Meurthe-et-Moselle).","status":"Closed to passengers (1939 / 1973); declassified Valleroy–Tucquegnieux, closed to all traffic beyond (2016); greenway projected"};

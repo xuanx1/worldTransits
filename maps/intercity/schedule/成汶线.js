@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"成汶线","identified_as":"成汶铁路 (青灌铁路) Qingbaijiang–Pengzhou–Puyang branch.","status":"Mainly freight; the 蒲阳 end handles freight only"};

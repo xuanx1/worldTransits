@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kup-ians-k-popasna","identified_as":"Kupiansk – Svatove – Kreminna – Rubizhne – Lysychansk – Popasna line (Donetsk railway), front line / occupied Luhansk oblast.","status":"No Ukrzaliznytsia passenger service (Kupiansk not served since Mar 2026 cut-back; Svatove – Popasna under occupation)"};

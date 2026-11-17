@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-saint-meen-a-loudeac","identified_as":"Metre-gauge Réseau Breton line (La Brohinière/)Saint-Méen–Loudéac (Ille-et-Vilaine/Côtes-d'Armor).","status":"Closed to passengers since 4 October 1953, freight 1967; declassified, now a greenway"};

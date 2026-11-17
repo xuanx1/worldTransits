@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-port-sainte-marie-a-riscle-troncon-de-condom-a-eauze","identified_as":"Condom – Eauze section of the standard-gauge line Port-Sainte-Marie – Condom – Eauze – Riscle (Lot-et-Garonne/Gers), ex-Midi, SNCF.","status":"Closed to passengers since 1940; Condom–Eauze declassified (1975/1999) and now a 33 km voie verte"};

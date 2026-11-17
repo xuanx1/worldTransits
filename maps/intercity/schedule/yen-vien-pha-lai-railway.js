@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"yen-vien-pha-lai-railway","identified_as":"Yên Viên–Phả Lại line, formerly used by the Hanoi (Yen Vien)–Halong local train 51501/51502.","status":"No regular passenger service: the Yen Vien–Halong train was cancelled and did not resume after the pandemic (seat61, 2026)"};

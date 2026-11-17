@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"newark-branch","identified_as":"Erie Newark Branch (Paterson/Clifton - Newark).","status":"No passenger service since 30 Sep / Oct 1966; a short section still has freight (one customer in Clifton)."};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"开阳线","identified_as":"开阳线 (Kaiyang Line), Nanmuping (楠木坪) – Xiaozhaiba (小寨坝), 29.1 km: Xiaozhaiba – Nanmuping (Kaiyang phosphate) branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

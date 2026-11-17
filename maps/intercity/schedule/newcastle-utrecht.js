@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"newcastle-utrecht","identified_as":"Newcastle – Utrecht branch, KwaZulu-Natal.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

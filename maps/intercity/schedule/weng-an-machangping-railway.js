@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"weng-an-machangping-railway","identified_as":"瓮马铁路 Weng'an–Machangping railway (阁老坝南–都匀北).","status":"Freight only"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ligne-de-bologne-a-pagny-sur-meuse","identified_as":"Standard-gauge line Bologne – Neufchâteau – Pagny-sur-Meuse (Haute-Marne/Vosges/Meuse), SNCF Réseau.","status":"Closed to passengers 1969–1970; freight only on Saint-Germain-sur-Meuse–Pagny; Bologne–Neufchâteau neutralised/unused; cyclo-draisine (tourist) near Chantraines on Bologne–Andelot"};

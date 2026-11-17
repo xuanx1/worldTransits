@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tsumeb-oshikango","identified_as":"TransNamib northern line Tsumeb – Ondangwa – Oshikango; StarLine formerly ran Tsumeb – Ondangwa","status":"Passenger service suspended since early 2021 (all TransNamib StarLine trains); freight only"};

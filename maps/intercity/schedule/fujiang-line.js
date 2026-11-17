@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"fujiang-line","identified_as":"抚江铁路 Fuzhou North–Jiangbiancun line (Jiangxi).","status":"Freight only (passenger service withdrawn)"};

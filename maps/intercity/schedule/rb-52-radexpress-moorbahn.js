@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"rb-52-radexpress-moorbahn","identified_as":"Radexpress 'Moorbahn' Aulendorf - Bad Waldsee - Bad Wurzach (Roßbergbahn), seasonal leisure train.","status":"Seasonal leisure train (Sundays/holidays in summer) since July 2010"};

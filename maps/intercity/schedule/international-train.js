@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"international-train","identified_as":"Jordan Hejaz Railway Mafraq–Nasib section of the Amman–Damascus international train.","status":"No passenger service since 2006"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"广州东北货车外绕线","identified_as":"Guangshi railway (广石铁路, project name 广州铁路枢纽东北货车外绕线), Guangzhou North – Changgang – Zengcheng West – Shitan, Guangzhou bypass","status":"No passenger calls: long-distance trains Jingguang line ↔ Shenzhen/Dongguan/Huizhou run over it without stopping; Zengcheng West has no passenger service"};

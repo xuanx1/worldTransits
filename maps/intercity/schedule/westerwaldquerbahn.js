@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"westerwaldquerbahn","identified_as":"Westerwaldquerbahn Herborn - Westerburg - Montabaur.","status":"Closed: passenger service ended May 1981; tracks lifted 1985-1990"};

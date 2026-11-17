@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"平舞铁路","identified_as":"Pingdingshan–Wugang railway (平舞铁路), Henan, industrial line.","status":"Freight only (passenger service ended 22 Aug 2017)"};

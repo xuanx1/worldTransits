@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kovel-khatsislau","identified_as":"Cross-border Kovel' – Khotyslav line (Ukraine – Belarus).","status":"Cross-border service suspended since 2022"};

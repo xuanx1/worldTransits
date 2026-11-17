@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-angermunde-bad-freienwalde","identified_as":"Angermünde - Bad Freienwalde (Oder) railway.","status":"Closed: passenger service ended 28 May 1995, formally closed 30 Nov 1997"};

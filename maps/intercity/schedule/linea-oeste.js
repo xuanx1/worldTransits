@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linea-oeste","identified_as":"Línea Oeste (western main line) La Habana – Artemisa – Los Palacios – Pinar del Río – Guane.","status":"No regular service: the La Habana – Pinar del Río train has not been reported running since the Feb 2026 national suspension; Pinar del Río – Guane ran only as a summer weekend 'tren playero' (Aug 2026) (provisional)"};

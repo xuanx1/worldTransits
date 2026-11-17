@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-macao-taipa-guishan-pier","identified_as":"Macau Taipa - Zhuhai Guishan Island ferry (Yuet Tung).","operator":"(no current operator)"};

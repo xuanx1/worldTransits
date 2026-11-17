@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"浦东线","identified_as":"Pudong railway (浦东铁路), Shanghai; Situan–Jinshan Industrial Zone section.","status":"Freight only (passenger trains suspended since 27 Aug 2015)"};

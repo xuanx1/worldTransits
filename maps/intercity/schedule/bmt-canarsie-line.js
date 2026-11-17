@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bmt-canarsie-line","identified_as":"NYC Subway BMT Canarsie Line, served by the L train.","status":"Not a railway service of its own: NYC Subway rapid-transit line (L train)."};

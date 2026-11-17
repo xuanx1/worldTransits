@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"玉门南线","identified_as":"玉门南线 (Yumennan Line), Yumennan (玉门南) – Yumendong (玉门东), 30.8 km: Yumen South – Yumen East line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

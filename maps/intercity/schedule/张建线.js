@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"张建线","identified_as":"张建线 (Zhangjian Line), Jianshan (建山) – 董家, 35.0 km: Jianshan – Dongjia line","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

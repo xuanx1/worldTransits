@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"tororo-pakwach","identified_as":"URC northern metre-gauge line Tororo – Mbale – Soroti – Gulu – Pakwach","status":"No passenger service; line under rehabilitation (Tororo – Gulu completion pushed to October 2026)"};

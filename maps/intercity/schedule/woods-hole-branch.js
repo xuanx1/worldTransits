@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"woods-hole-branch","identified_as":"Former Woods Hole Branch, now Mass Coastal's Falmouth Secondary (Buzzards Bay - North Falmouth), used by trash trains and by Cape Cod Central tourist trains.","status":"Freight (Mass Coastal waste trains) plus seasonal tourist trains (Cape Cod Central); no regular passenger service."};

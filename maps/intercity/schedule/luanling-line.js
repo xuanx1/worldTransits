@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"luanling-line","identified_as":"滦菱线 (Luanling Line), Lingjiaoshan (菱角山) – Luanxian (滦县), 13.1 km: Luanxian – Lingjiaoshan connecting line (Tangshan area)","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

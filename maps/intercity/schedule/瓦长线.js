@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"瓦长线","identified_as":"瓦长线 (Wazhang Line), 长兴岛港 – Wafangdian (瓦房店), 79.7 km: Wafangdian – Changxingdao (port) branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

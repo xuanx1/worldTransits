@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferry-winsen-aller-winsen-aller-pier","identified_as":"Section of the Aller river boat line (OSM \"Aller\") between Celle and Winsen (Aller), served by M.S. \"Wappen von Celle\".","operator":"Celler Schifffahrt GbR (M.S. Wappen von Celle)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ferrobus-amancio-haiti","identified_as":"Local ferrobús Amancio – Haití (Las Tunas province).","status":"Suspended from 16 Nov 2026 (all Las Tunas provincial local trains, fuel shortage)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"de-aar-ariamsvlei","identified_as":"De Aar – Prieska – Upington – Nakop/Ariamsvlei (Namibia border) line (Transnet).","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

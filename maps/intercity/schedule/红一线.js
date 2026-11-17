@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"红一线","identified_as":"红一线 (Hongyi Line), Yiliping (一里坪) – Hongliu (红柳), 127.3 km: Hongliu – Yiliping (Qaidam lithium/potash) branch","status":"No scheduled passenger trains (none in the 12306 timetable for 18 Nov 2026)"};

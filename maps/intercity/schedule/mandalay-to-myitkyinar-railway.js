@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"mandalay-to-myitkyinar-railway","identified_as":"Mandalay–Myitkyina line of Myanma Railways.","status":"Mohnyin (Monghnyin)–Myitkyina section closed since 2021; repairs under way and restart announced 'within 3 months' (April 2026); no confirmed current through service"};

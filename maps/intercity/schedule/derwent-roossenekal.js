@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"derwent-roossenekal","identified_as":"Derwent – Roossenekal branch, Mpumalanga.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

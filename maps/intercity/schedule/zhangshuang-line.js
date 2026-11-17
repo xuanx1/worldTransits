@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"zhangshuang-line","identified_as":"张双铁路 Zhangbaiwan–Shuangfengsi (Chengde) industrial line.","status":"Freight line (承钢 / 滦电 traffic); 双峰寺 is a freight station"};

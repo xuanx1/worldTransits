@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"le-p-tit-train-de-saint-trojan","identified_as":"Le P'tit Train de Saint-Trojan, 60 cm gauge tourist railway Saint-Trojan-les-Bains – Gatseau – Maumusson (Île d'Oléron), created 1963.","status":"Heritage/tourist train (April–October), not a regular service"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"kreisbahn-schonermark-damme","identified_as":"Kreisbahn Schönermark - Damme (Uckermark).","status":"Closed June 1997"};

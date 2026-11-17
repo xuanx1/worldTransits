@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bahnstrecke-greifswald-grimmen-tribsees","identified_as":"Greifswald - Grimmen - Tribsees railway (GGE).","status":"Largely closed; no regular passenger service"};

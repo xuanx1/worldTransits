@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"revaca-cainari-railway-line","identified_as":"Revaca–Căinari link (southern route from Chișinău towards Căușeni/Basarabeasca that bypasses Bender).","status":"No regular passenger service (Chișinău–Revaca and Chișinău–Basarabeasca trains suspended)"};

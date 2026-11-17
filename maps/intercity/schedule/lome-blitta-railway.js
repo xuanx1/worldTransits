@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"lome-blitta-railway","identified_as":"Lomé – Atakpamé – Blitta metre-gauge line (SNCT).","status":"No passenger service (passenger trains ceased 1999)"};

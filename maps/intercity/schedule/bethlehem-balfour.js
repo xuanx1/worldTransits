@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"bethlehem-balfour","identified_as":"Bethlehem – Reitz – Villiers – Balfour North line.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

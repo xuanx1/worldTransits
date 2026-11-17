@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"nueva-terminal-25-de-agosto","identified_as":"Former AFE suburban service Montevideo (Nueva Terminal) – 25 de Agosto.","status":"No passenger service: AFE's only passenger train in 2026 is Tacuarembó–Rivera"};

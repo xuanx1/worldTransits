@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linha-livramento-cacequi","identified_as":"VFRGS Cacequi – Rosário do Sul – Santana do Livramento (– Rivera) line (RS), Rumo.","status":"Freight only, little traffic (passenger/mixed trains ended by 1988)"};

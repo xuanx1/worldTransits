@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"ramal-cumbre","identified_as":"Placetas – Cumbre – Fomento – Sopimpa branch, Villa Clara / Sancti Spíritus.","status":"Suspended: all local and interprovincial passenger trains in Cuba suspended from Feb 2026 for lack of fuel; no restart of this route reported (provisional)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"哈罗线","identified_as":"哈罗铁路 Hami–Luozhong (Lop Nur potash) railway.","status":"No public passenger service; staff commuter trains 57371–57376 run on six days a month"};

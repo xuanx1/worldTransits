@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"main-line-colombo-kandy-badulla","identified_as":"Main Line Colombo–Kandy (Peradeniya)–Nanu Oya–Badulla.","status":"Through Colombo–Kandy–Badulla service not restored after Cyclone Ditwah (Nov 2025): Colombo–Peradeniya/Gampola resumed 2 Oct 2026; Nanu Oya–Badulla resumed 20 Jun 2026; the section between has not been reported reopened (as of Oct 2026)"};

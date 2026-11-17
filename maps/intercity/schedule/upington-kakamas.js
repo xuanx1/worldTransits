@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"upington-kakamas","identified_as":"Upington – Keimoes – Kakamas branch, Northern Cape.","status":"No passenger service (freight or disused line; no Metrorail or long-distance passenger trains run on it)"};

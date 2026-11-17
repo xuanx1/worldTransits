@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-236-wagrowiec-bzowo-goraj","identified_as":"PKP PLK line 236 Wągrowiec – Rogoźno – Bzowo Goraj.","status":"No passenger service since 1 Mar 2012 (Wągrowiec – Rogoźno); restoration planned for 2027. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_236 (pl.wikipedia, read 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"linia-kolejowa-nr-375-miedzyrzecz-toporow","identified_as":"PKP PLK line 375 Międzyrzecz – Toporów.","status":"No passenger service: suspended on the whole line 1 Jan 1989 (brief 1993–94 revival Sieniawa – Toporów); used by freight. Source: https://pl.wikipedia.org/wiki/Linia_kolejowa_nr_375 (pl.wikipedia, read 16 Nov 2026)"};

@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"pretoria-north-ellisras","identified_as":"Pretoria North – De Wildt – Brits – Rustenburg – Northam – Thabazimbi (– Lephalale/Ellisras) line (Transnet).","status":"No passenger service beyond De Wildt (freight); the Pretoria North – De Wildt section is served by Metrorail (see slugs de-wildt, pretoria-de-wildt)"};

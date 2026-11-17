@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"嘉策线","identified_as":"Jiayuguan–Ceke railway (嘉策铁路), coal line.","status":"Freight only"};

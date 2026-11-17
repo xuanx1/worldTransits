@@ -1,0 +1,1 @@
+window.__SCHEDULE={"slug":"sibi-junction-quetta-chaman","identified_as":"Pakistan Railways Sibi–Bolan Pass–Quetta–Chaman line (Jaffar Express and Bolan Mail to Quetta; Chaman Passenger Quetta–Chaman).","status":"Intermittent: passenger trains repeatedly suspended in 2026 for security and track work"};
